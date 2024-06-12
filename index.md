@@ -17,7 +17,7 @@ sections:
         - title: Navi
           description: Find official documents here
           url: https://navi.defence.gov.sg
-        - title: Submit a feedback
+        - title: Submit feedback
           description: Let us know your thoughts
           url: https://go.gov.sg/mindefempfeedback
       variant: center
