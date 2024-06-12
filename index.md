@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+title: Workbuddy
+description: MINDEF/SAF Employee landing page
+image: /images/MINDEF_crest.jpg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
