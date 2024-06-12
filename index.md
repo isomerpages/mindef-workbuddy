@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Workbuddy
+      subtitle: For MINDEF/SAF Employees
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
@@ -22,6 +22,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      variant: center
   - infobar:
       title: Infobar title
       subtitle: Subtitle
