@@ -11,20 +11,14 @@ sections:
       subtitle: For MINDEF/SAF Employees
       background: /images/hero-banner.png
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
+        - title: BOOK
+          description: Book a resource here!
+          url: https://book.defence.gov.sg
+        - title: Navi
+          description: GOMs/Directives/Circulars
+          url: https://navi.defence.gov.sg
+        - title: Submit a feedback
           description: Page A is important too
-          url: /privacy/
+          url: https://go.gov.sg/mindefempfeedback
       variant: center
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
