@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h1>Submit feedback</h1>
-<p></p>
+<p>Please refer to our compiled list of common Employee FAQs here - <a href="/faq/" rel="noopener noreferrer nofollow" target="_blank">FAQ Page</a>
+</p>
 <p></p>
 <p>If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/66416e915e0f4dd9733752a3" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="iframe-wrapper">
