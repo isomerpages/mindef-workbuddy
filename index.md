@@ -10,7 +10,6 @@ sections:
       title: Workbuddy
       subtitle: For MINDEF/SAF Employees
       background: /images/hero-banner.png
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
