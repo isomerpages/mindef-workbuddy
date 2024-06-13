@@ -7,6 +7,7 @@ description: ""
 <h1>Submit feedback</h1>
 <p>Please refer to our compiled list of common Employee FAQs here - <a href="/faq/" rel="noopener noreferrer nofollow" target="_blank">FAQ Page</a>
 </p>
+<p>Or let me know.</p>
 <p></p>
 <p>If you would like to submit a feedback, kindly fill in the form below.</p>
 <p></p>
