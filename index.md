@@ -1,32 +1,24 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Workbuddy
+description: MINDEF/SAF Employee landing page
+image: /images/MINDEF_crest.jpg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Workbuddy
+      subtitle: For MINDEF/SAF Employees
+      background: /images/hero-banner.png
+      key_highlights:
+        - title: BOOK
+          description: Book a resource here
+          url: https://book.defence.gov.sg
+        - title: Navi
+          description: Find official documents here
+          url: https://navi.defence.gov.sg
+        - title: Submit feedback
+          description: Let us know your thoughts
+          url: https://go.gov.sg/mindefempfeedback
+      variant: center
 ---
-
