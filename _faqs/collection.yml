@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - FAQs.md
-      - Transport/shuttlebus.md
       - Transport/.keep
-      - General/General.md
+      - Transport/shuttlebus.md
       - General/.keep
+      - General/General.md
