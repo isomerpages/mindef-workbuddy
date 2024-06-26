@@ -2,6 +2,7 @@ collections:
   faqs:
     output: true
     order:
+      - FAQs.md
       - Transport/shuttlebus.md
       - Transport/.keep
       - General/.keep
