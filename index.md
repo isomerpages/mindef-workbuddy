@@ -4,7 +4,8 @@ title: Workbuddy
 description: MINDEF/SAF Employee landing page
 image: /images/MINDEF_crest.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Civil servants to receive 0.45-month mid-year bonus. Junior
+  officers to get an additional one-time payment of up to $250.
 sections:
   - hero:
       title: Workbuddy
