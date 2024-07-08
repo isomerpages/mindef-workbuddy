@@ -2,15 +2,15 @@ title: Workbuddy
 url: https://employees.defence.gov.sg
 favicon: /images/SDD_logo.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#cfd8dd"
+  secondary-color: "#6e7b38"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#32402a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#8eb4d4"
     - title: media-color-three
-      color: "#00838f"
+      color: "#9e9984"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
