@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Workbuddy
       subtitle: For MINDEF/SAF Employees
-      background: /images/hero-banner.png
+      background: /images/gbk_base.png
       key_highlights:
         - title: BOOK
           description: Book a resource here
