@@ -3,7 +3,7 @@ url: https://employees.defence.gov.sg
 favicon: /images/SDD_logo.png
 colors:
   primary-color: "#32402a"
-  secondary-color: "#8eb4d4"
+  secondary-color: "#628eaa"
   media-colors:
     - title: media-color-one
       color: "#6e7b38"
