@@ -4,8 +4,7 @@ title: Workbuddy
 description: MINDEF/SAF Employee landing page
 image: /images/MINDEF_crest.jpg
 permalink: /
-notification: Civil servants to receive 0.45-month mid-year bonus. Junior
-  officers to get an additional one-time payment of up to $250.
+notification: Eligible civil servants to get annual S$500 'well-being' benefit from October
 sections:
   - hero:
       title: Workbuddy
