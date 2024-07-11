@@ -26,7 +26,7 @@ for developmental purposes. It will be deployed from July 2024. <a href="https:/
 </p>
 </li>
 <li>
-<p><strong>&nbsp;Security Requirements to Facilitate Digital Innovation in MINDEF/SAF </strong>
+<p><strong>&nbsp;Security Requirements to Facilitate Digital Innovation in MINDEF/SAF</strong>
 </p>
 </li>
 <li>
@@ -46,7 +46,8 @@ for developmental purposes. It will be deployed from July 2024. <a href="https:/
 </p>
 </li>
 </ul>
-<p></p>
+<p><a href="/files/Eligible_civil_servants_to_get_annual_S_500__well_being__benefit_from_October___CNA.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
