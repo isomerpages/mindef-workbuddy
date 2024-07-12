@@ -229,4 +229,39 @@ third_nav_title: Transport
 </tr>
 </tbody>
 </table>
+<h3>Evening shuttle bus</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Harbourfront MRT</p>
+<p>(Exit D Taxi Stand)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Depot Road Camp</p>
+<p>(Pickup/drop-off point)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1700hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1710hrs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1830hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1840hrs</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
