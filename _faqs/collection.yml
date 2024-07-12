@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - FAQs.md
+      - M Works/.keep
+      - M Works/M works locations.md
       - M Works/Depot Road Camp (Level 7).md
       - M Works/Bukit Merah Central.md
       - M Works/Tampines.md
-      - M Works/.keep
-      - M Works/M works locations.md
       - Transport/.keep
       - Transport/Shuttle buses.md
       - Transport/Depot Road Camp shuttle buses.md
