@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - FAQs.md
+      - M Works/Tampines.md
       - M Works/.keep
       - M Works/M works locations.md
       - Transport/.keep
