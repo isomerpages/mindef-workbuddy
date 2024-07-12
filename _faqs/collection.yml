@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - FAQs.md
-      - General/.keep
-      - General/General.md
+      - M Works/.keep
+      - M Works/General.md
       - Transport/.keep
       - Transport/Shuttle buses.md
       - Transport/Depot Road Camp shuttle buses.md
