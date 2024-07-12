@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Transport
 ---
-<p></p>
 <h2>Depot road camp shuttle bus timings</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Depot Road Camp Shuttle Bus Timings" src="/images/Depot_Road_Camp_Shuttle_Bus_Timings.png">
