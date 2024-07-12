@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - FAQs.md
+      - M Works/Depot Road Camp (Level 7).md
       - M Works/Bukit Merah Central.md
       - M Works/Tampines.md
       - M Works/.keep
