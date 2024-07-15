@@ -24,8 +24,4 @@ sections:
           description: Let us know your thoughts
           url: https://go.gov.sg/mindefempfeedback
       variant: center
-  - resources:
-      title: Announcements
-      id: resources
-      button: more
 ---
