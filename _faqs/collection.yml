@@ -2,12 +2,12 @@ collections:
   faqs:
     output: true
     order:
+      - FAQs.md
       - General/.keep
       - General/M works locations.md
       - General/Bukit Merah Central.md
       - General/Depot Road Camp (Level 7).md
       - General/Tampines.md
-      - FAQs.md
       - Transport/.keep
       - Transport/Shuttle buses.md
       - Transport/Depot Road Camp shuttle buses.md
