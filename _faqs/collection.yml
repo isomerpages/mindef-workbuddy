@@ -2,7 +2,7 @@ collections:
   faqs:
     output: true
     order:
-      - FAQs.md
+      - Overview.md
       - General/.keep
       - General/M works locations.md
       - Transport/.keep
