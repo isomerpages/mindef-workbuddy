@@ -4,7 +4,7 @@ title: Workbuddy
 description: MINDEF/SAF Employee landing page
 image: /images/SDD_logo.png
 permalink: /
-notification: Check out enhancements to your Medical and Dental Benefits on M365 or OSN
+notification: Check out enhancements to your Medical and Dental Benefits on M365 or OSN!
 sections:
   - hero:
       title: Workbuddy
