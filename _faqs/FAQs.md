@@ -19,6 +19,6 @@ description: ""
 </a>
 </div>
 <h3>Manpower related</h3>
-<p>asdfasdf</p>
+<p></p>
 <h3>Finance related</h3>
 <p></p>
