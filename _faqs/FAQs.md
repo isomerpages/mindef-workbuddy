@@ -19,7 +19,6 @@ description: ""
 </a>
 </div>
 <h3>Policy-related FAQs</h3>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Finance</summary>
