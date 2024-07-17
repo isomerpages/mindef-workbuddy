@@ -2,8 +2,8 @@ collections:
   faqs:
     output: true
     order:
-      - Policy Related/Finance.md
       - Policy Related/.keep
+      - Policy Related/Finance.md
       - FAQs.md
       - General/.keep
       - General/M works locations.md
