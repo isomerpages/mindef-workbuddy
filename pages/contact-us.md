@@ -10,10 +10,5 @@ contacts:
       - other: Let us know your thoughts by submitting a feedback through the navigation
           bar!
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: ian_chua_cheng_yong@defence.gov.sg
-      - other: ""
-    title: Workbuddy enquiries
 feedback: ""
 ---
