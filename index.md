@@ -20,8 +20,8 @@ sections:
         - title: Welfare Portal
           description: Corporate deals & passes
           url: https://safpscwelfare.my.canva.site/deals
-        - title: Submit feedback
-          description: Let us know your thoughts
-          url: https://go.gov.sg/mindefempfeedback
+        - title: FAQs
+          description: Find common information here
+          url: /faqs/
       variant: center
 ---
