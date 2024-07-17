@@ -2,8 +2,6 @@ collections:
   faqs:
     output: true
     order:
-      - Policy Related/.keep
-      - Policy Related/Finance.md
       - FAQs.md
       - General/.keep
       - General/M works locations.md
@@ -11,3 +9,5 @@ collections:
       - Transport/Overview.md
       - Transport/Depot Road Camp shuttle buses.md
       - Transport/Gombak Base shuttle buses.md
+      - Policy Related/.keep
+      - Policy Related/Finance.md
