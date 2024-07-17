@@ -6,8 +6,9 @@ agency_name: Service Delivery Division
 contacts:
   - content:
       - phone: ""
-      - email: mindef_staff_feedback@defence.gov.sg
-      - other: https://go.gov.sg/mindefempfeedback
+      - email: ""
+      - other: Let us know your thoughts by submitting a feedback through the navigation
+          bar!
     title: General Enquiries & Feedback
   - content:
       - phone: ""
