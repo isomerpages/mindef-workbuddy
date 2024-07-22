@@ -14,23 +14,23 @@ third_nav_title: General
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/chong_pang_camp.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Chong Pang Camp</div>
-<div class="isomer-card-description">Address: 123 abcde road, S123456 Opening hours: 12345</div>
+<div class="isomer-card-description">Address: 485 Sembawang Road, S757630 Opening hours: 0800 - 1800hrs</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 </div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>South</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Depot Road Camp</p>
-<p>Address: 123 abcde road, level 7, S123456</p>
-<p>Opening hours: 0000-2400hrs</p>
+<h4>Depot Road Camp</h4>
+<p>Address: 5 Depot Road, level 7, S109681</p>
+<p>Opening hours: 08000 - 1800hrs</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -53,11 +53,11 @@ third_nav_title: General
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>123 abcde road</p>
-<p>S123456</p>
+<p>31 Tampines Ave 7</p>
+<p>Singapore 529620</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0000-2400hrs</p>
+<p>0900 - 1700hrs</p>
 </td>
 </tr>
 <tr>
