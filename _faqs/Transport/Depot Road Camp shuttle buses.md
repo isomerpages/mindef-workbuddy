@@ -56,8 +56,7 @@ third_nav_title: Transport
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>DTTA</p>
-<p>(Bus stop B14241)</p>
+<p>DTTA (Bus stop B14241)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Depot Road Camp (Pickup/drop-off point)</p>
@@ -87,6 +86,74 @@ third_nav_title: Transport
 </td>
 <td rowspan="1" colspan="1">
 <p>1150hrs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1200hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1205hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1210hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1215hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1220hrs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1230hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1235hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1240hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1245hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1250hrs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1300hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1305hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1310hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1315hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1320hrs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1330hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1335hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1340hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1345hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1350hrs</p>
 </td>
 </tr>
 <tr>
@@ -250,7 +317,7 @@ third_nav_title: Transport
 <p>1700hrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1710hrs</p>
+<p>1715hrs</p>
 </td>
 </tr>
 <tr>
@@ -258,7 +325,7 @@ third_nav_title: Transport
 <p>1830hrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1840hrs</p>
+<p>1845hrs</p>
 </td>
 </tr>
 </tbody>
