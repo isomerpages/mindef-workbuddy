@@ -44,7 +44,7 @@ third_nav_title: Transport
 </tr>
 </tbody>
 </table>
-<h3>Lunchtime shuttle bus (anchorpoint)</h3>
+<h3>Lunchtime shuttle bus (Anchorpoint)</h3>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
