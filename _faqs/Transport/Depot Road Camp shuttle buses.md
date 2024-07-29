@@ -18,279 +18,178 @@ third_nav_title: Transport
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Harbourfront MRT</p>
-<p>(Exit D Taxi Stand)</p>
+<p>First bus</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Depot Road Camp</p>
-<p>(Pickup/drop-off point)</p>
+<p>0700hrs</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>0700hrs</p>
+<p><strong>Last bus</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0710hrs</p>
+<p><strong>0830hrs</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>0830hrs</p>
+<p>Frequency</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0840hrs</p>
+<p>30 mins</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Harbourfront MRT (Exit D Taxi Stand)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Depot Road Camp (Pickup/drop-off point)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Lunchtime shuttle bus (Anchorpoint)</h3>
-<table style="minWidth: 125px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>DTTA (Bus stop B14241)</p>
+<p>First bus</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Depot Road Camp (Pickup/drop-off point)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Depot Road Blk 114</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>ISS Intl School</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Anchorpoint</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1130hrs</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Last bus</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1135hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1140hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1145hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1150hrs</p>
+<p><strong>1400hrs</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1200hrs</p>
+<p>Frequency</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1205hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1210hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1215hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1220hrs</p>
+<p>30 mins</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1230hrs</p>
+<p>Stop 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1235hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1240hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1245hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1250hrs</p>
+<p>DTTA (Bus stop B14241)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1300hrs</p>
+<p>Stop 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1305hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1310hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1315hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1320hrs</p>
+<p>Depot Road Camp (Pickup/drop-off point)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1330hrs</p>
+<p>Stop 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1335hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1340hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1345hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1350hrs</p>
+<p>Depot Road Blk 114</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1400hrs</p>
+<p>Stop 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1405hrs</p>
+<p>ISS Intl School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1410hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1415hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1420hrs</p>
+<p>Anchorpoint</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Lunchtime shuttle bus (Depot Heights)</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Depot Heights Shopping Centre</p>
+<p>First bus</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>DTTA (Bus stop B14241)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Depot Road Camp (Pickup/drop-off point)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>1200hrs</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Last bus</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1202hrs</p>
+<p><strong>1345hrs</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1205hrs</p>
+<p>Frequency</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1215hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1217hrs</p>
+<p>15 mins</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1220hrs</p>
+<p>Stop 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1230hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1232hrs</p>
+<p>DTTA (Bus stop B14241)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1235hrs</p>
+<p>Stop 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1245hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1247hrs</p>
+<p>Depot Road Camp (Pickup/drop-off point)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1250hrs</p>
+<p>Stop 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1300hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1302hrs</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1305hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1315hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1317hrs</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1320hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1330hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1332hrs</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1335hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1345hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1347hrs</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1350hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1400hrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
+<p>Depot Heights Shopping Centre</p>
 </td>
 </tr>
 </tbody>
@@ -304,28 +203,44 @@ third_nav_title: Transport
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Harbourfront MRT</p>
-<p>(Exit D Taxi Stand)</p>
+<p>First bus</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Depot Road Camp</p>
-<p>(Pickup/drop-off point)</p>
+<p>1700hrs</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1700hrs</p>
+<p><strong>Last bus</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1715hrs</p>
+<p><strong>1830hrs</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1830hrs</p>
+<p>Frequency</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1845hrs</p>
+<p>30 mins</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Harbourfront MRT (Exit D Taxi Stand)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Depot Road Camp (Pickup/drop-off point)</p>
 </td>
 </tr>
 </tbody>
