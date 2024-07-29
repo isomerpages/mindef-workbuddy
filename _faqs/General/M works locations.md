@@ -11,6 +11,10 @@ third_nav_title: General
 <summary>North</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>M-Works@Chong Pang Camp</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chong_pang_camp.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -105,6 +109,10 @@ third_nav_title: General
 <summary>South</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>M-Works@DTTB</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dttb.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -290,6 +298,10 @@ third_nav_title: General
 <summary>East</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>M-Works@Tampines</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mworks.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
