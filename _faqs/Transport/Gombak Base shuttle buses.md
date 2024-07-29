@@ -37,6 +37,14 @@ third_nav_title: Transport
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Frequency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 mins</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Stop 1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,6 +86,14 @@ third_nav_title: Transport
 <td rowspan="1" colspan="1">
 <p><strong>1415hrs</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Frequency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 mins</p>
 </td>
 </tr>
 <tr>
@@ -137,6 +153,14 @@ third_nav_title: Transport
 <td rowspan="1" colspan="1">
 <p><strong>2130hrs (Fri: 2100hrs)</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Frequency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 mins</p>
 </td>
 </tr>
 <tr>
