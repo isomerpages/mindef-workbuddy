@@ -48,7 +48,7 @@ third_nav_title: Transport
 <p>Stop 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MINDEF Annex Foyer *</p>
+<p>MINDEF Annex Foyer*</p>
 </td>
 </tr>
 </tbody>
