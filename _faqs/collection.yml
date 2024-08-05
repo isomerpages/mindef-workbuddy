@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Overview.md
-      - General/Shuttle Buses.md
       - General/.keep
       - General/M works locations.md
+      - General/Shuttle Buses.md
       - Transport/.keep
       - Transport/Gombak Base shuttle buses.md
       - Transport/Depot Road Camp shuttle buses.md
