@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
-      - General/Overview.md
+      - General/Shuttle Buses.md
       - General/.keep
       - General/M works locations.md
       - Transport/.keep
