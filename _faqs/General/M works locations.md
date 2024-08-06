@@ -63,6 +63,14 @@ third_nav_title: General
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Work Booth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not available</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Discussion Room</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -160,6 +168,14 @@ third_nav_title: General
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Work Booth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Available</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Discussion Room</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -250,6 +266,14 @@ third_nav_title: General
 </td>
 <td rowspan="1" colspan="1">
 <p>Available</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Work Booth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not available</p>
 </td>
 </tr>
 <tr>
@@ -352,6 +376,14 @@ third_nav_title: General
 <tr>
 <td rowspan="1" colspan="1">
 <p>Quiet Room/Pod</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Available</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Work Booth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Available</p>
