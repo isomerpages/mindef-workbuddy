@@ -46,7 +46,7 @@ third_nav_title: General
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15 mins</strong>
+<p><strong>15-20 mins</strong>
 </p>
 </td>
 </tr>
@@ -63,13 +63,11 @@ third_nav_title: General
 <p>Stop 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MINDEF Annex Foyer*</p>
+<p>MINDEF Annex Foyer</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><em>*Drop-off at MINDEF taxi stand on ceremonial days</em>
-</p>
 <h3>Lunchtime</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -91,7 +89,7 @@ third_nav_title: General
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1415hrs</strong>
+<p><strong>1430hrs</strong>
 </p>
 </td>
 </tr>
@@ -101,7 +99,7 @@ third_nav_title: General
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15 mins</strong>
+<p><strong>15-20 mins</strong>
 </p>
 </td>
 </tr>
@@ -137,6 +135,14 @@ third_nav_title: General
 <p>Hillv2 Bus Stop</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MINDEF Pass Office</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Evening</h3>
@@ -170,7 +176,7 @@ third_nav_title: General
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15 mins</strong>
+<p><strong>15-20 mins</strong>
 </p>
 </td>
 </tr>
@@ -179,7 +185,7 @@ third_nav_title: General
 <p>Stop 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MINDEF Annex Foyer</p>
+<p>MINDEF Building B2</p>
 </td>
 </tr>
 <tr>
