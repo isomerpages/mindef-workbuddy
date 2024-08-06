@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Workbuddy
+title: WorkBuddy
 description: MINDEF/SAF Employee landing page
 image: /images/SDD_logo.png
 permalink: /
