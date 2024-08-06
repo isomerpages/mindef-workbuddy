@@ -214,7 +214,6 @@ third_nav_title: General
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Opening hours</p>
 </td>
 <td rowspan="1" colspan="1">
