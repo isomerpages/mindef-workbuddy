@@ -12,9 +12,8 @@ third_nav_title: General
 <summary>North</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>M-Works@Chong Pang Camp</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mworks_CPC.png">
+<img style="width: 100%" height="auto" width="100%" alt="M works Chong Pang Camp" src="/images/M works/mworks_CPC.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -110,9 +109,8 @@ third_nav_title: General
 <summary>South</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>M-Works@DTTB</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mworks_dttb.png">
+<img style="width: 100%" height="auto" width="100%" alt="M Works DTTB" src="/images/M works/mworks_dttb.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -204,10 +202,10 @@ third_nav_title: General
 </table>
 <p></p>
 <h4>M-Works@Bukit Merah Central</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mworks_bmc.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="M Works BMC" src="/images/M works/mworks_bmc.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -306,9 +304,8 @@ third_nav_title: General
 <h4>M-Works@Tampines</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mworks_tampines.png">
+<img style="width: 100%" height="auto" width="100%" alt="M Works Tampines" src="/images/M works/mworks_tampines.png">
 </div>
-<p></p>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
