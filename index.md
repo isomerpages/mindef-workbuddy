@@ -28,10 +28,10 @@ sections:
   - infopic:
       title: Welfare Portal
       id: infopic
-      description: Get corporate deals and passes
-      button: Button Text
+      button: Get corporate deals and passes
       image: /images/welfare_portal.png
       alt: Image alt text
+      url: https://safpscwelfare.my.canva.site/deals
   - infopic:
       title: FAQs
       id: infopic
