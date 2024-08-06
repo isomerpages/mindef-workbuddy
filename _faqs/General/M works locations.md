@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: General
 ---
-<h3><a href="https://book.defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Book an M works resource</a></h3>
-<p></p>
-<h3>Find information about M works by location below</h3>
+<h3><a href="https://book.defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Book an M-works resource</a></h3>
+<h3>Find information about M-Works by location below</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>North</summary>
