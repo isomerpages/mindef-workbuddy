@@ -14,7 +14,7 @@ third_nav_title: General
 <h4>M-Works@Chong Pang Camp</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chong_pang_camp.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mworks_CPC.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -112,7 +112,7 @@ third_nav_title: General
 <h4>M-Works@DTTB</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dttb.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mworks_dttb.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -204,10 +204,10 @@ third_nav_title: General
 </table>
 <p></p>
 <h4>M-Works@Bukit Merah Central</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bmc.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mworks_bmc.png">
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -216,6 +216,7 @@ third_nav_title: General
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Opening hours</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -304,15 +305,16 @@ third_nav_title: General
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>M-Works@Tampines</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mworks_tampines.png">
+</div>
+<p></p>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
 <tr></tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tampines M Works" src="/images/Tampines_M_Works.jpg">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
