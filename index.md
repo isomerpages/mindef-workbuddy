@@ -11,32 +11,17 @@ sections:
       subtitle: For MINDEF/SAF Employees
       background: /images/ns_hub.jpg
       variant: center
-  - infopic:
-      title: Book
-      id: infopic
-      button: Book a resource here
-      url: https://book.defence.gov.sg
-      image: /images/book.png
-      alt: Image alt text
-  - infopic:
-      title: Navigate
-      id: infopic
-      button: Find official documents here
-      url: https://navi.defence.gov.sg
-      image: /images/navi.png
-      alt: Image alt text
-  - infopic:
-      title: Welfare Portal
-      id: infopic
-      button: Get corporate deals and passes
-      image: /images/welfare_portal.png
-      alt: Image alt text
-      url: https://safpscwelfare.my.canva.site/deals
-  - infopic:
-      title: FAQs
-      id: infopic
-      button: Find common information here
-      url: /faqs/
-      image: /images/shuttle_bus.png
-      alt: Image alt text
+      key_highlights:
+        - title: Book
+          description: Book a resource here
+          url: https://book.defence.gov.sg
+        - title: Navi
+          description: Find official documents here
+          url: https://navi.defence.gov.sg
+        - title: Welfare Portal
+          description: Corporate deals & passes
+          url: https://safpscwelfare.my.canva.site/deals
+        - title: FAQs
+          description: Find common information here
+          url: /faqs/
 ---
