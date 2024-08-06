@@ -239,7 +239,7 @@ third_nav_title: General
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>30 mins</strong>
+<p><strong>15-20 mins</strong>
 </p>
 </td>
 </tr>
@@ -257,83 +257,6 @@ third_nav_title: General
 </td>
 <td rowspan="1" colspan="1">
 <p>Depot Road Camp (Pickup/drop-off point)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Lunchtime (Anchorpoint)</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>First bus</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>1130hrs</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Last bus</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1400hrs</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Frequency</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>30 mins</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Stop 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DTTA (Bus stop B14241)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Stop 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Depot Road Camp (Pickup/drop-off point)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Stop 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Depot Road Blk 114</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Stop 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ISS Intl School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Stop 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Anchorpoint</p>
 </td>
 </tr>
 </tbody>
@@ -430,7 +353,7 @@ third_nav_title: General
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>30 mins</strong>
+<p><strong>15-20 mins</strong>
 </p>
 </td>
 </tr>
@@ -439,7 +362,7 @@ third_nav_title: General
 <p>Stop 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Harbourfront MRT (Exit D Taxi Stand)</p>
+<p>Depot Road Camp (Pickup/drop-off point)</p>
 </td>
 </tr>
 <tr>
@@ -447,7 +370,7 @@ third_nav_title: General
 <p>Stop 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Depot Road Camp (Pickup/drop-off point)</p>
+<p>Harbourfront MRT (Exit D Taxi Stand)</p>
 </td>
 </tr>
 </tbody>
