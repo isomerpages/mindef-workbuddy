@@ -7,7 +7,7 @@ permalink: /
 notification: Check out enhancements to your Medical and Dental Benefits on M365 or OSN!
 sections:
   - hero:
-      title: Workbuddy
+      title: WorkBuddy
       subtitle: For MINDEF/SAF Employees
       background: /images/ns_hub.jpg
       key_highlights:
