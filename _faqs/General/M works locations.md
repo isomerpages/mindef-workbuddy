@@ -26,7 +26,7 @@ third_nav_title: General
 <p>Opening hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0800-1800hrs</p>
+<p>0800 -1800hrs</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +123,7 @@ third_nav_title: General
 <p>Opening hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0800-1800hrs</p>
+<p>0800 - 1800hrs</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ third_nav_title: General
 <p>Opening hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0900-1700hrs</p>
+<p>0900 - 1700hrs</p>
 </td>
 </tr>
 <tr>
@@ -322,7 +322,7 @@ third_nav_title: General
 <p>Opening hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0900-1700hrs</p>
+<p>0900 - 1700hrs</p>
 </td>
 </tr>
 <tr>
