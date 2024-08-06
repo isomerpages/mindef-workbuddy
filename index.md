@@ -24,4 +24,32 @@ sections:
           description: Find common information here
           url: /faqs/
       variant: center
+  - infopic:
+      title: Book
+      id: infopic
+      button: Book a resource here
+      url: https://book.defence.gov.sg
+      image: /images/book.png
+      alt: Image alt text
+  - infopic:
+      title: Navigate
+      id: infopic
+      button: Find official documents here
+      url: https://navi.defence.gov.sg
+      image: /images/navi.png
+      alt: Image alt text
+  - infopic:
+      title: Welfare Portal
+      id: infopic
+      description: Get corporate deals and passes
+      button: Button Text
+      image: /images/welfare_portal.png
+      alt: Image alt text
+  - infopic:
+      title: FAQs
+      id: infopic
+      button: Find common information here
+      url: /faqs/
+      image: /images/shuttle_bus.png
+      alt: Image alt text
 ---
