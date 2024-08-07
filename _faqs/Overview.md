@@ -9,7 +9,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="/shuttlebus/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Shuttle bus timings" src="/images/shuttle_bus.png">
+<img style="width: 100%" height="auto" width="100%" alt="Shuttle bus timings" src="/images/Shuttle bus/shuttle_gbk.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
