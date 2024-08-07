@@ -14,7 +14,7 @@ third_nav_title: General
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Shuttle bus pick up at cashew MRT" src="/images/Shuttle bus/shuttle_gbk.jpg">
 </div>
-<h3>orning</h3>
+<h3>Morning</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
