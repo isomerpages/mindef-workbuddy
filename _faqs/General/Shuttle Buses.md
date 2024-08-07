@@ -11,11 +11,10 @@ third_nav_title: General
 <summary>Gombak base</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h2>Gombak Base</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Gombak Base shuttle bus timings" src="/images/MINDEF_Gombak___Shuttle_Bus_Timings.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Shuttle bus pick up at cashew MRT" src="/images/Shuttle bus/shuttle_gbk.jpg">
 </div>
-<h3>Morning</h3>
+<h3>orning</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -206,7 +205,7 @@ third_nav_title: General
 <div data-type="detailsContent" class="isomer-details-content">
 <h2>Depot Road Camp</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Depot Road Camp Shuttle Bus Timings" src="/images/Depot_Road_Camp_Shuttle_Bus_Timings.png">
+<img style="width: 100%" height="auto" width="100%" alt="Shuttle bus pickup at depot road camp" src="/images/Shuttle bus/shuttle_drc.jpg">
 </div>
 <h3>Morning</h3>
 <table style="minWidth: 50px">
