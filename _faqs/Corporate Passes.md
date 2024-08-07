@@ -287,7 +287,8 @@ to check the respective websites for more details before your visit:</p>
 <p>Gardens by the Bay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://www.gardensbythebay.com.sg</p>
+<p><a href="https://www.gardensbythebay.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.gardensbythebay.com.sg</a>
+</p>
 </td>
 </tr>
 <tr>
