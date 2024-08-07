@@ -38,8 +38,11 @@ corporate passes.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>When and how do I apply for the Corporate Pass?</p>
-<p>a) <u>Release of Passes</u>
+<p><strong>When and how do I apply for the Corporate Pass?</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><u>Release of Passes</u>
 </p>
 <p>Passes are released for booking thrice a year. The upcoming booking windows
 are (a) Dec 2023 to Mar 2024; (b) Apr to Jun 2024; and (c) Jul to Nov 2024.
@@ -48,20 +51,23 @@ and are allocated on a first come first served basis. Pass releases will
 be publicised on The Noticeboard and detailed instructions will be given
 with each announcement.</p>
 </li>
-</ul>
-<p></p>
-<p>b) <u>Apply on EventBrite</u>
+<li>
+<p><u>Apply on EventBrite</u>
 </p>
 <p>Corporate Pass applications are to be submitted through Eventbrite. Visit
 <a href="https://go.gov.sg/safpscwelfareportal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/safpscwelfareportal</a>to access the application pages.</p>
-<p>i. <u>Eventbrite account</u>. You will need to ensure that you have an
-Eventbrite account before you can apply for the corporate pass.</p>
-<p>ii. <u>Password Authentication</u>. You will need a password to access
-the Eventbrite application page for the MINDEF/SAF Corporate Passes. This
-can be found in the publicity poster sent by MINDEF Employee Communications
+<p><u>Eventbrite account</u>. You will need to ensure that you have an Eventbrite
+account before you can apply for the corporate pass.</p>
+<p><u>Password Authentication</u>. You will need a password to access the
+Eventbrite application page for the MINDEF/SAF Corporate Passes. This can
+be found in the publicity poster sent by MINDEF Employee Communications
 via The Noticeboard, M365 and Athena before the start of each booking window.
 The password changes for every window, so be sure to keep a look out for
 it!</p>
+</li>
+</ol>
+</li>
+</ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -99,9 +105,15 @@ personnel. Do ensure that you are still in service at the point of visit.</p>
 </p>
 <p>You will receive the following if you have successfully applied for a
 pass:</p>
-<p>a) An order confirmation email from Eventbrite, on the day of application.</p>
-<p>b) An email from PostmanSG with the Authorisation letter attached, three
+<ul data-tight="true" class="tight">
+<li>
+<p>An order confirmation email from Eventbrite, on the day of application.</p>
+</li>
+<li>
+<p>An email from PostmanSG with the Authorisation letter attached, three
 (3) working days before your intended date of visit.</p>
+</li>
+</ul>
 <p>Please check that the details on the letter are correct and <a href="mailto:Welfare_Benefits_Enquiry@defence.gov.sg?subject=Corporate Pass Enquiry" rel="noopener noreferrer nofollow" target="_blank">email</a> us
 if there are errors.</p>
 </li>
@@ -158,22 +170,26 @@ are discouraged as the corporate pass will be forfeited, if unused.</p>
 <p>You will need to prebook your preferred timeslot only for (a) <u>Singapore Zoo and River Wonders</u> and
 (b) <u>SuperPark Singapore</u>. You can do so upon receipt of your authorisation
 letter.</p>
-<p></p>
-<p>a) <u>Singapore Zoo and River Wonders</u>. Do refer to the infographic
-below for more information. Select “<em>I am an Adopter, ASA, Public &amp; Corporate Member, Volunteer, Staff or Family of Staff from Mandai Wildlife Group</em>”
+<ul data-tight="true" class="tight">
+<li>
+<p><u>Singapore Zoo and River Wonders</u>. Do refer to the infographic below
+for more information. Select “<em>I am an Adopter, ASA, Public &amp; Corporate Member, Volunteer, Staff or Family of Staff from Mandai Wildlife Group</em>”
 and <em>Click Proceed</em> at <u>Step 2</u>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Steps to book Zoo visit" src="/images/zoo_corporate_pass.png">
+<img style="width: 100%" height="auto" width="100%" alt="Steps to book zoo visit" src="/images/zoo_corporate_pass.png">
 </div>
-<p>b) <u>SuperPark Singapore</u>. After you have received your Authorisation
+</li>
+<li>
+<p><u>SuperPark Singapore</u>. After you have received your Authorisation
 letter via Postman, you must pre-book a play session at the <a href="https://superpark.com.sg/tickets-corporate-annual-pass" rel="noopener noreferrer nofollow" target="_blank">SuperPark Singapore's website</a> before
 your date of visit.</p>
-<p></p>
-</li>
-</ul>
 <p>Each play session is limited to 3 hours for Non-Peak period (Mon to Fri
 excluding Public Holidays and School Holidays); and 2 hours for Peak period
 (Sat, Sun, Public Holidays and School Holidays).</p>
+</li>
+</ul>
+</li>
+</ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
