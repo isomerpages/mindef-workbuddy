@@ -297,4 +297,5 @@ to check the respective websites for more details before your visit:</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>If you have other enquiries, please <a href="mailto:Welfare_Benefits_Enquiry@defence.gov.sg?subject=Corporate Pass Enquiry" rel="noopener noreferrer nofollow" target="_blank">email</a> us
+and we will reply as soon as we can.</p>
