@@ -2,7 +2,7 @@ collections:
   faqs:
     output: true
     order:
-      - Corp Passes.md
+      - Corporate Passes.md
       - Policy Related FAQs.md
       - Overview.md
       - General/.keep
