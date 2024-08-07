@@ -2,6 +2,7 @@ collections:
   faqs:
     output: true
     order:
+      - Corporate Passes.md
       - Overview.md
       - General/.keep
       - General/M works locations.md
