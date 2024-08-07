@@ -106,24 +106,194 @@ pass:</p>
 if there are errors.</p>
 </li>
 </ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>What do I do if I have not received the authorisation letter three (3) working days before my intended date of visit?</strong>
+</p>
+<p>Please check your spam/junk mailbox as the authorisation letter from PostmanSG
+could have been routed there. You can request the authorisation letter
+to be resent to you via <a href="mailto:Welfare_Benefits_Enquiry@defence.gov.sg?subject=Corporate Pass Enquiry" rel="noopener noreferrer nofollow" target="_blank">email</a> if
+you are still unable to find it.</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Is the authorisation letter transferable?</strong>
+</p>
+<p>No, the authorisation letter is not transferable. The MINDEF/SAF service
+personnel who has applied for the corporate pass must be present on the
+day of visit. He/she will be required to show his/her valid SAF Card/SAF
+Identity Card and the Authorisation Letter at the point of entry. In the
+event of unauthorised use, entry is chargeable at prevailing walk-in rates.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Cancellation/Amendment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>How do I change or cancel my Corporate Pass application?</strong>
+</p>
+<p>If the authorisation letter has not been issued, you may cancel your application
+directly via Eventbrite and re-apply for your desired date of visit.</p>
 <p></p>
+<p>However, if an authorisation letter has been issued, you will not be able
+to cancel or make further amendments to your application. Cancellations
+are discouraged as the corporate pass will be forfeited, if unused.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Before Your Visit</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Do I need to prebook timeslot to visit the attractions?</strong>
+</p>
+<p>You will need to prebook your preferred timeslot only for (a) <u>Singapore Zoo and River Wonders</u> and
+(b) <u>SuperPark Singapore</u>. You can do so upon receipt of your authorisation
+letter.</p>
 <p></p>
+<p>a) <u>Singapore Zoo and River Wonders</u>. Do refer to the infographic
+below for more information. Select “<em>I am an Adopter, ASA, Public &amp; Corporate Member, Volunteer, Staff or Family of Staff from Mandai Wildlife Group</em>”
+and <em>Click Proceed</em> at <u>Step 2</u>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Steps to book Zoo visit" src="/images/zoo_corporate_pass.png">
+</div>
+<p>b) <u>SuperPark Singapore</u>. After you have received your Authorisation
+letter via Postman, you must pre-book a play session at the <a href="https://superpark.com.sg/tickets-corporate-annual-pass" rel="noopener noreferrer nofollow" target="_blank">SuperPark Singapore's website</a> before
+your date of visit.</p>
+<p></p>
+</li>
+</ul>
+<p>Each play session is limited to 3 hours for Non-Peak period (Mon to Fri
+excluding Public Holidays and School Holidays); and 2 hours for Peak period
+(Sat, Sun, Public Holidays and School Holidays).</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>What if I need more than 4 tickets?</strong>
+</p>
+<p>If you need more than 4 tickets, you will need to purchase additional
+tickets directly with the places of attraction.</p>
+<p></p>
+<p>For <u>SuperPark Singapore</u>, you may purchase up to 4 additional tickets
+at a 15% discount for a same-day visit. You may email SuperPark Singapore
+at least 3 working days in advance or buy the tickets on site, subject
+to availability. Pre-payment will be required if you wish to secure the
+additional tickets in advance.</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>What other discounts are applicable at the attractions?</strong>
+</p>
+<p>You can show your Authorisation Letter to enjoy corporate discounts (if
+any) offered by the operators. Please note that the discounts are subject
+to changes by the operators and you may refer to the attractions’ respective
+website for the latest information.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Others</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>What documents should I bring on the day of visit?</strong>
+</p>
+</li>
+</ul>
+<p>The service personnel <u>must</u> be present at the point of entry and is
+required to show the Authorisation Letter and the valid SAF Card/SAF Identity
+Card. For entry to SuperPark Singapore, you must <u>also</u> present the
+E-Ticket (electronic ticket from your email) for the play session you have
+booked, at the point of entry.</p>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Can I bring my own socks to the SuperPark Singapore?</strong>
+</p>
+</li>
+</ul>
+<p>You are required to wear the SuperPark Grip Socks before you are allowed
+into the play area. You may purchase SuperPark Grip Socks at $3.50 per
+pair, either online when you book the play session, or onsite during the
+day of visit.</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Do children require a pass for entry to the different places of interests?</strong>
+</p>
+</li>
+</ul>
+<p>For visits to the Gardens by the Bay and Singapore Zoo and River Wonders,
+children aged 3 years and above will require a pass for entry; Children
+below 3 years old can enter for free.</p>
+<p></p>
+<p>For visits to SuperPark Singapore, all visitors aged 1 year and above
+will require a pass for entry; Children below 1 year old can enter the
+play area for free.</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Any closure dates I should take note of for the 3 attractions?</strong>
+</p>
+</li>
+</ul>
+<p>There are scheduled monthly maintenance closure dates at Gardens by the
+Bay (one day a month, per attraction). There are no scheduled closure dates
+for Singapore Zoo and River Wonders and SuperPark Singapore. You may wish
+to check the respective websites for more details before your visit:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Attractions</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Websites</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gardens by the Bay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://www.gardensbythebay.com.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Zoo and River Wonders</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.mandai.com" rel="noopener noreferrer nofollow" target="_blank">https://www.mandai.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SuperPark Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.superpark.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.superpark.com.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
