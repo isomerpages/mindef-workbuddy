@@ -2,9 +2,9 @@ collections:
   faqs:
     output: true
     order:
-      - Corporate Passes.md
-      - Policy Related FAQs.md
       - Overview.md
       - General/.keep
       - General/M works locations.md
       - General/Shuttle Buses.md
+      - Corporate Passes.md
+      - Policy Related FAQs.md
