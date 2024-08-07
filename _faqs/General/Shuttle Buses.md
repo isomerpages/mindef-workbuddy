@@ -62,6 +62,14 @@ third_nav_title: General
 <p>Stop 2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Pass Office (bus stop)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 3</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>MINDEF Annex Foyer</p>
 </td>
 </tr>
