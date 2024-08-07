@@ -18,8 +18,8 @@ description: ""
 </div>
 </a>
 </div>
-<h3>Corporate Passes</h3>
-<p><a href="/corp-passes/" rel="noopener noreferrer nofollow" target="_blank">Go to FAQs on Corporate Passes</a>
+<h3>Corporate Pass</h3>
+<p><a href="/corp-passes/" rel="noopener noreferrer nofollow" target="_blank">Go to FAQs on Corporate Pass</a>
 </p>
 <h3>Policy-related FAQs</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
