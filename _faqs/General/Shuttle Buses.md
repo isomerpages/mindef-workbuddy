@@ -8,7 +8,7 @@ third_nav_title: General
 <h2>Shuttle bus timings</h2>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Gombak base</summary>
+<summary>Gombak Base</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h2>Gombak Base</h2>
 <div class="isomer-image-wrapper">
