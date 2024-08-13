@@ -2,6 +2,8 @@ logo: /images/SDD_logo.png
 links:
   - title: Book
     url: https://book.defence.gov.sg
+  - title: VIS
+    url: https://host.vis.defence.gov.sg/
   - title: Navi
     url: https://navi.defence.gov.sg
   - title: Welfare Portal
