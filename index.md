@@ -2,7 +2,7 @@
 layout: homepage
 title: WorkBuddy
 description: MINDEF/SAF Employee landing page
-image: /images/SDD_logo.png
+image: /images/shareicon.png
 permalink: /
 notification: Check out enhancements to your Medical and Dental Benefits on M365 or OSN!
 sections:
