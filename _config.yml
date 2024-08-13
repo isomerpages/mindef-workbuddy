@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d1agw6ct52tvia.amplifyapp.com
 prod: https://master.d281b6ti5k76jd.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/SDD_logo.png
+shareicon: /images/shareicon.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
