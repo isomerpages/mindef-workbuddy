@@ -19,7 +19,7 @@ sections:
           description: Find official documents here
           url: https://navi.defence.gov.sg
         - title: Welfare Portal
-          description: Corporate deals & passes
+          description: Find corporate deals & passes
           url: https://safpscwelfare.my.canva.site/deals
         - title: FAQs
           description: Find common information here
