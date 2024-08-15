@@ -433,15 +433,7 @@ more details</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SNET Terminal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OSN Terminal</p>
+<p>Work Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
