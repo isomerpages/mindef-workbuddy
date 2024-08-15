@@ -42,7 +42,7 @@ third_nav_title: General
 <p>Work Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Available, see <a href="https://book.defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
+<p>Available, see <a href="https://book.defence.gov.sg/#/search" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
 more details</p>
 </td>
 </tr>
@@ -140,7 +140,7 @@ more details</p>
 <p>Work Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Available, see <a href="https://book.defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
+<p>Available, see <a href="https://book.defence.gov.sg/#/search" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
 more details</p>
 </td>
 </tr>
@@ -235,7 +235,7 @@ more details</p>
 <p>Work Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Available, see <a href="https://book.defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
+<p>Available, see <a href="https://book.defence.gov.sg/#/search" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
 more details</p>
 </td>
 </tr>
@@ -341,7 +341,7 @@ more details</p>
 <p>Work Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Available, see <a href="https://book.defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
+<p>Available, see <a href="https://book.defence.gov.sg/#/search" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
 more details</p>
 </td>
 </tr>
