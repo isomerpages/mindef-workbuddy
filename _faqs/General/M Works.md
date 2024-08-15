@@ -39,18 +39,11 @@ third_nav_title: General
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SNET Terminal</p>
+<p>Work Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Available</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OSN Terminal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Available</p>
+<p>Available, see <a href="https://book.defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
+more details</p>
 </td>
 </tr>
 <tr>
@@ -144,18 +137,11 @@ third_nav_title: General
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SNET Terminal</p>
+<p>Work Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Available</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OSN Terminal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Not available</p>
+<p>Available, see <a href="https://book.defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
+more details</p>
 </td>
 </tr>
 <tr>
@@ -246,18 +232,11 @@ third_nav_title: General
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SNET Terminal</p>
+<p>Work Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Available</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OSN Terminal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Available</p>
+<p>Available, see <a href="https://book.defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
+more details</p>
 </td>
 </tr>
 <tr>
@@ -359,18 +338,11 @@ third_nav_title: General
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SNET Terminal</p>
+<p>Work Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Available</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OSN Terminal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Available</p>
+<p>Available, see <a href="https://book.defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
+more details</p>
 </td>
 </tr>
 <tr>
