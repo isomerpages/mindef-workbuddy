@@ -16,12 +16,12 @@ sections:
         - title: Book
           description: Book a resource here
           url: https://book.defence.gov.sg
+        - title: OneNS
+          description: Find HR services here
+          url: https://www.ns.gov.sg
         - title: Navi
           description: Find official documents here
           url: https://navi.defence.gov.sg
-        - title: Welfare Portal
-          description: Find corporate deals & passes
-          url: https://safpscwelfare.my.canva.site/deals
         - title: FAQs
           description: Find common information here
           url: /faqs/
