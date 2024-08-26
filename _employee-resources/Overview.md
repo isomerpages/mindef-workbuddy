@@ -4,7 +4,7 @@ permalink: /resources/
 variant: tiptap
 description: ""
 ---
-<h3>General FAQs</h3>
+<h3>1) General FAQs</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/mworks/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="M works info" src="/images/M works/M_works_entry.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">M-Works information</div><div class="isomer-card-link">Find M-Works info here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/shuttlebus/" class="isomer-card">
 <div class="isomer-card-image">
@@ -18,7 +18,7 @@ description: ""
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/corp-passes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Corp Pass" src="/images/Corp_Pass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Corporate passes</div><div class="isomer-card-link">Go to FAQs on Corporate Passes</div></div></a>
 </div>
-<h3>Policy-related FAQs</h3>
+<h3>2) Policy-Related FAQs</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Finance</summary>
@@ -41,5 +41,6 @@ description: ""
 </details>
 </div>
 <p></p>
-<h3><a href="https://safpscwelfare.my.canva.site/deals" rel="noopener nofollow" target="_blank">SAFPSC Welfare Portal</a></h3>
+<h3>3) <a href="https://safpscwelfare.my.canva.site/deals" rel="noopener nofollow" target="_blank">SAFPSC Welfare Portal</a></h3>
+<h3></h3>
 <p></p>
