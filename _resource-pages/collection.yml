@@ -1,5 +1,5 @@
 collections:
-  resources-pages:
+  resource-pages:
     output: true
     order:
       - Overview.md
