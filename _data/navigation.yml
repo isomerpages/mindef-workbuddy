@@ -12,3 +12,8 @@ links:
     url: /faqs
   - title: Feedback
     url: https://go.gov.sg/mindefempfeedback
+  - title: Employee Services
+    url: /services
+    sublinks:
+      - title: Book
+        url: https://book.defence.gov.sg
