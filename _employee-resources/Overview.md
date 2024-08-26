@@ -5,24 +5,14 @@ variant: tiptap
 description: ""
 ---
 <h3>1) General FAQs</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/mworks/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="M works info" src="/images/M works/M_works_entry.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">M-Works information</div><div class="isomer-card-link">Find M-Works info here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/shuttlebus/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Shuttle bus timings" src="/images/Shuttle bus/shuttle_gbk.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Shuttle bus timings</div>
-<div class="isomer-card-link">Find shuttle bus timings here</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/corp-passes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Corp Pass" src="/images/Corp_Pass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Corporate passes</div><div class="isomer-card-link">Go to FAQs on Corporate Passes</div></div></a>
-</div>
-<p>M-Works information</p>
+<p><a href="" rel="noopener nofollow" target="_blank">M-Works information</a>
+</p>
 <hr>
-<p>Shuttle bus timings</p>
+<p><a href="" rel="noopener nofollow" target="_blank">Shuttle bus timings</a>
+</p>
 <hr>
-<p>Corporate passes</p>
+<p><a href="" rel="noopener nofollow" target="_blank">Corporate passes</a>
+</p>
 <p></p>
 <h3>2) Policy-related FAQs</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
