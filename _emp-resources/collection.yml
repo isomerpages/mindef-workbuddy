@@ -1,0 +1,4 @@
+collections:
+  emp-resources:
+    output: true
+    order: []
