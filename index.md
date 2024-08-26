@@ -10,7 +10,7 @@ sections:
   - hero:
       title: WorkBuddy
       subtitle: For MINDEF/SAF Employees
-      background: /images/ns_hub.jpg
+      background: /images/ns_hub_cropped.jpg
       variant: center
       key_highlights:
         - title: Book
