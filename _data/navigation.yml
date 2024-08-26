@@ -9,14 +9,12 @@ links:
         url: https://www.ns.gov.sg
       - title: Navi
         url: https://navi.defence.gov.sg
-  - title: Resources
+  - title: Employee Resources
     url: /resources
     sublinks:
       - title: FAQs
         url: /faqs
-      - title: Welfare Portal
+      - title: SAFPSC Welfare Portal
         url: https://safpscwelfare.my.canva.site/deals
-  - title: FAQs
-    url: /faqs
   - title: Feedback
     url: https://go.gov.sg/mindefempfeedback
