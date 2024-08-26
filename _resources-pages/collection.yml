@@ -1,5 +1,5 @@
 collections:
-  employee-resources:
+  resources-pages:
     output: true
     order:
       - Overview.md
