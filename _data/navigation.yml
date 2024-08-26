@@ -1,11 +1,7 @@
 logo: /images/SDD_logo.png
 links:
-  - title: Book
-    url: https://book.defence.gov.sg
   - title: OneNS
     url: https://www.ns.gov.sg
-  - title: Navi
-    url: https://navi.defence.gov.sg
   - title: Welfare Portal
     url: https://safpscwelfare.my.canva.site/deals
   - title: FAQs
@@ -19,3 +15,5 @@ links:
         url: https://book.defence.gov.sg
       - title: OneNS
         url: https://www.ns.gov.sg
+      - title: Navi
+        url: https://navi.defence.gov.sg
