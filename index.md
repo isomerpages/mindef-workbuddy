@@ -13,6 +13,9 @@ sections:
       background: /images/ns_hub_cropped.jpg
       variant: center
       key_highlights:
+        - title: FAQs
+          description: Find common information here
+          url: /faqs/
         - title: Book
           description: Book a resource here
           url: https://book.defence.gov.sg
@@ -22,7 +25,4 @@ sections:
         - title: Navi
           description: Find official documents here
           url: https://navi.defence.gov.sg
-        - title: FAQs
-          description: Find common information here
-          url: /faqs/
 ---
