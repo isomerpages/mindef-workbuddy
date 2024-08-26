@@ -4,13 +4,7 @@ permalink: /overview/
 variant: tiptap
 description: ""
 ---
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>FAQs</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>General</p>
-<p>Policy-Related</p>
-</div>
-</details>
-</div>
+<h3>FAQs</h3>
+<p></p>
+<h3><a href="https://safpscwelfare.my.canva.site/deals" rel="noopener nofollow" target="_blank">SAFPSC Welfare Portal</a></h3>
 <p></p>
