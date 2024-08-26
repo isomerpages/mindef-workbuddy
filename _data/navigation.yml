@@ -1,7 +1,7 @@
 logo: /images/SDD_logo.png
 links:
   - title: Employee Services
-    url: /services
+    url: /employee-services/
     sublinks:
       - title: Book
         url: https://book.defence.gov.sg
