@@ -1,13 +1,5 @@
 logo: /images/SDD_logo.png
 links:
-  - title: OneNS
-    url: https://www.ns.gov.sg
-  - title: Welfare Portal
-    url: https://safpscwelfare.my.canva.site/deals
-  - title: FAQs
-    url: /faqs
-  - title: Feedback
-    url: https://go.gov.sg/mindefempfeedback
   - title: Employee Services
     url: /services
     sublinks:
@@ -17,3 +9,14 @@ links:
         url: https://www.ns.gov.sg
       - title: Navi
         url: https://navi.defence.gov.sg
+  - title: Resources
+    url: /resources
+    sublinks:
+      - title: FAQs
+        url: /faqs
+      - title: Welfare Portal
+        url: https://safpscwelfare.my.canva.site/deals
+  - title: FAQs
+    url: /faqs
+  - title: Feedback
+    url: https://go.gov.sg/mindefempfeedback
