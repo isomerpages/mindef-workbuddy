@@ -18,7 +18,7 @@ description: ""
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/corp-passes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Corp Pass" src="/images/Corp_Pass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Corporate passes</div><div class="isomer-card-link">Go to FAQs on Corporate Passes</div></div></a>
 </div>
-<h3>2) Policy-Related FAQs</h3>
+<h3>2) Policy-related FAQs</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Finance</summary>
