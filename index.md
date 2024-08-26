@@ -1,24 +1,28 @@
 ---
 layout: homepage
-title: Workbuddy
+title: WorkBuddy
 description: MINDEF/SAF Employee landing page
-image: /images/MINDEF_crest.jpg
+image: /images/shareicon.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Welcome to the new WorkBuddy website! Let us know your thoughts on
+  the website through the Feedback link above!
 sections:
   - hero:
-      title: Workbuddy
+      title: WorkBuddy
       subtitle: For MINDEF/SAF Employees
-      background: /images/hero-banner.png
+      background: /images/ns_hub_cropped.jpg
+      variant: center
       key_highlights:
-        - title: BOOK
+        - title: Book
           description: Book a resource here
           url: https://book.defence.gov.sg
+        - title: OneNS
+          description: Find HR services here
+          url: https://www.ns.gov.sg
         - title: Navi
           description: Find official documents here
           url: https://navi.defence.gov.sg
-        - title: Submit feedback
-          description: Let us know your thoughts
-          url: https://go.gov.sg/mindefempfeedback
-      variant: center
+        - title: FAQs
+          description: Find common information here
+          url: /faqs/
 ---

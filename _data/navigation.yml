@@ -1,8 +1,14 @@
 logo: /images/SDD_logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Book
+    url: https://book.defence.gov.sg
+  - title: OneNS
+    url: https://www.ns.gov.sg
+  - title: Navi
+    url: https://navi.defence.gov.sg
+  - title: Welfare Portal
+    url: https://safpscwelfare.my.canva.site/deals
+  - title: FAQs
+    url: /faqs
+  - title: Feedback
+    url: https://go.gov.sg/mindefempfeedback
