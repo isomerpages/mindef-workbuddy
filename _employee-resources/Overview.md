@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>1) General FAQs</h3>
-<p><a href="/mworks/" rel="noopener nofollow" target="_blank">M-Works information</a>
+<p><a href="/mworks/" rel="noopener nofollow" target="_blank">M-Works</a>
 </p>
 <hr>
 <p><a href="/shuttlebus/" rel="noopener nofollow" target="_blank">Shuttle bus timings</a>
