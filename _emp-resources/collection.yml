@@ -1,4 +1,5 @@
 collections:
   emp-resources:
     output: true
-    order: []
+    order:
+      - Overview.md
