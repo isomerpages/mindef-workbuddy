@@ -2,5 +2,5 @@ collections:
   employee-resources:
     output: true
     order:
-      - General FAQs/.keep
       - Overview.md
+      - General FAQs/.keep
