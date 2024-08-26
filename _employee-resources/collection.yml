@@ -1,5 +1,5 @@
 collections:
-  emp-resources:
+  employee-resources:
     output: true
     order:
       - Overview.md
