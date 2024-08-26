@@ -4,7 +4,7 @@ collections:
     order:
       - Overview.md
       - General FAQs/.keep
-      - General FAQs/Corporate Passes.md
-      - General FAQs/Shuttle Buses.md
       - General FAQs/M Works.md
+      - General FAQs/Shuttle Buses.md
+      - General FAQs/Corporate Passes.md
       - Policy Related FAQs.md
