@@ -5,13 +5,13 @@ variant: tiptap
 description: ""
 ---
 <h3>1) General FAQs</h3>
-<p><a href="" rel="noopener nofollow" target="_blank">M-Works information</a>
+<p><a href="/mworks/" rel="noopener nofollow" target="_blank">M-Works information</a>
 </p>
 <hr>
-<p><a href="" rel="noopener nofollow" target="_blank">Shuttle bus timings</a>
+<p><a href="/shuttlebus/" rel="noopener nofollow" target="_blank">Shuttle bus timings</a>
 </p>
 <hr>
-<p><a href="" rel="noopener nofollow" target="_blank">Corporate passes</a>
+<p><a href="/corp-passes/" rel="noopener nofollow" target="_blank">Corporate passes</a>
 </p>
 <p></p>
 <h3>2) Policy-related FAQs</h3>
