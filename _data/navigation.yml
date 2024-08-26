@@ -10,7 +10,7 @@ links:
       - title: Navi
         url: https://navi.defence.gov.sg
   - title: Employee Resources
-    url: /resources
+    url: /resources/
     sublinks:
       - title: FAQs
         url: /faqs
