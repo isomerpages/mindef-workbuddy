@@ -23,6 +23,6 @@ sections:
           description: Access HR services here
           url: https://www.ns.gov.sg
         - title: Navi
-          description: Find official documents here
+          description: Find policy information here
           url: https://navi.defence.gov.sg
 ---
