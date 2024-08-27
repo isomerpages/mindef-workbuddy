@@ -13,7 +13,7 @@ description: ""
 <h3><a href="https://navi.defence.gov.sg" rel="noopener nofollow" target="_blank">Navi</a></h3>
 <p>Find official documents here</p>
 <hr>
-<h3>WorkPal (under construction) </h3>
+<h3>WorkPal (under construction)</h3>
 <p></p>
 <p>Access WoG services like CoWork booking, business card and career coaching
-here (link directs to WorkPal app; only works on mobile device)</p>
+here (link goes to WorkPal app; only works on mobile device)</p>
