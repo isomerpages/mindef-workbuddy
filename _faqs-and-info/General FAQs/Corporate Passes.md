@@ -5,10 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: General FAQs
 ---
+<p></p>
+<h4>Go to the <a href="https://safpscwelfare.my.canva.site/deals" rel="noopener nofollow" target="_blank">SAFPSC Welfare Portal</a></h4>
+<h4><strong>What are the benefits of Corporate Passes for approved MINDEF/SAF applicants?</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>What are the benefits of Corporate Passes for approved MINDEF/SAF applicants?</strong>
-</p>
 <p>Corporate passes provide complimentary access to a range of local attractions
 for approved MINDEF/SAF applicants, on a first come first served basis.</p>
 <p></p>
