@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: General FAQs
 ---
-<h3>Go to the <a href="https://safpscwelfare.my.canva.site/deals" rel="noopener nofollow" target="_blank">SAFPSC Welfare Portal</a></h3>
+<h3>Go to <a href="https://safpscwelfare.my.canva.site/deals" rel="noopener nofollow" target="_blank">SAFPSC Welfare Portal</a></h3>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
