@@ -5,7 +5,7 @@ description: MINDEF/SAF Employee landing page
 image: /images/shareicon.png
 permalink: /
 notification: Welcome to the new WorkBuddy website! Let us know your thoughts on
-  the website through the Feedback link above!
+  the website via the Feedback link above!
 sections:
   - hero:
       title: WorkBuddy
