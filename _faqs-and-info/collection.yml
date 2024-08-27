@@ -2,7 +2,6 @@ collections:
   faqs-and-info:
     output: true
     order:
-      - Overview2.md
       - General FAQs/.keep
       - General FAQs/M Works.md
       - General FAQs/Shuttle Buses.md
