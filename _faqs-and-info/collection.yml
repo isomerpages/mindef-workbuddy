@@ -1,5 +1,5 @@
 collections:
-  resource-pages:
+  faqs-and-info:
     output: true
     order:
       - General FAQs/.keep
