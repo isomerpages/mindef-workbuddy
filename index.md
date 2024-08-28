@@ -13,7 +13,7 @@ sections:
       background: /images/ns_hub_cropped.jpg
       variant: center
       key_highlights:
-        - title: FAQ"s"
+        - title: FAQs
           description: Find common information here
           url: /mworks/
         - title: Book
