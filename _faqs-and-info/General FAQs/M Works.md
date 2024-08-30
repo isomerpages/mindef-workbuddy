@@ -9,7 +9,8 @@ third_nav_title: General FAQs
 <h3>Find information about M-Works by location below</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>North</summary>
+<summary><strong>North</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>M-Works@Chong Pang Camp</h4>
 <div class="isomer-image-wrapper">
@@ -107,7 +108,8 @@ more details</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>South</summary>
+<summary><strong>South</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>M-Works@DTTB</h4>
 <div class="isomer-image-wrapper">
@@ -301,7 +303,8 @@ more details</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>East</summary>
+<summary><strong>East</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>M-Works@Tampines</h4>
 <p></p>
@@ -406,7 +409,8 @@ more details</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>West</summary>
+<summary><strong>West</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>M-Works@New CMPB (Coming Soon!)</h4>
 <table style="minWidth: 50px">
