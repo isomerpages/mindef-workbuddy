@@ -13,8 +13,14 @@ third_nav_title: General FAQs
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>M-Works@Chong Pang Camp</h4>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="M works Chong Pang Camp" src="/images/M works/mworks_CPC.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/M works/mworks_cpc2.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
