@@ -5,7 +5,9 @@ description: MINDEF/SAF Employee landing page
 image: /images/shareicon.png
 permalink: /
 notification: Welcome to the new WorkBuddy website! Let us know your thoughts on
-  the website or feedback on any employee matter via the Feedback link above!
+  the website or feedback on any employee matter via the Feedback link above, or
+  if accessing on a mobile device, click the three lines that appear on the top
+  right hand corner!
 sections:
   - hero:
       title: WorkBuddy
