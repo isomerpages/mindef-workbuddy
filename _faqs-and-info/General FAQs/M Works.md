@@ -235,7 +235,7 @@ more details</p>
 <p>Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Bukit Merah Central, Level 10, Singapore 15983</p>
+<p>2 Bukit Merah Central, Level 10, Singapore 159835</p>
 </td>
 </tr>
 <tr>
