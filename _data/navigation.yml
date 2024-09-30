@@ -1,14 +1,22 @@
 logo: /images/SDD_logo.png
 links:
-  - title: Book
-    url: https://book.defence.gov.sg
-  - title: OneNS
-    url: https://www.ns.gov.sg
-  - title: Navi
-    url: https://navi.defence.gov.sg
-  - title: Welfare Portal
-    url: https://safpscwelfare.my.canva.site/deals
-  - title: FAQs
-    url: /faqs
+  - title: Employee Services
+    url: /employee-services/
+    sublinks:
+      - title: Book
+        url: https://book.defence.gov.sg
+      - title: OneNS
+        url: https://www.ns.gov.sg
+      - title: Navi
+        url: https://navi.defence.gov.sg
+      - title: WorkPal
+        url: /employee-services/
+  - title: FAQs & Info
+    url: /mworks/
+    sublinks:
+      - title: FAQs
+        url: /mworks/
+      - title: SAFPSC Welfare Portal
+        url: https://safpscwelfare.my.canva.site/deals
   - title: Feedback
     url: https://go.gov.sg/mindefempfeedback

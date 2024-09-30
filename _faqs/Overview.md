@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /faqs/
+permalink: /faq1/
 variant: tiptap
 description: ""
 ---

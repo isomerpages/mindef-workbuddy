@@ -5,7 +5,9 @@ description: MINDEF/SAF Employee landing page
 image: /images/shareicon.png
 permalink: /
 notification: Welcome to the new WorkBuddy website! Let us know your thoughts on
-  the website through the Feedback link above!
+  the website or feedback on any employee matter via the Feedback link above, or
+  if accessing on a mobile device, click the three lines that appear on the top
+  right hand corner!
 sections:
   - hero:
       title: WorkBuddy
@@ -13,16 +15,16 @@ sections:
       background: /images/ns_hub_cropped.jpg
       variant: center
       key_highlights:
+        - title: FAQs
+          description: Find common information here
+          url: /mworks/
         - title: Book
           description: Book a resource here
           url: https://book.defence.gov.sg
         - title: OneNS
-          description: Find HR services here
+          description: Access HR services here
           url: https://www.ns.gov.sg
         - title: Navi
-          description: Find official documents here
+          description: Find policy information here
           url: https://navi.defence.gov.sg
-        - title: FAQs
-          description: Find common information here
-          url: /faqs/
 ---

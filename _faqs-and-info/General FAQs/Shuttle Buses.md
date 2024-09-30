@@ -3,7 +3,7 @@ title: Shuttle Buses
 permalink: /shuttlebus/
 variant: tiptap
 description: ""
-third_nav_title: General
+third_nav_title: General FAQs
 ---
 <h2>Shuttle bus timings</h2>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -350,7 +350,7 @@ third_nav_title: General
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1830hrs</strong>
+<p><strong>1900hrs</strong>
 </p>
 </td>
 </tr>
