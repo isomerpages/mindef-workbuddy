@@ -26,4 +26,10 @@ sections:
         - title: Navi
           description: Find policy information here
           url: https://navi.defence.gov.sg
+  - infopic:
+      title: MINDEF Townhall 2024
+      id: infopic
+      description: PS(D) shared at MINDEF Townhall 2024
+      image: /images/handsome man.jpg
+      alt: Image alt text
 ---
