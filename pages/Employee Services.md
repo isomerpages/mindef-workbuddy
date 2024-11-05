@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><a href="https://book.defence.gov.sg" rel="noopener nofollow" target="_blank">Book</a></h3>
-<p>Book a room/ resource here</p>
+<p>Book a meeting room/ resource here</p>
 <hr>
 <h3><a href="https://www.ns.gov.sg" rel="noopener nofollow" target="_blank">OneNS</a></h3>
 <p>Access HR services here</p>
@@ -18,5 +18,5 @@ description: ""
 <hr>
 <h3>WorkPal App (for <a href="https://apps.apple.com/sg/app/workpal-for-sg-public-service/id1329488106" rel="noopener nofollow" target="_blank">iOS</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace&amp;hl=en_SG" rel="noopener nofollow" target="_blank">Android</a> devices)</h3>
 <p></p>
-<p>Access WoG services like CoWork booking, business card and career coaching
-on WorkPal mobile app (Links go to mobile app stores)</p>
+<p>Access WoG services like CoWork booking, GovWallet and business card on
+WorkPal mobile app (Links go to mobile app stores)</p>
