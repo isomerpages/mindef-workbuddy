@@ -96,7 +96,7 @@ third_nav_title: General FAQs
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1430hrs</strong>
+<p><strong>1415hrs</strong>
 </p>
 </td>
 </tr>
