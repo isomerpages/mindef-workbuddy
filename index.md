@@ -26,4 +26,10 @@ sections:
         - title: Navi
           description: Find policy information here
           url: https://navi.defence.gov.sg
+  - infobar:
+      title: Civil Service Year‑End Payment 2024
+      id: infobar
+      description: Civil servants to receive 1.05 months year-end bonus
+      button: Read more
+      url: https://www.psd.gov.sg/civil-service-year-end-payment-2024/
 ---
