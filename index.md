@@ -33,4 +33,5 @@ sections:
         officers get an additional one-time payment of $600.
       button: Read more
       url: https://www.psd.gov.sg/civil-service-year-end-payment-2024/
+      subtitle: newsflash
 ---
