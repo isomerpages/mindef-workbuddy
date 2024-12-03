@@ -20,5 +20,18 @@ links:
         url: /mworks/
       - title: SAFPSC Welfare Portal
         url: https://safpscwelfare.my.canva.site/deals
+  - title: Common WOG Products
+    url: /permalink
+    sublinks:
+      - title: FormSG
+        url: https://form.gov.sg
+      - title: Go.gov.sg
+        url: https://go.gov.sg
+      - title: CalSG
+        url: https://cal.gov.sg
+      - title: Plumber
+        url: https://plumber.gov.sg
+      - title: Postman
+        url: https://postman.gov.sg
   - title: Feedback
     url: https://go.gov.sg/mindefempfeedback
