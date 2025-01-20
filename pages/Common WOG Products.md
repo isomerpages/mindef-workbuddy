@@ -4,10 +4,18 @@ permalink: /common-wog-products/
 variant: tiptap
 description: ""
 ---
+<h2><a href="https://pair.gov.sg/chat" rel="noopener nofollow" target="_blank">Pair</a></h2>
+<h4><strong>Fast and secure large language model for SG public service</strong></h4>
+<p>Only accessible on work devices.</p>
+<hr>
 <h2><a href="https://www.transcribe.gov.sg/" rel="noopener nofollow" target="_blank">Transcribe</a></h2>
-<h4><strong>Speech-to-Text transciption platform</strong></h4>
+<h4><strong>Speech-to-Text transcription platform</strong></h4>
 <p>Boost meeting productivity by using live transcription, notes and auto-summarisation
 features.</p>
+<hr>
+<h2><a href="https://aibots.gov.sg/" rel="noopener nofollow" target="_blank">AIBots</a></h2>
+<h4><strong>Create customised Generative AI chatbots</strong></h4>
+<p>Only accessible on work devices.</p>
 <hr>
 <h2><a href="https://form.gov.sg" rel="noopener nofollow" target="_blank">FormSG</a></h2>
 <h4><strong>Build secure government forms in minutes</strong></h4>
