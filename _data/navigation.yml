@@ -23,6 +23,12 @@ links:
   - title: Common WOG Products
     url: /common-wog-products
     sublinks:
+      - title: Pair
+        url: https://pair.gov.sg/chat
+      - title: Transcribe
+        url: https://www.transcribe.gov.sg/
+      - title: AIBots
+        url: https://aibots.gov.sg/
       - title: FormSG
         url: https://form.gov.sg
       - title: Go.gov.sg
@@ -33,7 +39,5 @@ links:
         url: https://plumber.gov.sg
       - title: Postman
         url: https://postman.gov.sg
-      - title: Transcribe
-        url: https://www.transcribe.gov.sg/
   - title: Feedback
     url: https://go.gov.sg/mindefempfeedback
