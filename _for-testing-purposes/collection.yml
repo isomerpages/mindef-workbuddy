@@ -1,4 +1,5 @@
 collections:
   for-testing-purposes:
     output: true
-    order: []
+    order:
+      - testpage.md
