@@ -1,0 +1,4 @@
+collections:
+  for-testing-purposes:
+    output: true
+    order: []
