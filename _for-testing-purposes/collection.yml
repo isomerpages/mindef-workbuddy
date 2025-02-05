@@ -2,4 +2,5 @@ collections:
   for-testing-purposes:
     output: true
     order:
+      - MINDEF Training Academy.md
       - testpage.md
