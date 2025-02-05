@@ -42,7 +42,11 @@ description: ""
 <summary><strong>Defence Manager Development Programme</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><em>To provide personnel with a deeper understanding of the organisation.</em>
+</p>
 <p></p>
+<p><em>Sign up here</em>
+</p>
 </div>
 </details>
 </div>
