@@ -17,7 +17,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Finance Milestone Courses</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">List of courses</div>
 </div>
 </a>
 </div>
