@@ -12,6 +12,13 @@ description: ""
 <p><em>Provide newly hired personnel a fundamental understanding of the organisation and the contributions they have in supporting the organisation’s goals and objectives.</em>
 </p>
 <p></p>
+<p>This class is open to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Newly recruited personnel</p>
+</li>
+</ul>
+<p></p>
 <p><em>Sign up here</em>
 </p>
 </div>
