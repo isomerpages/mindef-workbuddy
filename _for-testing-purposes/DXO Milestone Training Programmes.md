@@ -19,7 +19,7 @@ description: ""
 </li>
 </ul>
 <p></p>
-<p><em>Sign up here</em>
+<p><em>Sign up here: </em><strong><a href="https://go.gov.sg/dfpp1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dfpp1</a></strong>
 </p>
 </div>
 </details>
