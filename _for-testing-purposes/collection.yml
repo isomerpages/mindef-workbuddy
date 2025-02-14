@@ -1,0 +1,7 @@
+collections:
+  for-testing-purposes:
+    output: true
+    order:
+      - MINDEF Training Academy.md
+      - DXO Milestone Training Programmes.md
+      - Finance Milestone Courses.md
