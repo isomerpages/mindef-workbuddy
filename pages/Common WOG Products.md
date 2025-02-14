@@ -27,10 +27,13 @@ classified and sensitive data.</p>
 <p><a href="http://Go.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Go.gov.sg</a> short
 links can only be created by public officers to ensure authenticity.</p>
 <hr>
+<h2><a href="https://events.gov.sg/" rel="noopener nofollow" target="_blank">EventSG</a></h2>
+<h4><strong>Attendance tracking at events</strong></h4>
+<p>No more manual attendance-taking.</p>
+<hr>
 <h2><a href="https://cal.gov.sg" rel="noopener nofollow" target="_blank">CalSG</a></h2>
-<h4><strong>Appointments for government</strong></h4>
-<p>Collect appointment bookings easily using a legitimate self-service government
-tool at zero cost and no onboarding.</p>
+<h4><strong>Collect appointment bookings</strong></h4>
+<p>Manage bookings for events and appointments.</p>
 <hr>
 <h2><a href="https://plumber.gov.sg" rel="noopener nofollow" target="_blank">Plumber</a></h2>
 <h4><strong>Automating tasks for public service</strong></h4>
