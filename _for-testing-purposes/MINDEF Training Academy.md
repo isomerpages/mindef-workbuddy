@@ -4,6 +4,8 @@ permalink: /mindef-training-academy/
 variant: tiptap
 description: ""
 ---
+<h1>This page is for testing purposes only.</h1>
+<p></p>
 <p><a href="https://sttms.outsystemsenterprise.com/WeManagePortal/Chapter" rel="noopener noreferrer nofollow" target="_blank">https://sttms.outsystemsenterprise.com/WeManagePortal/Chapter</a>
 </p>
 <p></p>
