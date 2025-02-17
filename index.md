@@ -4,9 +4,8 @@ title: WorkBuddy
 description: MINDEF/SAF Employee landing page
 image: /images/shareicon.png
 permalink: /
-notification: Welcome to WorkBuddy! Share your thoughts on the site or any
-  employee matters via the Feedback link above. On mobile, tap the menu icon (3
-  lines) in the top right.
+notification: Check out the newly added section "Common WOG Tools" via the
+  navbar to add a boost  to your productivity!
 sections:
   - hero:
       title: WorkBuddy
