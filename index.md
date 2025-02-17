@@ -4,8 +4,8 @@ title: WorkBuddy
 description: MINDEF/SAF Employee landing page
 image: /images/shareicon.png
 permalink: /
-notification: Check out the newly added section "Common WOG Tools" via the
-  navbar to add a boost  to your productivity!
+notification: Check out the newly added section "Common WOG Products" via the
+  navbar to add a boost to your productivity!
 sections:
   - hero:
       title: WorkBuddy
