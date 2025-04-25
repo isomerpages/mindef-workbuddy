@@ -58,5 +58,12 @@ description: ""
 </p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Defence Foundation Programme Phase 1 (November)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Sign up here: https://go.gov.sg/somelink</p>
+</div>
+</details>
 </div>
 <p></p>

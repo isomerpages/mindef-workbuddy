@@ -11,6 +11,10 @@ links:
         url: https://navi.defence.gov.sg
       - title: Visitor In-Processing Service
         url: https://host.vis.defence.gov.sg/
+      - title: Payflow Portal
+        url: https://www.payflow.gov.sg
+      - title: Payflow Back Office
+        url: https://backoffice.payflow.gov.sg
       - title: WorkPal
         url: /employee-services/#:~:text=WorkPal
   - title: FAQs & Info

@@ -313,6 +313,8 @@ more details</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>M-Works@Tampines</h4>
+<p><em>*Temporarily closed from </em><strong><em>22 April to 5 May 2025</em></strong><em>.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="M Works Tampines" src="/images/M works/mworks_tampines.png">
@@ -350,7 +352,7 @@ more details</p>
 <p>Network Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Available, see <a href="https://book.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
+<p>Available, see <a href="https://book.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Book</u></a> for
 more details</p>
 </td>
 </tr>

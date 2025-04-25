@@ -16,6 +16,12 @@ description: ""
 <h3><a href="https://host.vis.defence.gov.sg/" rel="noopener nofollow" target="_blank">Visitor In-Processing Service (VIS)</a></h3>
 <p>Register visitors for entry into camps &amp; bases here</p>
 <hr>
+<h3><a href="https://www.payflow.gov.sg" rel="noopener nofollow" target="_blank">Payflow Portal</a></h3>
+<p>&lt;Your description goes here&gt;</p>
+<hr>
+<h3><a href="https://backoffice.payflow.gov.sg" rel="noopener nofollow" target="_blank">Payflow Back Office</a></h3>
+<p>&lt;Your description goes here&gt;</p>
+<hr>
 <h3>WorkPal App (for <a href="https://apps.apple.com/sg/app/workpal-for-sg-public-service/id1329488106" rel="noopener nofollow" target="_blank">iOS</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace&amp;hl=en_SG" rel="noopener nofollow" target="_blank">Android</a> devices)</h3>
 <p></p>
 <p>Access WoG services like CoWork booking, GovWallet and business card on
