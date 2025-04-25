@@ -352,7 +352,8 @@ more details</p>
 <p>Network Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not available</p>
+<p>Available, see <a href="https://book.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Book</u></a> for
+more details</p>
 </td>
 </tr>
 <tr>
@@ -360,7 +361,7 @@ more details</p>
 <p>Quiet Room/Pod</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not available</p>
+<p>Available</p>
 </td>
 </tr>
 <tr>
@@ -368,7 +369,7 @@ more details</p>
 <p>Work Booth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not available</p>
+<p>Available</p>
 </td>
 </tr>
 <tr>
@@ -376,7 +377,7 @@ more details</p>
 <p>Discussion Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not available</p>
+<p>Available</p>
 </td>
 </tr>
 <tr>
@@ -384,7 +385,7 @@ more details</p>
 <p>Meeting Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not available</p>
+<p>Available</p>
 </td>
 </tr>
 <tr>
@@ -392,7 +393,7 @@ more details</p>
 <p>Hot Desk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not available</p>
+<p>Available</p>
 </td>
 </tr>
 <tr>
@@ -400,7 +401,7 @@ more details</p>
 <p>Pantry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not available</p>
+<p>Available</p>
 </td>
 </tr>
 <tr>
@@ -408,7 +409,7 @@ more details</p>
 <p>Nursing Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not available</p>
+<p>Available</p>
 </td>
 </tr>
 </tbody>
