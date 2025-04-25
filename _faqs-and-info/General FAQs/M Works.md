@@ -352,7 +352,7 @@ more details</p>
 <p>Network Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not available, see <a href="https://book.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Book</a> for more details</p>
+<p>Not available</p>
 </td>
 </tr>
 <tr>
