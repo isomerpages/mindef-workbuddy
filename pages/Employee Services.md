@@ -17,6 +17,42 @@ description: ""
 <p>Register visitors for entry into camps &amp; bases here</p>
 <hr>
 <h3>WorkPal App (for <a href="https://apps.apple.com/sg/app/workpal-for-sg-public-service/id1329488106" rel="noopener nofollow" target="_blank">iOS</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace&amp;hl=en_SG" rel="noopener nofollow" target="_blank">Android</a> devices)</h3>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="App Store button" src="/images/App_Store.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Play store button" src="/images/GetItOnGooglePlay_Badge_Web_color_English.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p>Access WoG services like CoWork booking, GovWallet and business card on
 WorkPal mobile app (Links go to mobile app stores)</p>
