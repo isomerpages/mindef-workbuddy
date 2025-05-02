@@ -16,7 +16,7 @@ description: ""
 <h3><a href="https://host.vis.defence.gov.sg/" rel="noopener nofollow" target="_blank">Visitor In-Processing Service (VIS)</a></h3>
 <p>Register visitors for entry into camps &amp; bases here</p>
 <hr>
-<h3>WorkPal App (for <a href="https://apps.apple.com/sg/app/workpal-for-sg-public-service/id1329488106" rel="noopener nofollow" target="_blank">iOS</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace&amp;hl=en_SG" rel="noopener nofollow" target="_blank">Android</a> devices)</h3>
+<h3>WorkPal Mobile App</h3>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -28,15 +28,9 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="App Store button" src="/images/App_Store.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://apps.apple.com/sg/app/workpal-for-sg-public-service/id1329488106"><img style="width: 100%;" height="auto" width="100%" alt="App Store button" src="/images/App_Store.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Play store button" src="/images/GetItOnGooglePlay_Badge_Web_color_English.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace&amp;hl=en_SG"><img style="width: 50%;" height="auto" width="100%" alt="Play store button" src="/images/GetItOnGooglePlay_Badge_Web_color_English.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
