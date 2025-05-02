@@ -17,8 +17,9 @@ description: ""
 <p>Register visitors for entry into camps &amp; bases here</p>
 <hr>
 <h3>WorkPal Mobile App</h3>
-<table style="minWidth: 150px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -44,12 +45,11 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/download_on_the_app_store.svg">
-</div>
 <p>Access WoG services like CoWork booking, GovWallet and business card on
 WorkPal mobile app (Links go to mobile app stores)</p>
