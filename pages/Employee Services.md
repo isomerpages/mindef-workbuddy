@@ -17,6 +17,8 @@ description: ""
 <p>Register visitors for entry into camps &amp; bases here</p>
 <hr>
 <h3>WorkPal App</h3>
+<p>Access WoG services like CoWork booking, GovWallet and business card on
+the WorkPal mobile app</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -24,12 +26,11 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://apps.apple.com/sg/app/workpal-for-sg-public-service/id1329488106"><img style="width: 52%;" height="auto" width="100%" alt="App store button" src="/images/Download_on_the_App_Store_Badge.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://apps.apple.com/sg/app/workpal-for-sg-public-service/id1329488106"><img style="width: 75%;" height="auto" width="100%" alt="App store button" src="/images/Download_on_the_App_Store_Badge.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace&amp;hl=en_SG"><img style="width: 55%;" height="auto" width="100%" alt="Play store button" src="/images/GetItOnGooglePlay_Badge_Web_color_English.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace&amp;hl=en_SG"><img style="width: 80%;" height="auto" width="100%" alt="Play store button" src="/images/GetItOnGooglePlay_Badge_Web_color_English.png"></a>
 </th>
 </tr>
 </tbody>
 </table>
-<p>Access WoG services like CoWork booking, GovWallet and business card on
-the WorkPal mobile app</p>
+<p></p>
