@@ -32,4 +32,4 @@ description: ""
 </tbody>
 </table>
 <p>Access WoG services like CoWork booking, GovWallet and business card on
-WorkPal mobile app</p>
+the WorkPal mobile app</p>
