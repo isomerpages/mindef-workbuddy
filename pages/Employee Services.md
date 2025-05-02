@@ -17,15 +17,8 @@ description: ""
 <p>Register visitors for entry into camps &amp; bases here</p>
 <hr>
 <h3>WorkPal App</h3>
-<table style="minWidth: 225px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
@@ -35,27 +28,6 @@ description: ""
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace&amp;hl=en_SG"><img style="width: 55%;" height="auto" width="100%" alt="Play store button" src="/images/GetItOnGooglePlay_Badge_Web_color_English.png"></a>
 </th>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
