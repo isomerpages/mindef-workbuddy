@@ -16,7 +16,7 @@ description: ""
 <h3><a href="https://host.vis.defence.gov.sg/" rel="noopener nofollow" target="_blank">Visitor In-Processing Service (VIS)</a></h3>
 <p>Register visitors for entry into camps &amp; bases here</p>
 <hr>
-<h3>WorkPal Mobile App</h3>
+<h3>WorkPal App</h3>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
