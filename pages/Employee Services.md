@@ -48,5 +48,8 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/download_on_the_app_store.svg">
+</div>
 <p>Access WoG services like CoWork booking, GovWallet and business card on
 WorkPal mobile app (Links go to mobile app stores)</p>
