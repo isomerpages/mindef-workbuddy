@@ -313,8 +313,6 @@ more details</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>M-Works@Tampines</h4>
-<p><em>*Temporarily closed from </em><strong><em>22 April to 5 May 2025</em></strong><em>.</em>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="M Works Tampines" src="/images/M works/mworks_tampines.png">
