@@ -152,6 +152,63 @@ third_nav_title: General FAQs
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong><u>Temporary Shuttle bus for Lunchtime (Timbre+ Hillview)</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First bus</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1130hrs</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Last bus</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1430hrs</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Frequency</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>15 mins</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pick up location</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M-Annex Foyer (MINDEF Building B2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drop off location</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>New CMPB Blk 1</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Evening</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -206,62 +263,6 @@ third_nav_title: General FAQs
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Temporary Shuttle bus for Lunchtime (Timbre+ Hillview)</u></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>First bus</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1130hrs</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Last bus</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1430hrs</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Frequency</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>20 mins</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pick up location</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>M-Annex Foyer (MINDEF Building B2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Drop off location</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>New CMPB Blk 1</p>
-</td>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 <details class="isomer-details">
