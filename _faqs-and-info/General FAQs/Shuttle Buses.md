@@ -75,6 +75,68 @@ third_nav_title: General FAQs
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First bus</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>0700hrs</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Last bus</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1000hrs</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Frequency</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>15-20 mins</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cashew MRT (Taxi Stand)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pass Office (bus stop)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MINDEF Annex Foyer</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Lunchtime</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -89,6 +151,84 @@ third_nav_title: General FAQs
 <th rowspan="1" colspan="1">
 <p>1130hrs</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Last bus</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1415hrs</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Frequency</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>15-20 mins</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MINDEF Taxi Stand</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hillview camp (roadside pickup)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hillion Mall (MRT Exit A Bus Stop)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hillv2 Bus Stop</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MINDEF Pass Office</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First bus</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1130hrs</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -262,7 +402,60 @@ third_nav_title: General FAQs
 </tr>
 </tbody>
 </table>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First bus</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1630hrs (Fri: 1600hrs)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Last bus</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2130hrs (Fri: 2100hrs)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Frequency</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>15-20 mins</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MINDEF Building B2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cashew MRT (Bus Stop 843109)</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
