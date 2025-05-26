@@ -106,7 +106,7 @@ third_nav_title: General FAQs
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15-20 mins</strong>
+<p><strong>30 mins</strong>
 </p>
 </td>
 </tr>
