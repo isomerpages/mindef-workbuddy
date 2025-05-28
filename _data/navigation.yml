@@ -5,12 +5,12 @@ links:
     sublinks:
       - title: Book
         url: https://book.defence.gov.sg
-      - title: HR Admin
-        url: /employee-services/#:~:text=HR Admin
       - title: Navi
         url: https://navi.defence.gov.sg
       - title: Visitor In-Processing Service
         url: https://host.vis.defence.gov.sg/
+      - title: HR Admin
+        url: /employee-services/#:~:text=HR Admin
       - title: WorkPal
         url: /employee-services/#:~:text=WorkPal
   - title: FAQs & Info
