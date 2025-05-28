@@ -7,6 +7,12 @@ description: ""
 <h3><a href="https://book.defence.gov.sg" rel="noopener nofollow" target="_blank">Book</a></h3>
 <p>Book a meeting room/ resource here</p>
 <hr>
+<h3><a href="https://navi.defence.gov.sg" rel="noopener nofollow" target="_blank">Navi</a></h3>
+<p>Find policy documents here</p>
+<hr>
+<h3><a href="https://host.vis.defence.gov.sg/" rel="noopener nofollow" target="_blank">Visitor In-Processing Service (VIS)</a></h3>
+<p>Register visitors for entry into camps &amp; bases here</p>
+<hr>
 <h2>HR Admin (HRA)</h2>
 <h3><a href="https://www.ns.gov.sg" rel="noopener nofollow" target="_blank">OneNS</a></h3>
 <p>Access most HRA services here</p>
@@ -80,12 +86,6 @@ You must discuss your leave plans with your superiors prior to submission.</p>
 </table>
 <p><em>*refers to Maternity, Paternity, Shared Parental, No-Pay Maternity, and Adoption Leaves</em>
 </p>
-<hr>
-<h3><a href="https://navi.defence.gov.sg" rel="noopener nofollow" target="_blank">Navi</a></h3>
-<p>Find policy documents here</p>
-<hr>
-<h3><a href="https://host.vis.defence.gov.sg/" rel="noopener nofollow" target="_blank">Visitor In-Processing Service (VIS)</a></h3>
-<p>Register visitors for entry into camps &amp; bases here</p>
 <hr>
 <h2>WorkPal App</h2>
 <p>Access WoG services like CoWork booking, GovWallet and business card on
