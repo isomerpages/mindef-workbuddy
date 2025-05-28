@@ -19,8 +19,8 @@ sections:
         - title: Book
           description: Book a resource here
           url: https://book.defence.gov.sg
-        - title: OneNS
-          description: Access HR services here
+        - title: HR Admin
+          description: Access HRA services here
           url: https://www.ns.gov.sg
         - title: Navi
           description: Find policy information here
