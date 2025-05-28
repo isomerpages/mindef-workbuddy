@@ -15,14 +15,12 @@ description: ""
 <hr>
 <h2>HR Admin (HRA)</h2>
 <h3><a href="https://www.ns.gov.sg" rel="noopener nofollow" target="_blank">OneNS</a></h3>
-<p>Access most HRA services here</p>
+<p>Apply for leave (annual and medical) &amp; claims here</p>
 <p></p>
 <h3>Application for leave types not found in OneNS</h3>
 <p>The following FormSG forms will replace the PDF form, which will no longer
-be processed. You will need your superior's defence mail or DWP email address.
-You must discuss your leave plans with your superiors prior to submission.</p>
-<p>Please visit the following links depending on the Leave Type and your
-Unit (MINDEF or SAF).</p>
+be processed. Visit the following links depending on the Leave Type and
+your Service (MINDEF or SAF).</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
