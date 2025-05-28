@@ -20,7 +20,7 @@ sections:
           description: Book a resource here
           url: https://book.defence.gov.sg
         - title: HR Admin
-          description: Access selected HR services
+          description: Access selected HRA services
           url: /employee-services/#:~:text=HR Admin
         - title: Navi
           description: Find policy information here
