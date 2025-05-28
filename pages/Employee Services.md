@@ -21,8 +21,8 @@ description: ""
 <p>The following FormSG forms will replace the PDF form, which will no longer
 be processed. You will need your superior's defence mail or DWP email address.
 You must discuss your leave plans with your superiors prior to submission.</p>
-<p>Please use the following links depending on the Leave Type and your Unit
-(MINDEF or SAF).</p>
+<p>Please visit the following links depending on the Leave Type and your
+Unit (MINDEF or SAF).</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
