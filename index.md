@@ -4,8 +4,8 @@ title: WorkBuddy
 description: MINDEF/SAF Employee landing page
 image: /images/shareicon.png
 permalink: /
-notification: Check out the newly added section "Common WOG Products" via the
-  navbar to add a boost to your productivity!
+notification: It is now easier to apply for more leave types. Check out the HR
+  Admin section via the button below!
 sections:
   - hero:
       title: WorkBuddy
