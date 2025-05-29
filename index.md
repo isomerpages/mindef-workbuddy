@@ -14,15 +14,15 @@ sections:
       variant: center
       key_highlights:
         - title: FAQs
-          description: Find common information here
+          description: Find common information
           url: /mworks/
         - title: Book
-          description: Book a resource here
+          description: Book a resource
           url: https://book.defence.gov.sg
         - title: HR Admin
           description: Access selected HRA services
           url: /employee-services/#:~:text=HR Admin
         - title: Navi
-          description: Find policy information here
+          description: Find policy information
           url: https://navi.defence.gov.sg
 ---
