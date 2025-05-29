@@ -4,8 +4,8 @@ title: WorkBuddy
 description: MINDEF/SAF Employee landing page
 image: /images/shareicon.png
 permalink: /
-notification: Check out the newly added section "Common WOG Products" via the
-  navbar to add a boost to your productivity!
+notification: It is now easier to apply for more leave types. Check out the HR
+  Admin section via the button below!
 sections:
   - hero:
       title: WorkBuddy
@@ -14,15 +14,15 @@ sections:
       variant: center
       key_highlights:
         - title: FAQs
-          description: Find common information here
+          description: Find common information
           url: /mworks/
         - title: Book
-          description: Book a resource here
+          description: Book a resource
           url: https://book.defence.gov.sg
-        - title: OneNS
-          description: Access HR services here
-          url: https://www.ns.gov.sg
+        - title: HR Admin
+          description: Access selected HRA services
+          url: /employee-services/#:~:text=HR Admin
         - title: Navi
-          description: Find policy information here
+          description: Find policy information
           url: https://navi.defence.gov.sg
 ---
