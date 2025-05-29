@@ -15,8 +15,8 @@ description: ""
 <hr>
 <h2>HR Admin (HRA)</h2>
 <h3><a href="https://www.ns.gov.sg" rel="noopener nofollow" target="_blank">OneNS</a></h3>
-<p>Access selected HRA services like leave (annual and medical) &amp; claims
-here</p>
+<p>Access selected HRA services like leave (annual, medical, and childcare)
+&amp; claims here</p>
 <p></p>
 <h3>Application for leave types not found in OneNS</h3>
 <p>The following FormSG forms will replace the PDF form, which will no longer
