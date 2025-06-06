@@ -35,6 +35,10 @@ links can only be created by public officers to ensure authenticity.</p>
 <h4><strong>Collect appointment bookings</strong></h4>
 <p>Manage bookings for events and appointments.</p>
 <hr>
+<h2><a href="https://pinpoint.gov.sg" rel="noopener nofollow" target="_blank">Pinpoint</a></h2>
+<h4><strong>Organise media with a few clicks</strong></h4>
+<p>Store, search, and share media on a single platform.</p>
+<hr>
 <h2><a href="https://plumber.gov.sg" rel="noopener nofollow" target="_blank">Plumber</a></h2>
 <h4><strong>Automating tasks for public service</strong></h4>
 <p>Save time with workflow automations.</p>
