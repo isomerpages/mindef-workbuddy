@@ -196,7 +196,7 @@ third_nav_title: General FAQs
 <p>Pick up location</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>M-Annex Foyer (MINDEF Building B2)</p>
+<p>M-Annex Foyer</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +249,7 @@ third_nav_title: General FAQs
 <p>Stop 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MINDEF Building B2</p>
+<p>M-Annex Foyer</p>
 </td>
 </tr>
 <tr>
