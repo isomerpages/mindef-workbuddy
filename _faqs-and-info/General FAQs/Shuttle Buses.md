@@ -70,7 +70,7 @@ third_nav_title: General FAQs
 <p>Stop 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MINDEF Annex Foyer</p>
+<p>M-Annex Foyer</p>
 </td>
 </tr>
 </tbody>
