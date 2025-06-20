@@ -445,7 +445,8 @@ third_nav_title: General FAQs
 <summary>New CMPB</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h2>New CMPB</h2>
-<h4><u>Temporary Shuttle bus between Cashew MRT and new CMPB</u> (from 23 Jun 2025 onwards)</h4>
+<p><strong><u>Temporary Shuttle bus between Cashew MRT and new CMPB (from 23 Jun 2025 onwards)</u></strong>
+</p>
 <h3>Monday to Friday</h3>
 <table style="minWidth: 50px">
 <colgroup>
