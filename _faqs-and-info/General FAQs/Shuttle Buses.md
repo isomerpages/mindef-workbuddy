@@ -441,6 +441,120 @@ third_nav_title: General FAQs
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>New CMPB</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h2>New CMPB</h2>
+<p><strong><u>Temporary Shuttle bus between Cashew MRT and new CMPB (from 23 Jun 2025 onwards</u>)</strong>
+</p>
+<h3>Monday to Friday</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>First bus</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>0700hrs</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Last bus</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1930hrs</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Frequency</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>15 mins</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cashew MRT (Taxi Stand)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>New CMPB (Block 1)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Saturday</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>First bus</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>0700hrs</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Last bus</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1400hrs</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Frequency</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>15 mins</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cashew MRT (Taxi Stand)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stop 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>New CMPB (Block 1)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
