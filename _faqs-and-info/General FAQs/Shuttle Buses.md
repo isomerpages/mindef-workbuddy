@@ -311,7 +311,7 @@ third_nav_title: General FAQs
 <p>Stop 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Harbourfront MRT (Exit D Taxi Stand)</p>
+<p>HarbourFront MRT (Exit D Taxi Stand)</p>
 </td>
 </tr>
 <tr>
@@ -433,7 +433,7 @@ third_nav_title: General FAQs
 <p>Stop 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Harbourfront MRT (Exit D Taxi Stand)</p>
+<p>HarbourFront MRT (Exit D Taxi Stand)</p>
 </td>
 </tr>
 </tbody>
