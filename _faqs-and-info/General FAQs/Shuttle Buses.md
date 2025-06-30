@@ -311,7 +311,7 @@ third_nav_title: General FAQs
 <p>Stop 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Harbourfront MRT (Exit D Taxi Stand)</p>
+<p>HarbourFront MRT (Exit D Taxi Stand)</p>
 </td>
 </tr>
 <tr>
@@ -433,7 +433,7 @@ third_nav_title: General FAQs
 <p>Stop 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Harbourfront MRT (Exit D Taxi Stand)</p>
+<p>HarbourFront MRT (Exit D Taxi Stand)</p>
 </td>
 </tr>
 </tbody>
@@ -445,6 +445,10 @@ third_nav_title: General FAQs
 <summary>New CMPB</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h2>New CMPB</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bus_pic.jpg">
+</div>
 <p><strong><u>Temporary Shuttle bus between Cashew MRT and new CMPB (from 23 Jun 2025 onwards</u>)</strong>
 </p>
 <h3>Monday to Friday</h3>
