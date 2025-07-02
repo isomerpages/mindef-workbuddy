@@ -96,7 +96,7 @@ third_nav_title: General FAQs
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1415hrs</strong>
+<p><strong>1400hrs</strong>
 </p>
 </td>
 </tr>
@@ -257,7 +257,7 @@ third_nav_title: General FAQs
 <p>Stop 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cashew MRT (Bus Stop 843109)</p>
+<p>Cashew MRT (Taxi Stand)</p>
 </td>
 </tr>
 </tbody>
