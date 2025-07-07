@@ -1,9 +1,8 @@
 ---
 title: Shuttle Buses
-permalink: /shuttlebus/
+permalink: /general-faqs/shuttlebus/
 variant: tiptap
 description: ""
-third_nav_title: General FAQs
 ---
 <h2>Shuttle bus timings</h2>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">

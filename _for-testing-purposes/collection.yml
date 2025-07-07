@@ -2,6 +2,8 @@ collections:
   for-testing-purposes:
     output: true
     order:
+      - Policy Related FAQs.md
+      - SAFPSC Welfare Portal.md
       - MINDEF Training Academy.md
       - DXO Milestone Training Programmes.md
       - Finance Milestone Courses.md

@@ -1,6 +1,0 @@
-collections:
-  faqs:
-    output: true
-    order:
-      - Overview2.md
-      - Overview.md

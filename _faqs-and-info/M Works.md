@@ -1,9 +1,8 @@
 ---
 title: M Works
-permalink: /mworks/
+permalink: /general-faqs/mworks/
 variant: tiptap
 description: ""
-third_nav_title: General FAQs
 ---
 <h3><a href="https://book.defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Book an M-Works resource</a></h3>
 <h3>Find information about M-Works by location below</h3>

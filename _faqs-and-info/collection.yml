@@ -2,9 +2,7 @@ collections:
   faqs-and-info:
     output: true
     order:
-      - General FAQs/.keep
-      - General FAQs/M Works.md
-      - General FAQs/Shuttle Buses.md
-      - General FAQs/Corporate Passes.md
-      - Policy Related FAQs.md
-      - SAFPSC Welfare Portal.md
+      - General FAQs.md
+      - Shuttle Buses.md
+      - M Works.md
+      - Corporate Passes.md
