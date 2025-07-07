@@ -1,5 +1,5 @@
 collections:
-  faqs-and-info:
+  faqs:
     output: true
     order:
       - General FAQs.md

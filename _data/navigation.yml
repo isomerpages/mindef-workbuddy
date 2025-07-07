@@ -13,13 +13,15 @@ links:
         url: /employee-services/#:~:text=HR Admin
       - title: WorkPal
         url: /employee-services/#:~:text=WorkPal
-  - title: FAQs & Info
-    url: /general-faqs/
+  - title: FAQs
+    url: /general-faqs
     sublinks:
-      - title: FAQs
-        url: /general-faqs/
-      - title: SAFPSC Welfare Portal
-        url: https://safpscwelfare.my.canva.site/deals
+      - title: Shuttle bus FAQs
+        url: /general-faqs/shuttlebus
+      - title: M-Works FAQs
+        url: /general-faqs/mworks
+      - title: Corporate Passes FAQs
+        url: /general-faqs/corp-passes/
   - title: Common WOG Products
     url: /common-wog-products
     sublinks:
