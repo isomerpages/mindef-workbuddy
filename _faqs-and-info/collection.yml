@@ -2,6 +2,7 @@ collections:
   faqs-and-info:
     output: true
     order:
+      - Corporate Passes.md
       - M Works.md
       - Shuttle Buses.md
       - General FAQs/.keep
