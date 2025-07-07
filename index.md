@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: FAQs
           description: Find common information
-          url: /mworks/
+          url: /general-faqs/
         - title: Book
           description: Book a resource
           url: https://book.defence.gov.sg
