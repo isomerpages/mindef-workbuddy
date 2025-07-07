@@ -19,4 +19,6 @@ third_nav_title: General FAQs
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/general-faqs/corp-passes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Corporate Passes" src="/images/SAFPSC_image.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Corporate Passes FAQs</div><div class="isomer-card-link">FAQs about corporate passes</div></div></a>
 </div>
+<hr>
+<h3>For policy-related FAQs, please head over to <a href="https://navi.defence.gov.sg" rel="noopener nofollow" target="_blank">Navi</a>.</h3>
 <p></p>
