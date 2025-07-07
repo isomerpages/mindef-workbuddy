@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - General FAQs/.keep
-      - General FAQs/Shuttle Buses.md
       - General FAQs/M Works.md
       - General FAQs/Corporate Passes.md
       - General FAQs.md
