@@ -22,7 +22,7 @@ sections:
         - title: HR Admin
           description: Access selected HRA services
           url: /employee-services/#:~:text=HR Admin
-        - title: Navi
-          description: Find policy information
-          url: https://navi.defence.gov.sg
+        - title: PayFlow
+          description: Make payments to MINDEF
+          url: /employee-services/#:~:text=PayFlow
 ---
