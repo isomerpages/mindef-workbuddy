@@ -14,8 +14,8 @@ description: ""
 <p>Register visitors for entry into camps &amp; bases here</p>
 <hr>
 <h3><a href="https://www.payflow.gov.sg" rel="noopener nofollow" target="_blank">PayFlow Online</a></h3>
-<p>Make payment to MINDEF, submit non-HR claims, onboard users, and unlock
-accounts</p>
+<p>Make payment to MINDEF, submit claims (for personel based overseas), onboard
+users, and unlock accounts</p>
 <hr>
 <h3><a href="https://backoffice.payflow.gov.sg" rel="noopener nofollow" target="_blank">PayFlow BizHub</a></h3>
 <p>Manage payment/collection transactions securely via VPN</p>
