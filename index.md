@@ -19,10 +19,10 @@ sections:
         - title: Book
           description: Book a resource
           url: https://book.defence.gov.sg
+        - title: HR Admin
+          description: Access selected HRA services
+          url: /employee-services/#:~:text=HR%20Admin
         - title: Navi
           description: Find policy information
-          url: https://navi.defence.gov.sg
-        - title: PayFlow
-          description: Make payments to MINDEF
-          url: /employee-services/#:~:text=PayFlow
+          url: https://navi.defence.gov.sg/
 ---
