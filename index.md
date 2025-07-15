@@ -23,6 +23,6 @@ sections:
           description: Access selected HRA services
           url: /employee-services/#:~:text=HR Admin
         - title: PayFlow
-          description: Make payments to MINDEF
+          description: Manage payments & collection
           url: /employee-services/#:~:text=PayFlow
 ---
