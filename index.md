@@ -24,5 +24,5 @@ sections:
           url: /employee-services/#:~:text=HR Admin
         - title: Navi
           description: Find policy information
-          url: https://navi.defence.gov.sg/
+          url: https://navi.defence.gov.sg
 ---
