@@ -23,6 +23,6 @@ sections:
           description: Access selected HRA services
           url: /employee-services/#:~:text=HR Admin
         - title: PayFlow
-          description: Access Payflow services
+          description: Access PayFlow services
           url: /employee-services/#:~:text=PayFlow
 ---
