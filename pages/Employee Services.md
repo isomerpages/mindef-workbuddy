@@ -14,11 +14,11 @@ description: ""
 <p>Register visitors for entry into camps &amp; bases here</p>
 <hr>
 <h3><a href="https://www.payflow.gov.sg" rel="noopener nofollow" target="_blank">PayFlow Online</a></h3>
-<p>Make payments to MINDEF, submit in-country expenses (for overseas personnel),
-onboard users, and unlock accounts</p>
+<p>Make payments to MINDEF, submit in-country expenses, onboard users, and
+unlock accounts</p>
 <hr>
 <h3><a href="https://backoffice.payflow.gov.sg" rel="noopener nofollow" target="_blank">PayFlow BizHub</a></h3>
-<p>Manage payment/ collection transactions securely via VPN</p>
+<p>Manage payment/collection transactions securely via VPN</p>
 <hr>
 <h2>HR Admin (HRA)</h2>
 <h3><a href="https://www.ns.gov.sg" rel="noopener nofollow" target="_blank">OneNS</a></h3>
