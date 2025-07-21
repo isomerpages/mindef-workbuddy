@@ -27,7 +27,7 @@ user, you'll find relevant information accessible whenever you need it.</p>
 24/7 to help you work more efficiently and confidently with the tool.</p>
 <p></p>
 <h3>Table of contents</h3>
-<p>About Postman</p>
+<h4><a href="/about/" rel="noopener nofollow" target="_blank">About Postman</a></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Overview</p>
@@ -40,8 +40,7 @@ user, you'll find relevant information accessible whenever you need it.</p>
 <p></p>
 </li>
 </ul>
-<p>Usage of <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> SMS
-Sender ID</p>
+<h4><a href="/usage-of-govsg-sms-sender-id/" rel="noopener nofollow" target="_blank">Usage of gov.sg SMS Sender ID</a></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Eligibility</p>
@@ -66,9 +65,9 @@ Sender ID</p>
 <p>Length and Format</p>
 </li>
 </ul>
-<p>Costs and Payment</p>
-<p>Account Compliance</p>
-<p>Getting Access</p>
+<h4>Costs and Payment</h4>
+<h4>Account Compliance</h4>
+<h4><a href="/getting-access/" rel="noopener nofollow" target="_blank">Getting Access</a></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Account Application</p>
@@ -83,7 +82,7 @@ Sender ID</p>
 <p>Offboarding Process</p>
 </li>
 </ul>
-<p>Creating and Managing SMS Campaigns</p>
+<h4>Creating and Managing SMS Campaigns</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Campaign Creation</p>
@@ -95,8 +94,8 @@ Sender ID</p>
 <p>Large Campaign Management</p>
 </li>
 </ul>
-<p>Incident Management</p>
-<p>Support and References</p>
+<h4>Incident Management</h4>
+<h4>Support and References</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Contact Information</p>
