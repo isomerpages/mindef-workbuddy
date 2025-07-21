@@ -7,7 +7,7 @@ description: ""
 <h2>Shuttle bus timings</h2>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Gombak Base</summary>
+<summary>Gombak Precinct</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h2>Gombak Base</h2>
 <div class="isomer-image-wrapper">
@@ -44,7 +44,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15-20 mins</strong>
+<p><strong>15 mins</strong>
 </p>
 </td>
 </tr>
@@ -239,7 +239,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15-20 mins</strong>
+<p><strong>15 mins</strong>
 </p>
 </td>
 </tr>
