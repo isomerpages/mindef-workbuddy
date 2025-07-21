@@ -2,11 +2,11 @@ collections:
   for-testing-purposes:
     output: true
     order:
-      - Postman FAQs/Getting Access.md
-      - Postman FAQs/Usage of govsg SMS Sender ID.md
       - Postman FAQs/.keep
       - Postman FAQs/Postman FAQs.md
       - Postman FAQs/About Postman.md
+      - Postman FAQs/Usage of govsg SMS Sender ID.md
+      - Postman FAQs/Getting Access.md
       - MINDEF Training Academy.md
       - DXO Milestone Training Programmes.md
       - Finance Milestone Courses.md
