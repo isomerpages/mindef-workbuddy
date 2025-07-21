@@ -24,10 +24,10 @@ features. MINDEF/SAF has already migrated to Postman V2 to utilise its
 SMS messaging service primarily.</p>
 <h4>Q3: Can I use the Broadcast Email Service in Postman Legacy to send email communications to citizens?</h4>
 <p>You may access it at <a href="https://legacy.postman.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://legacy.postman.gov.sg/</a> by
-signing in with your <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> email address to utilise the ‘Broadcast
-Email Service’ in Postman Legacy. The system is managed by Open Government
-Products (OGP). For queries or troubleshooting assistance, please contact
-OGP directly at <a href="https://form.gov.sg/6465d6db09cbc8001286a8d8" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6465d6db09cbc8001286a8d8</a>
+signing in with your gov.sg email address to utilise the ‘Broadcast Email
+Service’ in Postman Legacy. The system is managed by Open Government Products
+(OGP). For queries or troubleshooting assistance, please contact OGP directly
+at <a href="https://form.gov.sg/6465d6db09cbc8001286a8d8" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6465d6db09cbc8001286a8d8</a>
 </p>
 <p></p>
 <h3>System Security and Performance</h3>
