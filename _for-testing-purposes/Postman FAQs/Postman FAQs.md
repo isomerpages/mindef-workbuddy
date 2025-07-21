@@ -34,7 +34,7 @@ user, you'll find relevant information accessible whenever you need it.</p>
 24/7 to help you work more efficiently and confidently with the tool.</p>
 <p></p>
 <h3>Table of contents</h3>
-<h4><a href="/about/" rel="noopener nofollow" target="_blank">About Postman</a></h4>
+<h4><a href="/about" rel="noopener nofollow" target="_blank">About Postman</a></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Overview</p>
