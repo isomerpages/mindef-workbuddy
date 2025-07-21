@@ -20,9 +20,17 @@ third_nav_title: Postman FAQs
 you may have while using Postman. Whether you're new to Postman or an experienced
 user, you'll find relevant information accessible whenever you need it.</p>
 <p>These FAQs will help you:</p>
-<p>•Find answers to your Postman-related questions</p>
-<p>•Work through technical issues</p>
-<p>•Learn best practices for using Postman effectively</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Find answers to your Postman-related questions</p>
+</li>
+<li>
+<p>Work through technical issues</p>
+</li>
+<li>
+<p>Learn best practices for using Postman effectively</p>
+</li>
+</ul>
 <p>Think of this guide as your go-to resource for Postman support - available
 24/7 to help you work more efficiently and confidently with the tool.</p>
 <p></p>
