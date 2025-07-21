@@ -10,7 +10,7 @@ third_nav_title: Postman FAQs
 <p></p>
 <h1><strong>Usage of gov.sg SMS Sender ID</strong></h1>
 <h3>Eligibility</h3>
-<h4>Q1: How do I determine if my use case qualifies for <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> SMS sender ID?</h4>
+<h4>Q1: How do I determine if my use case qualifies for gov.sg SMS sender ID?</h4>
 <p>Ask yourself:</p>
 <p>• Is the message intended for citizens<sup>1</sup> or mixed groups<sup>2</sup>?</p>
 <p>• Does the intended message fall under the ‘critical message’ category
