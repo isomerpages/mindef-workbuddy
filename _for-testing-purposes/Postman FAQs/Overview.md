@@ -7,7 +7,8 @@ third_nav_title: Postman FAQs
 ---
 <h2>This page is for testing purposes only.</h2>
 <p></p>
-<h2>Overview</h2>
+<h2><strong>About Postman</strong></h2>
+<h3>Overview</h3>
 <h4>Q1: What is Postman V2?</h4>
 <p>Postman V2 is a notification service that lets authorised public officers
 send one-way SMS messages, to the following target recipients with the
@@ -29,13 +30,13 @@ Products (OGP). For queries or troubleshooting assistance, please contact
 OGP directly at <a href="https://form.gov.sg/6465d6db09cbc8001286a8d8" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6465d6db09cbc8001286a8d8</a>
 </p>
 <p></p>
-<h2>System Security and Performance</h2>
+<h3>System Security and Performance</h3>
 <h4>Q4: What is the security and sensitivity classification of Postman V2?</h4>
 <p>A: Postman V2 can handle up to <a href="https://postman-v2.guides.gov.sg/#what-types-of-data-can-postman-handle" rel="noopener nofollow" target="_blank">restricted sensitive-normal data</a>.</p>
 <h4>Q5: What is Postman V2’s system uptime?</h4>
 <p>Postman V2 aims to have an uptime of &gt;99.5%. Postman Team has internal
 services to monitor Postman V2’s uptime 24/7.</p>
-<h2>Service Level Agreements</h2>
+<h3>Service Level Agreements</h3>
 <h4>Q6: What is the Service Level Agreement (SLA) for Postman V2?</h4>
 <table style="minWidth: 50px">
 <colgroup>
