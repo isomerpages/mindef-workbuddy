@@ -14,8 +14,7 @@ third_nav_title: Postman FAQs
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Postman FAQ/postman_logo.png">
 </div>
-<p>Please read this FAQ guide in conjunction with the SD Directive 03-2022
-- Management of MINDEF/SAF’s Direct Channels of Communication.</p>
+<p>Please read this FAQ guide in conjunction with the <a href="https://navi.defence.gov.sg/#/destination-page/818016" rel="noopener nofollow" target="_blank">SD Directive 03-2022 - Management of MINDEF/SAF’s Direct Channels of Communication</a>.</p>
 <p>The Postman FAQs aim to help you quickly find answers to common questions
 you may have while using Postman. Whether you're new to Postman or an experienced
 user, you'll find relevant information accessible whenever you need it.</p>
