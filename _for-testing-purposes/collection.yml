@@ -2,9 +2,9 @@ collections:
   for-testing-purposes:
     output: true
     order:
-      - Postman FAQs/Overview.md
-      - Postman FAQs/Postman FAQs.md
       - Postman FAQs/.keep
+      - Postman FAQs/Postman FAQs.md
+      - Postman FAQs/Overview.md
       - MINDEF Training Academy.md
       - DXO Milestone Training Programmes.md
       - Finance Milestone Courses.md
