@@ -7,9 +7,9 @@ description: ""
 <h2>Shuttle bus timings</h2>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Gombak Base</summary>
+<summary>Gombak Precinct</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h2>Gombak Base</h2>
+<h2>Gombak Precinct</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Shuttle bus pick up at cashew MRT" src="/images/Shuttle bus/shuttle_gbk.jpg">
 </div>
@@ -44,7 +44,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15-20 mins</strong>
+<p><strong>15 mins</strong>
 </p>
 </td>
 </tr>
@@ -239,7 +239,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15-20 mins</strong>
+<p><strong>15 mins</strong>
 </p>
 </td>
 </tr>
