@@ -60,8 +60,8 @@ user, you'll find relevant information accessible whenever you need it.</p>
 <p>Employee Communications</p>
 </li>
 </ul>
-<p>Vendor Access to Postman SMS System</p>
-<p>DOs and DON'Ts of Using Postman for SMS Communications</p>
+<h4>Vendor Access to Postman SMS System</h4>
+<h4>DOs and DON'Ts of Using Postman for SMS Communications</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Message Types and Requirements</p>
