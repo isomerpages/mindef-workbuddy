@@ -7,10 +7,12 @@ links:
         url: https://book.defence.gov.sg
       - title: Navi
         url: https://navi.defence.gov.sg
-      - title: PayFlow
-        url: /employee-services/#:~:text=PayFlow
       - title: Visitor In-Processing Service
         url: https://host.vis.defence.gov.sg/
+      - title: AOR Assistant (AORA)
+        url: https://www.smartcompose.gov.sg/reports/mindef_aor
+      - title: PayFlow
+        url: /employee-services/#:~:text=PayFlow
       - title: HR Admin
         url: /employee-services/#:~:text=HR Admin
       - title: WorkPal
