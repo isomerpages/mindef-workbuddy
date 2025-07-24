@@ -24,79 +24,93 @@ and approved by SDD.</p>
 <h3><strong>Roles and Permissions</strong></h3>
 <h4>Q5: What can I do as a Campaign Creator in Postman V2?</h4>
 <p>As a Campaign Creator in Postman V2, you can:</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>a. Create and manage workspaces for your campaign</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>b. Add or remove Campaign Collaborators to your workspace</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>c. Create and edit API collections</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>d. Set up environment variables</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>e. Monitor API performance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>f. Share collections with team members</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>g. Create and run automated tests</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>h. Generate API documentation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>i. Export and import collections</p>
-</td>
-</tr>
-</tbody>
-</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Create and manage workspaces for your campaign</p>
+</li>
+<li>
+<p>Add or remove Campaign Collaborators to your workspace</p>
+</li>
+<li>
+<p>Create and edit API collections</p>
+</li>
+<li>
+<p>Set up environment variables</p>
+</li>
+<li>
+<p>Monitor API performance</p>
+</li>
+<li>
+<p>Share collections with team membersCreate and run automated tests</p>
+</li>
+<li>
+<p>Generate API documentation</p>
+</li>
+<li>
+<p>Export and import collections</p>
+</li>
+</ul>
 <p>Remember that you are responsible for:</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• Managing workspace access for your team</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• Ensuring proper use of the platform</p>
-</td>
-</tr>
-</tbody>
-</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Managing workspace access for your team</p>
+</li>
+<li>
+<p>Ensuring proper use of the platform</p>
+</li>
+<li>
+<p>Overseeing Campaign Collaborators' activities</p>
+</li>
+<li>
+<p>Maintaining security of your workspace</p>
+</li>
+</ul>
+<p></p>
+<h4>Q6: What can I do as a Campaign Collaborator in Postman V2?</h4>
+<p>As a Campaign Collaborator in Postman V2, you can:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Access assigned campaign workspaces</p>
+</li>
+<li>
+<p>View and use shared API collections</p>
+</li>
+<li>
+<p>Send API requests</p>
+</li>
+<li>
+<p>Use environment variables</p>
+</li>
+<li>
+<p>Run existing tests</p>
+</li>
+<li>
+<p>View API documentation</p>
+</li>
+<li>
+<p>Fork collections (create personal copies)</p>
+</li>
+</ul>
+<p>Note: You cannot:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Create new workspaces</p>
+</li>
+<li>
+<p>Add or remove other collaborators</p>
+</li>
+<li>
+<p>Edit team-level environment variables</p>
+</li>
+<li>
+<p>Delete shared collections</p>
+</li>
+<li>
+<p>Modify workspace settings</p>
+</li>
+</ul>
 <p>All activities must comply with MDDI and MINDEF's policies and are monitored
 by your Campaign Creator.</p>
-<p></p>
 <h3><strong>Account Management</strong></h3>
 <h4>Q7: Who can be granted access to Postman V2 to create Campaigns to send SMS?</h4>
 <p>Only MINDEF/SAF employees can be granted access to Postman V2 to create
