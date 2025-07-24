@@ -9,10 +9,18 @@ third_nav_title: Postman FAQs
 <h1><strong>Support and References</strong></h1>
 <h3><strong>Contact Information</strong></h3>
 <h4>Q1: How do I reach Postman Team to resolve an urgent technical issue relating to Postman V2?</h4>
-<p>a. Submit a case via the BTN Service Portal (<a href="https://btn.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://btn.gov.sg</a>) and mark it as “Urgent”.</p>
-<p>b. Email <a href="mailto:postman@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">postman@tech.gov.sg</a>.</p>
-<p>c. If it's a critical system issue, call the BTN Service Desk at 1800
-211 0777 and mention it's regarding Postman.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Submit a case via the BTN Service Portal (<a href="https://btn.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://btn.gov.sg</a>) and mark it as “Urgent”.</p>
+</li>
+<li>
+<p>Email <a href="mailto:postman@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">postman@tech.gov.sg</a>.</p>
+</li>
+<li>
+<p>If it's a critical system issue, call the BTN Service Desk at 1800 211
+0777 and mention it's regarding Postman.</p>
+</li>
+</ol>
 <h4>Q2: How can I reach the Postman Legacy Team to make an enquiry or resolve a Broadcast Email Service-related issue?</h4>
 <p>Submit this form to Open Government Products (OGP) for assistance, <a href="https://form.gov.sg/6465d6db09cbc8001286a8d8" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6465d6db09cbc8001286a8d8</a>
 </p>
