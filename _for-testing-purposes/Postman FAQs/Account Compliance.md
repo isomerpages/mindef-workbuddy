@@ -7,7 +7,7 @@ third_nav_title: Postman FAQs
 ---
 <h2>This page is for testing purposes only.</h2>
 <p></p>
-<h3>ACCOUNT COMPLIANCE</h3>
+<h1><strong>Account Compliance</strong></h1>
 <h4>Q1: Can I use my assigned Postman V2 account for purposes other than its intended use?</h4>
 <p>No, each Postman V2 account is restricted to its approved purpose. If
 you need Postman V2 access for a different purpose, submit a new request
