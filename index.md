@@ -14,7 +14,7 @@ sections:
       variant: center
       key_highlights:
         - title: Employee Information
-          description: Find useful work information
+          description: Find useful information
           url: /general-faqs/
         - title: Book
           description: Book a resource
