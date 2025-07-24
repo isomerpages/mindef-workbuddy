@@ -67,8 +67,8 @@ should log into Postman V2, create the campaign, craft the message, whitelist
 the vendor’s domain, generate the API keys and pass the API keys to the
 vendors for the necessary integration.</p>
 <h4>Q3: How do I whitelist the vendor’s domain<sup>#</sup>?</h4>
-<p>Agency PIC (Person-in-Charge) - SDD must <u>submit a request</u> for the
-Postman team to whitelist the vendor's domain. This will allow vendors
+<p>Agency PIC (Person-in-Charge) - SDD must <a href="https://form.gov.sg/657025a2d2bd350012c82eb0" rel="noopener nofollow" target="_blank">submit a request</a> for
+the Postman team to whitelist the vendor's domain. This will allow vendors
 to log into Postman V2 and view campaigns that they have been added to
 by the agency admins. Vendors will then be able to log in and send messages,
 but not create campaigns (i.e., member access).</p>
