@@ -6,12 +6,8 @@ description: ""
 third_nav_title: Postman FAQs
 ---
 <h2>This page is for testing purposes only.</h2>
-<p></p>
-<p></p>
-<p></p>
 <h1><strong>Getting Access</strong></h1>
-<p></p>
-<h3>Account Application</h3>
+<h3><strong>Account Application</strong></h3>
 <h4>Q1: What is the process flow to onboard Postman?</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -28,8 +24,8 @@ the use case has been endorsed by the requestor's Department Head (Colonel-equiv
 and approved by SDD.</p>
 <h4>Q4: Can I deviate from the endorsing authority requirements stipulated in the directive [i.e., department head (COL-equivalent)]?</h4>
 <p>No.</p>
-<h3>Roles and Permissions</h3>
-<h4>Q5: What can I do as a Campaign Creator in Postman V2? </h4>
+<h3><strong>Roles and Permissions</strong></h3>
+<h4>Q5: What can I do as a Campaign Creator in Postman V2?</h4>
 <p>As a Campaign Creator in Postman V2, you can:</p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -104,7 +100,7 @@ and approved by SDD.</p>
 <p>All activities must comply with MDDI and MINDEF's policies and are monitored
 by your Campaign Creator.</p>
 <p></p>
-<h3>Account Management</h3>
+<h3><strong>Account Management</strong></h3>
 <h4>Q7: Who can be granted access to Postman V2 to create Campaigns to send SMS?</h4>
 <p>Only MINDEF/SAF employees can be granted access to Postman V2 to create
 Campaigns via the Campaign Creator role. Vendors, NSFs and NSmen are not
@@ -120,7 +116,7 @@ the role of Campaign Collaborators (members).</p>
 It depends on the needs of each unit/organising committee. Units/organising
 committees should consider their operational requirements and ensure effective
 oversight of all collaborators.</p>
-<h3>Offboarding Process</h3>
+<h3><strong>Offboarding Process</strong></h3>
 <h4>Q11: How do I offboard from Postman V2 after a one-off event?</h4>
 <p>SDD will remove the system role from Postman V2 for the respective Campaign
 Creators immediately after the one-off event. They will no longer have
