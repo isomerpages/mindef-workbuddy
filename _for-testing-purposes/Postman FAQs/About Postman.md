@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Postman FAQs
 ---
 <h2>This page is for testing purposes only.</h2>
-<p></p>
 <h1><strong>About Postman</strong></h1>
 <h3><strong>Overview</strong></h3>
 <h4>Q1: What is Postman V2?</h4>
