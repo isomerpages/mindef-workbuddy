@@ -106,8 +106,7 @@ or failure status</p>
 <h4>Quick Navigation:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/general-faqs/postman-faqs/about/" rel="noopener nofollow" target="_blank">About Postman</a>
-</p>
+<p>About Postman</p>
 </li>
 <li>
 <p><a href="/general-faqs/postman-faqs/usage-of-govsg-sms-sender-id/" rel="noopener nofollow" target="_blank">Usage of gov.sg SMS Sender ID</a>
