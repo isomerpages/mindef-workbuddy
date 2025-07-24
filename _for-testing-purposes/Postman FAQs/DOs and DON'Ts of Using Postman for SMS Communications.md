@@ -12,7 +12,6 @@ third_nav_title: Postman FAQs
 <p>All one-way SMS communications to citizens or mixed groups must be sent
 using Postman V2 by Open Government Products (OGP). Agencies are not allowed
 to engage external SMS aggregators.</p>
-<p></p>
 <h4>Q2: What types of messages can I send?</h4>
 <p>You should only send essential/critical SMS messages to citizens or mixed
 groups. The sending of non-critical or generic messages<sup>3</sup> to citizens
@@ -93,7 +92,8 @@ RSVP confirmations, digital Admin Instructions).</p>
 <p>By default, you should not send links in SMSes. However, there are exceptions
 where non-login links may be sent (see Q7). Some scenarios include:</p>
 <p>a. The link was requested by the customer, who is expecting the link from
-MINDEF/SAF; OR</p>
+MINDEF/SAF; <strong>OR</strong>
+</p>
 <p>b. The customer is less digitally-savvy and found it difficult to locate
 the webpage despite personalised instructions.</p>
 <h4>Q6: What are the requirements if a link is approved to be used in the SMS?</h4>
