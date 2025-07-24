@@ -2,6 +2,7 @@ collections:
   for-testing-purposes:
     output: true
     order:
+      - Postman FAQs/Support and References.md
       - Postman FAQs/Incident Management.md
       - Postman FAQs/Creating and Managing SMS Campaigns.md
       - Postman FAQs/Account Management.md
