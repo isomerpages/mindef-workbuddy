@@ -7,7 +7,7 @@ third_nav_title: Postman FAQs
 ---
 <h2>This page is for testing purposes only.</h2>
 <p></p>
-<h3>COSTS AND PAYMENT</h3>
+<h1><strong>Costs and Payment</strong></h1>
 <h4>Q1: What is the cost of each SMS message?</h4>
 <p>SMS sending via Postman V2 will be chargeable with effect from 1 July
 2025. According to the GovTech Finance newsletter (December 2024), the
