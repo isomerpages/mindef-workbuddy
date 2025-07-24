@@ -12,9 +12,15 @@ third_nav_title: Postman FAQs
 <p>Postman V2 is a notification service that lets authorised public officers
 send one-way SMS messages, to the following target recipients with the
 gov.sg Sender ID:</p>
-<p>a. Citizens (i.e., Pre-enlistees, NSFs, NSmen, ROVERS, NS/SAFVC Volunteers,
+<ul data-tight="true" class="tight">
+<li>
+<p>Citizens (i.e., Pre-enlistees, NSFs, NSmen, ROVERS, NS/SAFVC Volunteers,
 Members of Public); or</p>
-<p>b. Mixed Groups (i.e., citizens and internal staff)</p>
+</li>
+<li>
+<p>Mixed Groups (i.e., citizens and internal staff)</p>
+</li>
+</ul>
 <h4>Q2: What is Postman Legacy?</h4>
 <p>Postman Legacy refers to the older version of Singapore Government's SMS
 messaging system that was used before Postman V2. It has been largely phased
@@ -31,7 +37,7 @@ at <a href="https://form.gov.sg/6465d6db09cbc8001286a8d8" rel="noopener noreferr
 <p></p>
 <h3><strong>System Security and Performance</strong></h3>
 <h4>Q4: What is the security and sensitivity classification of Postman V2?</h4>
-<p>A: Postman V2 can handle up to <a href="https://postman-v2.guides.gov.sg/#what-types-of-data-can-postman-handle" rel="noopener nofollow" target="_blank">restricted sensitive-normal data</a>.</p>
+<p>Postman V2 can handle up to <a href="https://postman-v2.guides.gov.sg/#what-types-of-data-can-postman-handle" rel="noopener nofollow" target="_blank">restricted sensitive-normal data</a>.</p>
 <h4>Q5: What is Postman V2’s system uptime?</h4>
 <p>Postman V2 aims to have an uptime of &gt;99.5%. Postman Team has internal
 services to monitor Postman V2’s uptime 24/7.</p>
@@ -96,4 +102,48 @@ or failure status</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<h4>Quick Navigation:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/general-faqs/postman-faqs/about/" rel="noopener nofollow" target="_blank">About Postman</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/usage-of-govsg-sms-sender-id/" rel="noopener nofollow" target="_blank">Usage of gov.sg SMS Sender ID</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/vendor-access-to-postman-sms-system/" rel="noopener nofollow" target="_blank">Vendor Access to Postman SMS System</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/dos-and-don-ts-of-using-postman-for-sms-communications/" rel="noopener nofollow" target="_blank">DOs and DON'Ts of Using Postman for SMS Communications</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/costs-and-payment/" rel="noopener nofollow" target="_blank">Costs and Payment</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/account-compliance/" rel="noopener nofollow" target="_blank">Account Compliance</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/getting-access/" rel="noopener nofollow" target="_blank">Getting Access</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/creating-and-managing-sms-campaigns/" rel="noopener nofollow" target="_blank">Creating and Managing SMS Campaigns</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/incident-management/" rel="noopener nofollow" target="_blank">Incident Management</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/support-and-references/" rel="noopener nofollow" target="_blank">Support and References</a>
+</p>
+</li>
+</ul>
 <p></p>
