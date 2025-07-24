@@ -51,11 +51,23 @@ essential messages to citizens. We want to avoid citizens ignoring or blocking
 the gov.sg SMS channel if they receive non-critical messages.</p>
 <h4>Q7: What are the alternatives for employee communications?</h4>
 <p>Instead of sending SMS, please consider using:</p>
-<p>• Email</p>
-<p>• Telegram</p>
-<p>• Microsoft 365 tools</p>
-<p>• MINDEF employee communications (e.g., The Front Page, The Noticeboard)</p>
-<p>• Push notifications from mobile app</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email</p>
+</li>
+<li>
+<p>Telegram</p>
+</li>
+<li>
+<p>Microsoft 365 tools</p>
+</li>
+<li>
+<p>MINDEF employee communications (e.g., The Front Page, The Noticeboard)</p>
+</li>
+<li>
+<p>Push notifications from mobile app</p>
+</li>
+</ul>
 <h4>Q8: What if I need to send urgent messages to employees?</h4>
 <p>Use MINDEF/SAF's approved emergency communication channels and tools.
 These may include internal messaging systems, Telegram groups or other
