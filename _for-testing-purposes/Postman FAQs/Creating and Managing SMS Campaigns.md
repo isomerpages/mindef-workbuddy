@@ -47,10 +47,10 @@ email.</p>
 <h4>Q7: What should an existing Campaign Creator do if he/she has an upcoming large campaign?</h4>
 <p>An existing Campaign Creator should give at least two weeks’ advance notice
 before the campaign start date by:</p>
-<p>a. Completing and submitting the new large campaign template to SDD at
-<a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef-postmanpic@mindef.gov.sg</a>for our tracking as MINDEF/SAF Postman
-PIC (Person-in-Charge).</p>
-<p>b. Registering their use case through the GovTech registration form.</p>
+<p>a. Completing and submitting the <a href="https://gccprod.sharepoint.com/:x:/r/sites/MINDEF-Postman-MST/_layouts/15/Doc.aspx?sourcedoc=%7B3936B4A7-3F3E-451E-9FC3-B87A2D28030F%7D&amp;file=Large_Time%20Sensitive%20Campaigns%20blank%20template%20v0.1.xlsx" rel="noopener nofollow" target="_blank">new large campaign template</a> to
+SDD at <a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef-postmanpic@mindef.gov.sg </a>for
+our tracking as MINDEF/SAF Postman PIC (Person-in-Charge).</p>
+<p>b. Registering their use case through the GovTech registration <a href="https://form.gov.sg/67a17d1adcc3e09f3a56003a" rel="noopener nofollow" target="_blank">form</a>.</p>
 <h4>Q8: What should a new Campaign Creator do if he/she has an upcoming large campaign?</h4>
 <p>A new Campaign Creator should register his/her use case with Service Delivery
 Division (SDD) at <a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef-postmanpic@mindef.gov.sg</a>.
