@@ -122,7 +122,6 @@ oversight of all collaborators.</p>
 Creators immediately after the one-off event. They will no longer have
 access to Postman V2 thereafter.</p>
 <h4>Q12: Whom should we notify when Campaign Creators change during an active campaign?</h4>
-<p>Submit your request for change of Campaign Creator(s) through Request
-for Postman campaign creator rights | FormSG to your superior for approval.
-After it is approved, SDD will update the Postman system and inform you
-accordingly.</p>
+<p>Submit your request for change of Campaign Creator(s) through <a href="https://form.gov.sg/666904410d69bc2931b3acce" rel="noopener nofollow" target="_blank">Request for Postman campaign creator rights</a> to
+your superior for approval. After it is approved, SDD will update the Postman
+system and inform you accordingly.</p>
