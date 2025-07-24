@@ -6,9 +6,6 @@ description: ""
 third_nav_title: Postman FAQs
 ---
 <h2>This page is for testing purposes only.</h2>
-<p></p>
-<p></p>
-<p></p>
 <h1><strong>Postman FAQs</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
