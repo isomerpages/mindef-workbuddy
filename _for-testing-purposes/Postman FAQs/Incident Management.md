@@ -11,10 +11,20 @@ third_nav_title: Postman FAQs
 <p>Report any incidents of accidental misuse or suspected unauthorised access
 to SDD at <a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef-postmanpic@mindef.gov.sg</a> immediately.
 This includes:</p>
-<p>a. Accidental data exposure</p>
-<p>b. Suspicious login attempts</p>
-<p>c. Unexpected account activities</p>
-<p>d. Unauthorised workspace access</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Accidental data exposure</p>
+</li>
+<li>
+<p>Suspicious login attempts</p>
+</li>
+<li>
+<p>Unexpected account activities</p>
+</li>
+<li>
+<p>Unauthorised workspace access</p>
+</li>
+</ul>
 <h4>Q2: Who is responsible for investigating an incident, including unsolicited SMS messages sent to unintended recipients through Postman V2?</h4>
 <p>The respective Campaign Creator is responsible for investigating an incident,
 including unsolicited SMS messages sent to unintended recipients through
