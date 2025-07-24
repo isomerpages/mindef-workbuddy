@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Postman FAQs
 ---
 <h2>This page is for testing purposes only.</h2>
-<p></p>
+<h1><strong>Vendor Access to Postman SMS System</strong></h1>
 <h4>Q1: Are vendors allowed to be Campaign Creators?</h4>
 <p>Vendors are not allowed to be Campaign Creators; they can only be assigned
 as Campaign Collaborators (members). Please refer to MDDI’s policy and
@@ -59,13 +59,13 @@ for managing and overseeing Campaign Collaborators.</p>
 </tr>
 </tbody>
 </table>
-<h4>Q2: How do vendors access and use Postman V2 for sending SMS messages? </h4>
+<h4>Q2: How do vendors access and use Postman V2 for sending SMS messages?</h4>
 <p>Postman does not grant vendors access to the portal. This means vendors
 with non-whitelisted email domains cannot log into Postman V2. Agency officers
 should log into Postman V2, create the campaign, craft the message, whitelist
 the vendor’s domain, generate the API keys and pass the API keys to the
 vendors for the necessary integration.</p>
-<h4>Q3: How do I whitelist the vendor’s domain<sup>#</sup>? </h4>
+<h4>Q3: How do I whitelist the vendor’s domain<sup>#</sup>?</h4>
 <p>Agency PIC (Person-in-Charge) - SDD must <u>submit a request</u> for the
 Postman team to whitelist the vendor's domain. This will allow vendors
 to log into Postman V2 and view campaigns that they have been added to
