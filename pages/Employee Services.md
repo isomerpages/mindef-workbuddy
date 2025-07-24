@@ -13,6 +13,11 @@ description: ""
 <h3><a href="https://host.vis.defence.gov.sg/" rel="noopener nofollow" target="_blank">Visitor In-Processing Service (VIS)</a></h3>
 <p>Register visitors for entry into camps &amp; bases here</p>
 <hr>
+<h3><a href="https://www.smartcompose.gov.sg/reports/mindef_aor" rel="noopener nofollow" target="_blank">AORA</a></h3>
+<p>A form-based Artificial Intelligence (AI)-powered writing assistant to
+help MINDEF officers quickly draft AOR submissions in accordance with MINDEF
+Finance Directives.</p>
+<hr>
 <h3><a href="https://www.payflow.gov.sg" rel="noopener nofollow" target="_blank">PayFlow Online</a></h3>
 <p>Make payments to MINDEF, submit in-country expenses, onboard users, and
 unlock accounts</p>
