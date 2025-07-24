@@ -6,7 +6,8 @@ description: ""
 third_nav_title: Postman FAQs
 ---
 <h2>This page is for testing purposes only.</h2>
-<h3>Message Types and Requirements</h3>
+<h1><strong>DOs and DON'Ts of Using Postman for SMS Communications</strong></h1>
+<h3><strong>Message Types and Requirements</strong></h3>
 <h4>Q1: Can I use my own SMS aggregators to send SMS messages to citizens and mixed groups?</h4>
 <p>All one-way SMS communications to citizens or mixed groups must be sent
 using Postman V2 by Open Government Products (OGP). Agencies are not allowed
@@ -87,7 +88,7 @@ RSVP confirmations, digital Admin Instructions).</p>
 <h4>Q4: Can I send an SMS and get their response via SMS?</h4>
 <p>No.</p>
 <p></p>
-<h3>Use of Links</h3>
+<h3><strong>Use of Links</strong></h3>
 <h4>Q5: Can I send links in the SMS?</h4>
 <p>By default, you should not send links in SMSes. However, there are exceptions
 where non-login links may be sent (see Q7). Some scenarios include:</p>
@@ -112,7 +113,7 @@ operations:</p>
 of Public (MOP)</p>
 <p>b. Where the MOP is expecting to receive the link (e.g., links that are
 sent in response to a MOP’s action)</p>
-<h3>Length and Format</h3>
+<h3><strong>Length and Format</strong></h3>
 <h4>Q8: What is the maximum number of characters and segments permissible for each SMS?</h4>
 <p>Postman allows a maximum of 1000 characters for the message body, excluding
 the header (agency's name) and footer. However, users are strongly encouraged
