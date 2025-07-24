@@ -54,7 +54,8 @@ for managing and overseeing Campaign Collaborators.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/mindefpostman" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mindefpostman</a>
+</p>
 </td>
 </tr>
 </tbody>
