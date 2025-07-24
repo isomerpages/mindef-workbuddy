@@ -20,10 +20,39 @@ accessible on I-NET Devices and PEDs with MM365</p>
 page after login. Refer to the Postman Guides for detailed information
 about status tracking and reporting features.</p>
 <h4>Q3: What should I do if messages aren't being delivered?</h4>
-<p>A: Check these common issues:</p>
+<p>Check these common issues:</p>
 <p>a. Verify recipient contact details are correct</p>
 <p>b. Check campaign status in dashboard</p>
 <p>c. Verify message content follows guidelines</p>
 <p>d. Contact Postman Team if issues persist</p>
-<p></p>
-<p></p>
+<p>Large Campaign Management</p>
+<h4>Q4: What are considered large or time-sensitive campaigns?</h4>
+<p>Campaigns that fulfil at least one of the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Time-sensitive: If you are making &gt;50 API requests per second, or &gt;100
+message segments per second;</p>
+</li>
+<li>
+<p>Large campaigns i.e., above 200,000 recipients</p>
+</li>
+</ul>
+<h4>Q5: How will other users’ large campaigns affect my campaign?</h4>
+<p>Both your single send and batch send messages may be delayed during periods
+of high system load. If you have a non-critical campaign planned, consider
+shifting it to a different date/time slot for best deliverability results.</p>
+<h4>Q6: Will Campaign Creators be given advance notice of upcoming large campaigns?</h4>
+<p>Yes, the Postman Team will strive to inform you two weeks in advance via
+email.</p>
+<h4>Q7: What should an existing Campaign Creator do if he/she has an upcoming large campaign?</h4>
+<p>An existing Campaign Creator should give at least two weeks’ advance notice
+before the campaign start date by:</p>
+<p>a. Completing and submitting the new large campaign template to SDD at
+<a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef-postmanpic@mindef.gov.sg</a>for our tracking as MINDEF/SAF Postman
+PIC (Person-in-Charge).</p>
+<p>b. Registering their use case through the GovTech registration form.</p>
+<h4>Q8: What should a new Campaign Creator do if he/she has an upcoming large campaign?</h4>
+<p>A new Campaign Creator should register his/her use case with Service Delivery
+Division (SDD) at <a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef-postmanpic@mindef.gov.sg</a>.
+An officer from SDD will get in touch with him/her to gather more information
+and provide guidance.</p>
