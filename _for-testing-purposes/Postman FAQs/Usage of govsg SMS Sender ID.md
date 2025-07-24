@@ -9,7 +9,7 @@ third_nav_title: Postman FAQs
 <p></p>
 <p></p>
 <h1><strong>Usage of gov.sg SMS Sender ID</strong></h1>
-<h3>Eligibility</h3>
+<h3><strong>Eligibility</strong></h3>
 <h4>Q1: How do I determine if my use case qualifies for gov.sg SMS sender ID?</h4>
 <p>Ask yourself:</p>
 <p>• Is the message intended for citizens<sup>1</sup> or mixed groups<sup>2</sup>?</p>
@@ -22,7 +22,7 @@ If the message is purely for internal staff, please use alternative channels.</p
 </p>
 <p><em><sup>2 </sup>Mixed Groups are defined as citizens and internal staff.</em>
 </p>
-<h3>Mixed Groups [Citizens and Employees] Communications</h3>
+<h3><strong>Mixed Groups [Citizens and Employees] Communications</strong></h3>
 <h4>Q2: What if my SMS needs to reach both internal employees and citizens?</h4>
 <p>If the communications are targeting a mixed group (both citizens and employees),
 the use of the gov.sg SMS sender ID is allowed. The key consideration is
@@ -40,7 +40,7 @@ at <a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nof
 verify if your use case meets the criteria for gov.sg SMS sender ID usage.
 A FormSG URL will be provided here when it is ready.</p>
 <p></p>
-<h3>Employee Communications</h3>
+<h3><strong>Employee Communications</strong></h3>
 <h4>Q5: Can I use Postman V2 with gov.sg SMS sender ID for employee communications?</h4>
 <p>A: No. We reserve the gov.sg SMS sender ID for essential messages to citizens
 and mixed groups only. For communications to employees, consider using
