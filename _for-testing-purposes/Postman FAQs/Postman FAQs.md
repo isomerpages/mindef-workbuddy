@@ -9,7 +9,7 @@ third_nav_title: Postman FAQs
 <p></p>
 <p></p>
 <p></p>
-<h1>Postman FAQs</h1>
+<h1><strong>Postman FAQs</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Postman FAQ/postman_logo.png">
@@ -33,7 +33,7 @@ user, you'll find relevant information accessible whenever you need it.</p>
 <p>Think of this guide as your go-to resource for Postman support - available
 24/7 to help you work more efficiently and confidently with the tool.</p>
 <p></p>
-<h3>Table of contents</h3>
+<h3><strong>Table of contents</strong></h3>
 <h4><a href="/about" rel="noopener nofollow" target="_blank">About Postman</a></h4>
 <ul data-tight="true" class="tight">
 <li>
