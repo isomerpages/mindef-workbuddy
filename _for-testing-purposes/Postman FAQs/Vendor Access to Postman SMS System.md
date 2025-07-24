@@ -74,5 +74,51 @@ by the agency admins. Vendors will then be able to log in and send messages,
 but <strong><em>not</em></strong> create campaigns (i.e., member access).</p>
 <p><sup>#</sup><em>The vendor's domain refers to their email domain (the part of their email address that comes after the @ symbol). For example, if a vendor's email address is john@vendorcompany.com, then "vendorcompany.com" is their domain that needs to be whitelisted. This whitelisting allows anyone with an email address from that vendor's domain to access the specified campaigns in Postman.</em>
 </p>
-<p></p>
+<hr>
+<h4>Quick Navigation:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/general-faqs/postman-faqs/" rel="noopener nofollow" target="_blank">Overview</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/about/" rel="noopener nofollow" target="_blank">About Postman</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/usage-of-govsg-sms-sender-id/" rel="noopener nofollow" target="_blank">Usage of gov.sg SMS Sender ID</a>
+</p>
+</li>
+<li>
+<p>Vendor Access to Postman SMS System</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/dos-and-don-ts-of-using-postman-for-sms-communications/" rel="noopener nofollow" target="_blank">DOs and DON'Ts of Using Postman for SMS Communications</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/costs-and-payment/" rel="noopener nofollow" target="_blank">Costs and Payment</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/account-compliance/" rel="noopener nofollow" target="_blank">Account Compliance</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/getting-access/" rel="noopener nofollow" target="_blank">Getting Access</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/creating-and-managing-sms-campaigns/" rel="noopener nofollow" target="_blank">Creating and Managing SMS Campaigns</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/incident-management/" rel="noopener nofollow" target="_blank">Incident Management</a>
+</p>
+</li>
+<li>
+<p><a href="/general-faqs/postman-faqs/support-and-references/" rel="noopener nofollow" target="_blank">Support and References</a>
+</p>
+</li>
+</ul>
 <p></p>
