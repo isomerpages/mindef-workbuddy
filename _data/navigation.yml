@@ -15,12 +15,12 @@ links:
         url: /employee-services/#:~:text=HR Admin
       - title: WorkPal
         url: /employee-services/#:~:text=WorkPal
-  - title: FAQs
+  - title: Employee Information
     url: /general-faqs
     sublinks:
-      - title: Shuttle bus FAQs
+      - title: Shuttle buses
         url: /general-faqs/shuttlebus
-      - title: M-Works FAQs
+      - title: M-Works
         url: /general-faqs/mworks
       - title: Corporate Passes FAQs
         url: /general-faqs/corp-passes/
