@@ -71,7 +71,7 @@ vendors for the necessary integration.</p>
 the Postman team to whitelist the vendor's domain. This will allow vendors
 to log into Postman V2 and view campaigns that they have been added to
 by the agency admins. Vendors will then be able to log in and send messages,
-but not create campaigns (i.e., member access).</p>
+but <strong><em>not</em></strong> create campaigns (i.e., member access).</p>
 <p><sup>#</sup><em>The vendor's domain refers to their email domain (the part of their email address that comes after the @ symbol). For example, if a vendor's email address is john@vendorcompany.com, then "vendorcompany.com" is their domain that needs to be whitelisted. This whitelisting allows anyone with an email address from that vendor's domain to access the specified campaigns in Postman.</em>
 </p>
 <p></p>
