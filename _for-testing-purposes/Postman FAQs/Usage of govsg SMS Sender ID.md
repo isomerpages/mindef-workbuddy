@@ -1,6 +1,6 @@
 ---
 title: Usage of govsg SMS Sender ID
-permalink: /usage-of-govsg-sms-sender-id/
+permalink: /general-faqs/postman-faqs/usage-of-govsg-sms-sender-id/
 variant: tiptap
 description: ""
 third_nav_title: Postman FAQs
@@ -9,7 +9,7 @@ third_nav_title: Postman FAQs
 <p></p>
 <p></p>
 <h1><strong>Usage of gov.sg SMS Sender ID</strong></h1>
-<h3>Eligibility</h3>
+<h3><strong>Eligibility</strong></h3>
 <h4>Q1: How do I determine if my use case qualifies for gov.sg SMS sender ID?</h4>
 <p>Ask yourself:</p>
 <p>• Is the message intended for citizens<sup>1</sup> or mixed groups<sup>2</sup>?</p>
@@ -22,7 +22,7 @@ If the message is purely for internal staff, please use alternative channels.</p
 </p>
 <p><em><sup>2 </sup>Mixed Groups are defined as citizens and internal staff.</em>
 </p>
-<h3>Mixed Groups [Citizens and Employees] Communications</h3>
+<h3><strong>Mixed Groups [Citizens and Employees] Communications</strong></h3>
 <h4>Q2: What if my SMS needs to reach both internal employees and citizens?</h4>
 <p>If the communications are targeting a mixed group (both citizens and employees),
 the use of the gov.sg SMS sender ID is allowed. The key consideration is
@@ -40,7 +40,7 @@ at <a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nof
 verify if your use case meets the criteria for gov.sg SMS sender ID usage.
 A FormSG URL will be provided here when it is ready.</p>
 <p></p>
-<h3>Employee Communications</h3>
+<h3><strong>Employee Communications</strong></h3>
 <h4>Q5: Can I use Postman V2 with gov.sg SMS sender ID for employee communications?</h4>
 <p>A: No. We reserve the gov.sg SMS sender ID for essential messages to citizens
 and mixed groups only. For communications to employees, consider using
@@ -51,11 +51,23 @@ essential messages to citizens. We want to avoid citizens ignoring or blocking
 the gov.sg SMS channel if they receive non-critical messages.</p>
 <h4>Q7: What are the alternatives for employee communications?</h4>
 <p>Instead of sending SMS, please consider using:</p>
-<p>• Email</p>
-<p>• Telegram</p>
-<p>• Microsoft 365 tools</p>
-<p>• MINDEF employee communications (e.g., The Front Page, The Noticeboard)</p>
-<p>• Push notifications from mobile app</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email</p>
+</li>
+<li>
+<p>Telegram</p>
+</li>
+<li>
+<p>Microsoft 365 tools</p>
+</li>
+<li>
+<p>MINDEF employee communications (e.g., The Front Page, The Noticeboard)</p>
+</li>
+<li>
+<p>Push notifications from mobile app</p>
+</li>
+</ul>
 <h4>Q8: What if I need to send urgent messages to employees?</h4>
 <p>Use MINDEF/SAF's approved emergency communication channels and tools.
 These may include internal messaging systems, Telegram groups or other
@@ -68,4 +80,3 @@ communications only.</p>
 Directive 04/22 on MINDEF/SAF SMS Sender ID Management dated 9 Jun 22 regarding
 the use of alternative SMS sender IDs. Consider using other internal communication
 channels instead.</p>
-<p></p>

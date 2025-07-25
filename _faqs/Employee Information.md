@@ -1,5 +1,5 @@
 ---
-title: General FAQs
+title: Employee Information
 permalink: /general-faqs/
 variant: tiptap
 description: ""

@@ -1,21 +1,26 @@
 ---
 title: About Postman
-permalink: /about/
+permalink: /general-faqs/postman-faqs/about/
 variant: tiptap
 description: ""
 third_nav_title: Postman FAQs
 ---
 <h2>This page is for testing purposes only.</h2>
-<p></p>
-<h2><strong>About Postman</strong></h2>
-<h3>Overview</h3>
+<h1><strong>About Postman</strong></h1>
+<h3><strong>Overview</strong></h3>
 <h4>Q1: What is Postman V2?</h4>
 <p>Postman V2 is a notification service that lets authorised public officers
 send one-way SMS messages, to the following target recipients with the
 gov.sg Sender ID:</p>
-<p>a. Citizens (i.e., Pre-enlistees, NSFs, NSmen, ROVERS, NS/SAFVC Volunteers,
+<ul data-tight="true" class="tight">
+<li>
+<p>Citizens (i.e., Pre-enlistees, NSFs, NSmen, ROVERS, NS/SAFVC Volunteers,
 Members of Public); or</p>
-<p>b. Mixed Groups (i.e., citizens and internal staff)</p>
+</li>
+<li>
+<p>Mixed Groups (i.e., citizens and internal staff)</p>
+</li>
+</ul>
 <h4>Q2: What is Postman Legacy?</h4>
 <p>Postman Legacy refers to the older version of Singapore Government's SMS
 messaging system that was used before Postman V2. It has been largely phased
@@ -30,13 +35,13 @@ Service’ in Postman Legacy. The system is managed by Open Government Products
 at <a href="https://form.gov.sg/6465d6db09cbc8001286a8d8" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6465d6db09cbc8001286a8d8</a>
 </p>
 <p></p>
-<h3>System Security and Performance</h3>
+<h3><strong>System Security and Performance</strong></h3>
 <h4>Q4: What is the security and sensitivity classification of Postman V2?</h4>
-<p>A: Postman V2 can handle up to <a href="https://postman-v2.guides.gov.sg/#what-types-of-data-can-postman-handle" rel="noopener nofollow" target="_blank">restricted sensitive-normal data</a>.</p>
+<p>Postman V2 can handle up to <a href="https://postman-v2.guides.gov.sg/#what-types-of-data-can-postman-handle" rel="noopener nofollow" target="_blank">restricted sensitive-normal data</a>.</p>
 <h4>Q5: What is Postman V2’s system uptime?</h4>
 <p>Postman V2 aims to have an uptime of &gt;99.5%. Postman Team has internal
 services to monitor Postman V2’s uptime 24/7.</p>
-<h3>Service Level Agreements</h3>
+<h3><strong>Service Level Agreements</strong></h3>
 <h4>Q6: What is the Service Level Agreement (SLA) for Postman V2?</h4>
 <table style="minWidth: 50px">
 <colgroup>

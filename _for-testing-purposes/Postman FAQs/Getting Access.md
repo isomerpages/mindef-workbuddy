@@ -1,22 +1,15 @@
 ---
 title: Getting Access
-permalink: /getting-access/
+permalink: /general-faqs/postman-faqs/getting-access/
 variant: tiptap
 description: ""
 third_nav_title: Postman FAQs
 ---
 <h2>This page is for testing purposes only.</h2>
-<p></p>
-<p></p>
-<p></p>
 <h1><strong>Getting Access</strong></h1>
-<p></p>
-<h3>Account Application</h3>
+<h3><strong>Account Application</strong></h3>
 <h4>Q1: What is the process flow to onboard Postman?</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Postman FAQ/postman_flowchart.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="mailto://mindef-postmanpic@mindef.gov.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Postman FAQ/postman_flowchart.png"></a>
 <h4>Q2: How do I gain access to Postman V2?</h4>
 <p>All MINDEF/SAF SMS use cases to citizens or mixed groups must be registered
 with the Service Delivery Division (SDD) at <a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef-postmanpic@mindef.gov.sg</a>.
@@ -28,83 +21,97 @@ the use case has been endorsed by the requestor's Department Head (Colonel-equiv
 and approved by SDD.</p>
 <h4>Q4: Can I deviate from the endorsing authority requirements stipulated in the directive [i.e., department head (COL-equivalent)]?</h4>
 <p>No.</p>
-<h3>Roles and Permissions</h3>
-<h4>Q5: What can I do as a Campaign Creator in Postman V2? </h4>
+<h3><strong>Roles and Permissions</strong></h3>
+<h4>Q5: What can I do as a Campaign Creator in Postman V2?</h4>
 <p>As a Campaign Creator in Postman V2, you can:</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>a. Create and manage workspaces for your campaign</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>b. Add or remove Campaign Collaborators to your workspace</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>c. Create and edit API collections</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>d. Set up environment variables</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>e. Monitor API performance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>f. Share collections with team members</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>g. Create and run automated tests</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>h. Generate API documentation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>i. Export and import collections</p>
-</td>
-</tr>
-</tbody>
-</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Create and manage workspaces for your campaign</p>
+</li>
+<li>
+<p>Add or remove Campaign Collaborators to your workspace</p>
+</li>
+<li>
+<p>Create and edit API collections</p>
+</li>
+<li>
+<p>Set up environment variables</p>
+</li>
+<li>
+<p>Monitor API performance</p>
+</li>
+<li>
+<p>Share collections with team membersCreate and run automated tests</p>
+</li>
+<li>
+<p>Generate API documentation</p>
+</li>
+<li>
+<p>Export and import collections</p>
+</li>
+</ul>
 <p>Remember that you are responsible for:</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• Managing workspace access for your team</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• Ensuring proper use of the platform</p>
-</td>
-</tr>
-</tbody>
-</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Managing workspace access for your team</p>
+</li>
+<li>
+<p>Ensuring proper use of the platform</p>
+</li>
+<li>
+<p>Overseeing Campaign Collaborators' activities</p>
+</li>
+<li>
+<p>Maintaining security of your workspace</p>
+</li>
+</ul>
+<p></p>
+<h4>Q6: What can I do as a Campaign Collaborator in Postman V2?</h4>
+<p>As a Campaign Collaborator in Postman V2, you can:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Access assigned campaign workspaces</p>
+</li>
+<li>
+<p>View and use shared API collections</p>
+</li>
+<li>
+<p>Send API requests</p>
+</li>
+<li>
+<p>Use environment variables</p>
+</li>
+<li>
+<p>Run existing tests</p>
+</li>
+<li>
+<p>View API documentation</p>
+</li>
+<li>
+<p>Fork collections (create personal copies)</p>
+</li>
+</ul>
+<p>Note: You cannot:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Create new workspaces</p>
+</li>
+<li>
+<p>Add or remove other collaborators</p>
+</li>
+<li>
+<p>Edit team-level environment variables</p>
+</li>
+<li>
+<p>Delete shared collections</p>
+</li>
+<li>
+<p>Modify workspace settings</p>
+</li>
+</ul>
 <p>All activities must comply with MDDI and MINDEF's policies and are monitored
 by your Campaign Creator.</p>
-<p></p>
-<h3>Account Management</h3>
+<h3><strong>Account Management</strong></h3>
 <h4>Q7: Who can be granted access to Postman V2 to create Campaigns to send SMS?</h4>
 <p>Only MINDEF/SAF employees can be granted access to Postman V2 to create
 Campaigns via the Campaign Creator role. Vendors, NSFs and NSmen are not
@@ -120,13 +127,12 @@ the role of Campaign Collaborators (members).</p>
 It depends on the needs of each unit/organising committee. Units/organising
 committees should consider their operational requirements and ensure effective
 oversight of all collaborators.</p>
-<h3>Offboarding Process</h3>
+<h3><strong>Offboarding Process</strong></h3>
 <h4>Q11: How do I offboard from Postman V2 after a one-off event?</h4>
 <p>SDD will remove the system role from Postman V2 for the respective Campaign
 Creators immediately after the one-off event. They will no longer have
 access to Postman V2 thereafter.</p>
 <h4>Q12: Whom should we notify when Campaign Creators change during an active campaign?</h4>
-<p>Submit your request for change of Campaign Creator(s) through Request
-for Postman campaign creator rights | FormSG to your superior for approval.
-After it is approved, SDD will update the Postman system and inform you
-accordingly.</p>
+<p>Submit your request for change of Campaign Creator(s) through <a href="https://form.gov.sg/666904410d69bc2931b3acce" rel="noopener nofollow" target="_blank">Request for Postman campaign creator rights</a> to
+your superior for approval. After it is approved, SDD will update the Postman
+system and inform you accordingly.</p>

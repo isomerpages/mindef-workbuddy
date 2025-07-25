@@ -1,15 +1,12 @@
 ---
 title: Postman FAQs
-permalink: /postman-faqs/
+permalink: /general-faqs/postman-faqs/
 variant: tiptap
 description: ""
 third_nav_title: Postman FAQs
 ---
 <h2>This page is for testing purposes only.</h2>
-<p></p>
-<p></p>
-<p></p>
-<h1>Postman FAQs</h1>
+<h1><strong>Postman FAQs</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Postman FAQ/postman_logo.png">
@@ -33,8 +30,8 @@ user, you'll find relevant information accessible whenever you need it.</p>
 <p>Think of this guide as your go-to resource for Postman support - available
 24/7 to help you work more efficiently and confidently with the tool.</p>
 <p></p>
-<h3>Table of contents</h3>
-<h4><a href="/about" rel="noopener nofollow" target="_blank">About Postman</a></h4>
+<h3><strong>Table of contents</strong></h3>
+<h4><a href="/general-faqs/postman-faqs/about/" rel="noopener nofollow" target="_blank">About Postman</a></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Overview</p>
@@ -47,7 +44,7 @@ user, you'll find relevant information accessible whenever you need it.</p>
 <p></p>
 </li>
 </ul>
-<h4><a href="/usage-of-govsg-sms-sender-id/" rel="noopener nofollow" target="_blank">Usage of gov.sg SMS Sender ID</a></h4>
+<h4><a href="/general-faqs/postman-faqs/usage-of-govsg-sms-sender-id/" rel="noopener nofollow" target="_blank">Usage of gov.sg SMS Sender ID</a></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Eligibility</p>
@@ -59,8 +56,8 @@ user, you'll find relevant information accessible whenever you need it.</p>
 <p>Employee Communications</p>
 </li>
 </ul>
-<h4>Vendor Access to Postman SMS System</h4>
-<h4>DOs and DON'Ts of Using Postman for SMS Communications</h4>
+<h4><a href="/general-faqs/postman-faqs/vendor-access-to-postman-sms-system/" rel="noopener nofollow" target="_blank">Vendor Access to Postman SMS System</a></h4>
+<h4><a href="/general-faqs/postman-faqs/dos-and-don-ts-of-using-postman-for-sms-communications/" rel="noopener nofollow" target="_blank">DOs and DON'Ts of Using Postman for SMS Communications</a></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Message Types and Requirements</p>
@@ -72,9 +69,9 @@ user, you'll find relevant information accessible whenever you need it.</p>
 <p>Length and Format</p>
 </li>
 </ul>
-<h4>Costs and Payment</h4>
-<h4>Account Compliance</h4>
-<h4><a href="/getting-access/" rel="noopener nofollow" target="_blank">Getting Access</a></h4>
+<h4><a href="/general-faqs/postman-faqs/costs-and-payment/" rel="noopener nofollow" target="_blank">Costs and Payment</a></h4>
+<h4><a href="/general-faqs/postman-faqs/account-compliance/" rel="noopener nofollow" target="_blank">Account Compliance</a></h4>
+<h4><a href="/general-faqs/postman-faqs/getting-access/" rel="noopener nofollow" target="_blank">Getting Access</a></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Account Application</p>
@@ -89,7 +86,7 @@ user, you'll find relevant information accessible whenever you need it.</p>
 <p>Offboarding Process</p>
 </li>
 </ul>
-<h4>Creating and Managing SMS Campaigns</h4>
+<h4><a href="/general-faqs/postman-faqs/creating-and-managing-sms-campaigns/" rel="noopener nofollow" target="_blank">Creating and Managing SMS Campaigns</a></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Campaign Creation</p>
@@ -101,8 +98,8 @@ user, you'll find relevant information accessible whenever you need it.</p>
 <p>Large Campaign Management</p>
 </li>
 </ul>
-<h4>Incident Management</h4>
-<h4>Support and References</h4>
+<h4><a href="/general-faqs/postman-faqs/incident-management/" rel="noopener nofollow" target="_blank">Incident Management</a></h4>
+<h4><a href="/general-faqs/postman-faqs/support-and-references/" rel="noopener nofollow" target="_blank">Support and References</a></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Contact Information</p>

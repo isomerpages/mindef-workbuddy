@@ -1,5 +1,5 @@
 ---
-title: Corporate Passes
+title: Corporate Passes FAQs
 permalink: /general-faqs/corp-passes/
 variant: tiptap
 description: ""

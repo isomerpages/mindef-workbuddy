@@ -13,8 +13,8 @@ sections:
       background: /images/ns_hub_cropped.jpg
       variant: center
       key_highlights:
-        - title: FAQs
-          description: Find common information
+        - title: Employee Information
+          description: Find useful information
           url: /general-faqs/
         - title: Book
           description: Book a resource
