@@ -15,8 +15,8 @@ description: ""
 <hr>
 <h3><a href="https://www.smartcompose.gov.sg/reports/mindef_aor" rel="noopener nofollow" target="_blank">AOR Assistant (AORA)</a></h3>
 <p>A form-based Artificial Intelligence (AI)-powered writing assistant to
-help MINDEF officers quickly draft AOR submissions in accordance with MINDEF
-Finance Directives.</p>
+help officers quickly draft AOR submissions in accordance with Finance
+Directives.</p>
 <hr>
 <h3><a href="https://www.payflow.gov.sg" rel="noopener nofollow" target="_blank">PayFlow Online</a></h3>
 <p>Make payments to MINDEF, submit in-country expenses, onboard users, and
