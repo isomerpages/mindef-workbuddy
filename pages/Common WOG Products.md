@@ -12,7 +12,7 @@ description: ""
 <h4><strong>Speech-to-Text transcription platform</strong></h4>
 <p>Boost meeting productivity by using live transcription, notes and auto-summarisation
 features.</p>
-<p><em>*Not available via HP Enterprise Secure Browser.</em>
+<p><em>*Only available on DWP/INET/PEDs.</em>
 </p>
 <hr>
 <h2><a href="https://aibots.gov.sg/" rel="noopener nofollow" target="_blank">AIBots</a></h2>
