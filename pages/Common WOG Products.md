@@ -8,12 +8,11 @@ description: ""
 <h4><strong>Fast and secure large language model for SG public service</strong></h4>
 <p>Only accessible on work devices.</p>
 <hr>
-<h2><a href="https://www.transcribe.gov.sg/" rel="noopener nofollow" target="_blank">Transcribe*</a></h2>
+<h2><a href="https://www.transcribe.gov.sg/" rel="noopener nofollow" target="_blank">Transcribe</a></h2>
 <h4><strong>Speech-to-Text transcription platform</strong></h4>
 <p>Boost meeting productivity by using live transcription, notes and auto-summarisation
 features.</p>
-<p><em>*Only available on DWP/INET/PED.</em>
-</p>
+<p>Only accessible on DWP/INET and personal devices.</p>
 <hr>
 <h2><a href="https://aibots.gov.sg/" rel="noopener nofollow" target="_blank">AIBots</a></h2>
 <h4><strong>Create customised Generative AI chatbots</strong></h4>
