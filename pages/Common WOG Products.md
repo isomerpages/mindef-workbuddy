@@ -12,7 +12,7 @@ description: ""
 <h4><strong>Speech-to-Text transcription platform</strong></h4>
 <p>Boost meeting productivity by using live transcription, notes and auto-summarisation
 features.</p>
-<p>Only accessible on DWP/INET and personal devices.</p>
+<p>Only available on DWP/INET and personal devices.</p>
 <hr>
 <h2><a href="https://aibots.gov.sg/" rel="noopener nofollow" target="_blank">AIBots</a></h2>
 <h4><strong>Create customised Generative AI chatbots</strong></h4>
