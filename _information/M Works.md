@@ -344,7 +344,7 @@ more details</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No OSN terminals. SNET terminals will be coming soon (inside the SNET
-Transit Office at Blk2, North Wing)</p>
+Transit Office at Blk 2, North Wing)</p>
 </td>
 </tr>
 <tr>
