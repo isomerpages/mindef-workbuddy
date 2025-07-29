@@ -2,8 +2,8 @@ collections:
   information:
     output: true
     order:
-      - CMPB Regional Health Hub.md
       - Employee Information.md
       - Shuttle Buses.md
       - M Works.md
       - Corporate Passes FAQs.md
+      - CMPB Regional Health Hub.md
