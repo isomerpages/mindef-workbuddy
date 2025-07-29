@@ -4,7 +4,7 @@ permalink: /general-faqs/cmpb-regional-health-hub/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Announcements (Updates)</strong></h2>
+<h2>Announcements (Updates)</h2>
 <p>Beginning from Jul 25, we are pleased to announce that all medical services
 previously provided at the following locations have been consolidated and
 provided exclusively at the <strong>CMPB Regional Health Hub (CMPB RHH)</strong>:&nbsp;
@@ -42,27 +42,25 @@ provided exclusively at the <strong>CMPB Regional Health Hub (CMPB RHH)</strong>
 </td>
 </tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dental Centre, SAF HSP Centre, Kent Ridge Medical Centre, Specialist Services,
+Medical Boards and the Service Injury Assessment Clinic, PCC-Psychology
+and Psychiatry services, SAF Physiotherapy Centre&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 27, Medical Drive, DSO Building&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>11 Jul 25</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
-<p>MINDEF Medical Centre &amp; MINDEF Dental Centre&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Location:</strong> Blk 308, Gombak Drive, Bukit Panjang Camp&nbsp;</p>
-</li>
-<li>
-<p><strong>Last day of operations: 04 Jul 25</strong>&nbsp; &nbsp;</p>
-</li>
-</ul>
-<p>Dental Centre</p>
-<p>SAF HSP Centre&nbsp;</p>
-<p>Kent Ridge Medical Centre&nbsp;</p>
-<p>Specialist Services&nbsp; Medical Boards and the Service Injury Assessment
-Clinic&nbsp; PCC-Psychology and Psychiatry services&nbsp; SAF Physiotherapy
-Centre&nbsp; <strong>Location:</strong> Blk 27, Medical Drive, DSO Building&nbsp; <strong>Last day of operations: 11 Jul 25</strong>&nbsp;
-&nbsp; &nbsp; We seek your understanding and cooperation throughout this
-transition.&nbsp; &nbsp; Thank you.</p>
-<h2><strong>General Visitor Information</strong></h2>
+<p>We seek your understanding and cooperation throughout this transition.
+Thank you.</p>
+<h2>General Visitor Information</h2>
 <p>CMPB Regional Health Hub <strong>(Located at 91 Hillview Link, S669723. Proceed to Level 2, Block 2 for security screening first, and follow directional signs to Regional Health Hub)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -72,14 +70,15 @@ transition.&nbsp; &nbsp; Thank you.</p>
 <div class="isomer-image-wrapper">
 <img style="border-width: 0px; border-style: none; box-sizing: border-box; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: rgb(226, 232, 240); margin: 0px;" height="auto" width="100%" alt="[CMPB Location](https://location.cmpb.gov.sg/locate-us/)." src="https://s3.ap-southeast-1.amazonaws.com/images.form.gov.sg/687f90df0a61ad8b02a5ffdb-687f8eee25cdf21ee0569f9e-1753190621710-qr%20code.png">
 </div>
-<p><a href="https://location.cmpb.gov.sg/locate-us/" class="chakra-link css-1g7zzw0" rel="noopener" target="_blank"><u>CMPB Location</u></a>.</p>
-<h2><strong>Opening Hours</strong></h2>
+<p><a href="https://location.cmpb.gov.sg/locate-us/" class="chakra-link css-1g7zzw0" rel="noopener" target="_blank"><u>CMPB Location</u></a>
+</p>
+<h2>Opening Hours</h2>
 <div class="isomer-image-wrapper">
 <img style="border-width: 0px; border-style: none; box-sizing: border-box; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: rgb(226, 232, 240); margin: 0px;" height="auto" width="100%" alt="CMPB RHH" src="https://s3.ap-southeast-1.amazonaws.com/images.form.gov.sg/687f912fba1303591286c745-687f8eee25cdf21ee0569f9e-1753190702288-weedays%202.png">
 </div>
 <p>CMPB RHH</p>
-<h2><strong>Clinical Services</strong></h2>
-<p>The clinical services are offered at the respective clinic listed below:</p>
+<h2>Clinical Services</h2>
+<h3>The clinical services are offered at the respective clinics listed below:</h3>
 <div class="isomer-image-wrapper">
 <img style="border-width: 0px; border-style: none; box-sizing: border-box; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: rgb(226, 232, 240); margin: 0px;" height="auto" width="100%" alt="CMPB Regional Health Hub Services" src="https://s3.ap-southeast-1.amazonaws.com/images.form.gov.sg/6880108bfe8aec432370181a-687f8eee25cdf21ee0569f9e-1753223304433-services%203.png">
 </div>
@@ -94,7 +93,7 @@ please schedule your appointment on <a href="https://safhealth.gov.sg/" class="c
 contact us via <a href="https://www.ns.gov.sg/web/contact-us" class="chakra-link css-1g7zzw0" rel="noopener" target="_blank"><u>OneNS | Contact Us</u></a>.</p>
 </li>
 </ul>
-<h2><strong>Complimentary Shuttle Bus (Temporary)</strong></h2>
+<h2>Complimentary Shuttle Bus (Temporary)</h2>
 <p>The linkbridge from Cashew MRT and the pedestrian access from Rail Corridor
 will open in Aug 2025. The complimentary shuttle service will operate from
 23 Jun 2025 until the opening of the linkbridge to Cashew MRT in Aug 2025.&nbsp;
