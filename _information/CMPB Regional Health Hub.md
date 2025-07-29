@@ -62,7 +62,7 @@ and Psychiatry services, SAF Physiotherapy Centre&nbsp;</p>
 <p>Located at 91 Hillview Link, S669723</p>
 </li>
 <li>
-<p>Proceed to Level 2, Block 2 for security screening first, then follow
+<p>Proceed to CMPB Level 2, Block 2 for security screening first, then follow
 directional signs to Regional Health Hub</p>
 </li>
 </ul>
