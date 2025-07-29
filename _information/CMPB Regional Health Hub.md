@@ -93,7 +93,7 @@ contact us via <a href="https://www.ns.gov.sg/web/contact-us" class="chakra-link
 </li>
 </ul>
 <h2>Complimentary Shuttle Bus (Temporary)</h2>
-<p>Please refer to <a href="https://workbuddy.defence.gov.sg/general-faqs/shuttlebus/" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please refer <a href="https://workbuddy.defence.gov.sg/general-faqs/shuttlebus/" rel="noopener nofollow" target="_blank">here</a> for
 the latest temporary shuttle bus service schedule from Cashew MRT to CMPB.</p>
 <p></p>
 <p>
