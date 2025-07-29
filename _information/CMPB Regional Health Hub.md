@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2>Announcements</h2>
-<p>From July 2025, we are pleased to announce that all medical services previously
-provided at the following locations have been consolidated and provided
-exclusively at the <strong>CMPB Regional Health Hub (CMPB RHH)</strong>:&nbsp;
+<p>From July 2025, all medical services previously provided at the following
+locations have been consolidated and provided exclusively at the <strong>CMPB Regional Health Hub (CMPB RHH)</strong>:&nbsp;
 &nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
