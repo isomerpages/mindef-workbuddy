@@ -8,111 +8,6 @@ description: ""
 <h3>Find information about M-Works by location below</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>North</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h4>M-Works@Chong Pang Camp</h4>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/M works/mworks_cpc2.png">
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Opening hours</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>0800 - 1800hrs</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Address</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>481 Sembawang Rd, Blk 22, Level 2, Singapore 757629</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Network Terminals</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Available, see <a href="https://book.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
-more details</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Quiet Room/Pod</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Available</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Work Booth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Not available</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Discussion Room</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Not available</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Meeting Room</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Not available</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hot Desk</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Not available</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pantry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Not available</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nursing Room</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Not available</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
 <summary><strong>South</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -417,7 +312,7 @@ more details</p>
 <summary><strong>West</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>M-Works@New CMPB (Coming Soon!)</h4>
+<h4>M-Works@CMPB </h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
