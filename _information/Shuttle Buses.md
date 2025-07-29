@@ -448,7 +448,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bus_pic.jpg">
 </div>
-<p><strong><u>Temporary Shuttle bus between Cashew MRT andCMPB </u></strong>
+<p><strong><u>Temporary Shuttle bus between Cashew MRT and CMPB</u></strong>
 </p>
 <h3>Monday to Friday</h3>
 <table style="minWidth: 50px">
