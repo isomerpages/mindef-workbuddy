@@ -82,16 +82,14 @@ directional signs to Regional Health Hub</p>
 <img style="border-width: 0px; border-style: none; box-sizing: border-box; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: rgb(226, 232, 240); margin: 0px;" height="auto" width="100%" alt="CMPB Regional Health Hub Services" src="https://s3.ap-southeast-1.amazonaws.com/images.form.gov.sg/6880108bfe8aec432370181a-687f8eee25cdf21ee0569f9e-1753223304433-services%203.png">
 </div>
 <p></p>
-<p><strong>Walk-in consultation</strong> is available if you:&nbsp; &nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>feel unwell and need medications &nbsp; &nbsp; For all other appointment
-types <strong>(For HSP, ORD/Discharge FFI, Weight Management and Medical Review)</strong>,
+<p><strong>Walk-in consultation</strong> is available if you feel unwell and
+need medications. &nbsp;</p>
+<p>For all other appointment types <strong>(For HSP, ORD/Discharge FFI, Weight Management and Medical Review)</strong>,
 please schedule your appointment on <a href="https://safhealth.gov.sg/" class="chakra-link css-1g7zzw0" rel="noopener" target="_blank"><u>Manage Medical (eHealth) eService </u></a>.
-&nbsp; &nbsp; If you have other questions or require assistance, please
-contact us via <a href="https://www.ns.gov.sg/web/contact-us" class="chakra-link css-1g7zzw0" rel="noopener" target="_blank"><u>OneNS | Contact Us</u></a>.</p>
-</li>
-</ul>
+&nbsp; &nbsp;</p>
+<p>If you have other questions or require assistance, please contact us via
+<a href="https://www.ns.gov.sg/web/contact-us" class="chakra-link css-1g7zzw0" rel="noopener" target="_blank"><u>OneNS | Contact Us</u>
+</a>.</p>
 <h2>Complimentary Shuttle Bus (Temporary)</h2>
 <p>Please refer <a href="https://workbuddy.defence.gov.sg/general-faqs/shuttlebus/" rel="noopener nofollow" target="_blank">here</a> for
 the latest temporary shuttle bus service schedule from Cashew MRT to CMPB.</p>
