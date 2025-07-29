@@ -4,7 +4,7 @@ permalink: /general-faqs/cmpb-regional-health-hub/
 variant: tiptap
 description: ""
 ---
-<h2>Announcements </h2>
+<h2>Announcements</h2>
 <p>Beginning from Jul 25, we are pleased to announce that all medical services
 previously provided at the following locations have been consolidated and
 provided exclusively at the <strong>CMPB Regional Health Hub (CMPB RHH)</strong>:&nbsp;
