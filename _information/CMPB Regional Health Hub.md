@@ -4,7 +4,7 @@ permalink: /general-faqs/cmpb-regional-health-hub/
 variant: tiptap
 description: ""
 ---
-<h2>Announcements (Updates)</h2>
+<h2>Announcements </h2>
 <p>Beginning from Jul 25, we are pleased to announce that all medical services
 previously provided at the following locations have been consolidated and
 provided exclusively at the <strong>CMPB Regional Health Hub (CMPB RHH)</strong>:&nbsp;
@@ -18,8 +18,7 @@ provided exclusively at the <strong>CMPB Regional Health Hub (CMPB RHH)</strong>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Centre</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Location</strong>
@@ -57,15 +56,15 @@ and Psychiatry services, SAF Physiotherapy Centre&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>We seek your understanding and cooperation throughout this transition.</p>
+<p>We seek your understanding and cooperation during this transition.</p>
 <h2>General Visitor Information</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Located at 91 Hillview Link, S669723</p>
 </li>
 <li>
-<p>Proceed to Level 2, Block 2 for security screening first, and follow directional
-signs to Regional Health Hub</p>
+<p>Proceed to Level 2, Block 2 for security screening first, then follow
+directional signs to Regional Health Hub</p>
 </li>
 </ul>
 <p><strong><a href="https://location.cmpb.gov.sg/locate-us/" rel="noopener nofollow" target="_blank">Directions to CMPB</a></strong>
