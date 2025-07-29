@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h2>Announcements</h2>
-<p>Beginning from Jul 25, we are pleased to announce that all medical services
-previously provided at the following locations have been consolidated and
-provided exclusively at the <strong>CMPB Regional Health Hub (CMPB RHH)</strong>:&nbsp;
+<p>From July 2025, we are pleased to announce that all medical services previously
+provided at the following locations have been consolidated and provided
+exclusively at the <strong>CMPB Regional Health Hub (CMPB RHH)</strong>:&nbsp;
 &nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -37,7 +37,7 @@ provided exclusively at the <strong>CMPB Regional Health Hub (CMPB RHH)</strong>
 <p>Blk 308, Gombak Drive, Bukit Panjang Camp&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>04 Jul 25&nbsp; &nbsp;</p>
+<p>04 Jul 2025&nbsp; &nbsp;</p>
 </td>
 </tr>
 <tr></tr>
@@ -51,7 +51,7 @@ and Psychiatry services, SAF Physiotherapy Centre&nbsp;</p>
 <p>Blk 27, Medical Drive, DSO Building&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 Jul 25</p>
+<p>11 Jul 2025</p>
 </td>
 </tr>
 </tbody>
