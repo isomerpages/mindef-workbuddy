@@ -20,7 +20,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="/general-faqs/cmpb-regional-health-hub/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RHH" src="/images/RHH.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="RHH" src="/images/RHH1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
