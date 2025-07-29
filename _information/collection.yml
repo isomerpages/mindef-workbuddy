@@ -1,5 +1,5 @@
 collections:
-  faqs:
+  information:
     output: true
     order:
       - Employee Information.md
