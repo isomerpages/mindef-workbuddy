@@ -24,8 +24,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">CMP Regional Health Hub</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">CMPB Regional Health Hub</div>
 <div class="isomer-card-link">Find visitor information and clinical services</div>
 </div>
 </a>
