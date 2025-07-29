@@ -32,7 +32,7 @@ provided exclusively at the <strong>CMPB Regional Health Hub (CMPB RHH)</strong>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>MINDEF Medical Centre MINDEF Dental Centre&nbsp;</p>
+<p>MINDEF Medical Centre, MINDEF Dental Centre</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Blk 308, Gombak Drive, Bukit Panjang Camp&nbsp;</p>
@@ -42,17 +42,6 @@ provided exclusively at the <strong>CMPB Regional Health Hub (CMPB RHH)</strong>
 </td>
 </tr>
 <tr></tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MINDEF Dental Centre&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
