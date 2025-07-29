@@ -312,7 +312,7 @@ more details</p>
 <summary><strong>West</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>M-Works@CMPB </h4>
+<h4>M-Works@CMPB</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -324,7 +324,7 @@ more details</p>
 <p>Opening hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>0900 - 1700hrs</p>
 </td>
 </tr>
 <tr>
@@ -332,7 +332,7 @@ more details</p>
 <p>Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Blk 1, 91 Hillview Link, #02-103, Singapore 669723</p>
 </td>
 </tr>
 <tr>
@@ -340,7 +340,8 @@ more details</p>
 <p>Network Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>No OSN terminals. SNET terminals will be coming soon (inside the SNET
+Transit Office at Blk2, North Wing)</p>
 </td>
 </tr>
 <tr>
@@ -348,7 +349,7 @@ more details</p>
 <p>Quiet Room/Pod</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Available</p>
 </td>
 </tr>
 <tr>
@@ -356,7 +357,7 @@ more details</p>
 <p>Discussion Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Not available</p>
 </td>
 </tr>
 <tr>
@@ -364,7 +365,7 @@ more details</p>
 <p>Meeting Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Available</p>
 </td>
 </tr>
 <tr>
@@ -372,7 +373,7 @@ more details</p>
 <p>Hot Desk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Available</p>
 </td>
 </tr>
 <tr>
@@ -380,7 +381,7 @@ more details</p>
 <p>Pantry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Available</p>
 </td>
 </tr>
 <tr>
@@ -388,7 +389,7 @@ more details</p>
 <p>Nursing Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Available at Blk 1 but outside M-Works</p>
 </td>
 </tr>
 </tbody>
