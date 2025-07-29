@@ -59,10 +59,10 @@ and Psychiatry services, SAF Physiotherapy Centre&nbsp;</p>
 <h2>General Visitor Information</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>Located at 91 Hillview Link, S669723</p>
+<p>Located at CMPB, 91 Hillview Link, Singapore 669723</p>
 </li>
 <li>
-<p>Proceed to CMPB Level 2, Block 2 for security screening, then follow directional
+<p>Proceed to Level 2, Block 2 for security screening, then follow directional
 signs to Regional Health Hub</p>
 </li>
 </ul>
