@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>Announcements</h2>
 <p>From July 2025, all medical services previously provided at the following
-locations have been consolidated and provided exclusively at the <strong>CMPB Regional Health Hub (CMPB RHH)</strong>:&nbsp;
+locations have been consolidated and provided exclusively at the <strong>CMPB Regional Health Hub (RHH)</strong>:&nbsp;
 &nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -62,8 +62,8 @@ and Psychiatry services, SAF Physiotherapy Centre&nbsp;</p>
 <p>Located at 91 Hillview Link, S669723</p>
 </li>
 <li>
-<p>Proceed to CMPB Level 2, Block 2 for security screening first, then follow
-directional signs to Regional Health Hub</p>
+<p>Proceed to CMPB Level 2, Block 2 for security screening, then follow directional
+signs to Regional Health Hub</p>
 </li>
 </ul>
 <p><strong><a href="https://location.cmpb.gov.sg/locate-us/" rel="noopener nofollow" target="_blank">Directions to CMPB</a></strong>
