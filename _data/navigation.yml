@@ -18,16 +18,16 @@ links:
       - title: WorkPal
         url: /employee-services/#:~:text=WorkPal
   - title: Employee Information
-    url: /general-faqs
+    url: /information
     sublinks:
       - title: Shuttle buses
-        url: /general-faqs/shuttlebus
+        url: /information/shuttlebus
       - title: M-Works
-        url: /general-faqs/mworks
+        url: /information/mworks
       - title: Corporate Passes FAQs
-        url: /general-faqs/corp-passes/
+        url: /information/corp-passes/
       - title: CMPB Regional Health Hub
-        url: /general-faqs/cmpb-regional-health-hub/
+        url: /information/cmpb-regional-health-hub/
   - title: Common WOG Products
     url: /common-wog-products
     sublinks:
