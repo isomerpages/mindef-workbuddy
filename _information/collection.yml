@@ -1,8 +1,9 @@
 collections:
-  faqs:
+  information:
     output: true
     order:
       - Employee Information.md
       - Shuttle Buses.md
       - M Works.md
       - Corporate Passes FAQs.md
+      - CMPB Regional Health Hub.md

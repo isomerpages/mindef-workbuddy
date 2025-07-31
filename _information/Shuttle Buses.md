@@ -441,14 +441,14 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary>New CMPB</summary>
+<summary>CMPB</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h2>New CMPB</h2>
+<h2>CMPB</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bus_pic.jpg">
 </div>
-<p><strong><u>Temporary Shuttle bus between Cashew MRT and new CMPB (from 23 Jun 2025 onwards</u>)</strong>
+<p><strong><u>Temporary Shuttle bus between Cashew MRT and CMPB</u></strong>
 </p>
 <h3>Monday to Friday</h3>
 <table style="minWidth: 50px">
@@ -498,7 +498,7 @@ description: ""
 <p>Stop 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>New CMPB (Block 1)</p>
+<p>CMPB (Block 1)</p>
 </td>
 </tr>
 </tbody>
@@ -551,7 +551,7 @@ description: ""
 <p>Stop 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>New CMPB (Block 1)</p>
+<p>CMPB (Block 1)</p>
 </td>
 </tr>
 </tbody>
