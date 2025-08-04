@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Postman FAQs/.keep
-      - Postman FAQs/Usage of govsg SMS Sender ID.md
       - Postman FAQs/Vendor Access to Postman SMS System.md
       - Postman FAQs/DOs and DON'Ts of Using Postman for SMS Communications.md
       - Postman FAQs/Costs and Payment.md
