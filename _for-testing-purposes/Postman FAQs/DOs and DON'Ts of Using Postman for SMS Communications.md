@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Postman FAQs
 ---
-<h2>This page is for testing purposes only.</h2>
 <h1><strong>DOs and DON'Ts of Using Postman for SMS Communications</strong></h1>
 <h3><strong>Message Types and Requirements</strong></h3>
 <h4>Q1: Can I use my own SMS aggregators to send SMS messages to citizens and mixed groups?</h4>
