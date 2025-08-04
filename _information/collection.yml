@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Postman FAQs/Usage of govsg SMS Sender ID.md
       - Postman FAQs/About Postman.md
       - Postman FAQs/Postman FAQs.md
       - Postman FAQs/.keep
