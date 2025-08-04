@@ -11,7 +11,7 @@ third_nav_title: Postman FAQs
 <h4>Q1: Can I use my assigned Postman V2 account for purposes other than its intended use?</h4>
 <p>No, each Postman V2 account is restricted to its approved purpose. If
 you need Postman V2 access for a different purpose, submit a new request
-to SDD at <a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef-postmanpic@mindef.gov.sg</a> for
+to SDD at <a href="mailto:mindef_postman_pic@defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef_postman_pic@defence.gov.sg </a>for
 approval.</p>
 <h4>Q2: What are the consequences of a violation?</h4>
 <p>In the event of any misuse or unauthorised use, the granted rights will
