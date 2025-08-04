@@ -41,7 +41,10 @@ and approved by SDD.</p>
 <p>Monitor API performance</p>
 </li>
 <li>
-<p>Share collections with team membersCreate and run automated tests</p>
+<p>Share collections with team members</p>
+</li>
+<li>
+<p>Create and run automated tests</p>
 </li>
 <li>
 <p>Generate API documentation</p>
