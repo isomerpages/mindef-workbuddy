@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Postman FAQs
 ---
-<h2>This page is for testing purposes only.</h2>
-<p></p>
-<p></p>
 <h1><strong>Usage of gov.sg SMS Sender ID</strong></h1>
 <h3><strong>Eligibility</strong></h3>
 <h4>Q1: How do I determine if my use case qualifies for gov.sg SMS sender ID?</h4>
