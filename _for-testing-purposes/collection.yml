@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Postman FAQs/.keep
-      - Postman FAQs/Incident Management.md
       - Postman FAQs/Support and References.md
       - MINDEF Training Academy.md
       - DXO Milestone Training Programmes.md
