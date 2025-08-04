@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Postman FAQs
 ---
-<h2>This page is for testing purposes only.</h2>
 <h1><strong>Getting Access</strong></h1>
 <h3><strong>Account Application</strong></h3>
 <h4>Q1: What is the process flow to onboard Postman?</h4>
