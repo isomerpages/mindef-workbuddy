@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Postman FAQs
 ---
-<h2>This page is for testing purposes only.</h2>
 <h1><strong>Creating and Managing SMS Campaigns</strong></h1>
 <h3><strong>Campaign Creation</strong></h3>
 <h4>Q1: How do I create a Campaign to send SMS?</h4>
