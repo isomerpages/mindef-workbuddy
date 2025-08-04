@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Postman FAQs
 ---
-<h2>This page is for testing purposes.</h2>
 <h1><strong>Support and References</strong></h1>
 <h3><strong>Contact Information</strong></h3>
 <h4>Q1: How do I reach Postman Team to resolve an urgent technical issue relating to Postman V2?</h4>
