@@ -2,6 +2,12 @@ collections:
   information:
     output: true
     order:
+      - Employee Information.md
+      - Shuttle Buses.md
+      - M Works.md
+      - Corporate Passes FAQs.md
+      - CMPB Regional Health Hub.md
+      - Postman FAQs/.keep
       - Postman FAQs/Support and References.md
       - Postman FAQs/Incident Management.md
       - Postman FAQs/Creating and Managing SMS Campaigns.md
@@ -13,9 +19,3 @@ collections:
       - Postman FAQs/Usage of govsg SMS Sender ID.md
       - Postman FAQs/About Postman.md
       - Postman FAQs/Postman FAQs.md
-      - Postman FAQs/.keep
-      - Employee Information.md
-      - Shuttle Buses.md
-      - M Works.md
-      - Corporate Passes FAQs.md
-      - CMPB Regional Health Hub.md
