@@ -65,8 +65,8 @@ email.</p>
 before the campaign start date by:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Completing and submitting the <a href="https://gccprod.sharepoint.com/:x:/r/sites/MINDEF-Postman-MST/_layouts/15/Doc.aspx?sourcedoc=%7B3936B4A7-3F3E-451E-9FC3-B87A2D28030F%7D&amp;file=Large_Time%20Sensitive%20Campaigns%20blank%20template%20v0.1.xlsx" rel="noopener nofollow" target="_blank">new large campaign template</a> to
-SDD at <a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef-postmanpic@mindef.gov.sg </a>for
+<p>Completing and submitting the <a href="https://go.gov.sg/large-time-sensitive-campaign-template" rel="noopener nofollow" target="_blank">large time sensitive campaign template </a>to
+SDD at <a href="mailto:mindef_postman_pic@defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef_postman_pic@defence.gov.sg</a> for
 our tracking as MINDEF/SAF Postman PIC (Person-in-Charge).</p>
 </li>
 <li>
@@ -75,6 +75,6 @@ our tracking as MINDEF/SAF Postman PIC (Person-in-Charge).</p>
 </ol>
 <h4>Q8: What should a new Campaign Creator do if he/she has an upcoming large campaign?</h4>
 <p>A new Campaign Creator should register his/her use case with Service Delivery
-Division (SDD) at <a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef-postmanpic@mindef.gov.sg</a>.
+Division (SDD) at <a href="mailto:mindef_postman_pic@defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef_postman_pic@defence.gov.sg</a>.
 An officer from SDD will get in touch with him/her to gather more information
 and provide guidance.</p>
