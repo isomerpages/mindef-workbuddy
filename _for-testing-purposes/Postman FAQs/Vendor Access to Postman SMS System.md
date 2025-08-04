@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Postman FAQs
 ---
-<h2>This page is for testing purposes only.</h2>
 <h1><strong>Vendor Access to Postman SMS System</strong></h1>
 <h4>Q1: Are vendors allowed to be Campaign Creators?</h4>
 <p>Vendors are not allowed to be Campaign Creators; they can only be assigned
