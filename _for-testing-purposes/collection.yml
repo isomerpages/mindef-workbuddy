@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Postman FAQs/.keep
-      - Postman FAQs/Account Compliance.md
       - Postman FAQs/Getting Access.md
       - Postman FAQs/Creating and Managing SMS Campaigns.md
       - Postman FAQs/Incident Management.md
