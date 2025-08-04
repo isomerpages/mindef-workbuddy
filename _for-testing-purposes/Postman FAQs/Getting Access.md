@@ -9,10 +9,10 @@ third_nav_title: Postman FAQs
 <h1><strong>Getting Access</strong></h1>
 <h3><strong>Account Application</strong></h3>
 <h4>Q1: What is the process flow to onboard Postman?</h4>
-<p></p><a class="isomer-image-wrapper" href="mailto://mindef-postmanpic@mindef.gov.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Postman FAQ/postman_flowchart.png"></a>
+<p></p><a class="isomer-image-wrapper" href="mailto://mindef_postman_pic@defence.gov.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Postman FAQ/postman_flowchart.png"></a>
 <h4>Q2: How do I gain access to Postman V2?</h4>
 <p>All MINDEF/SAF SMS use cases to citizens or mixed groups must be registered
-with the Service Delivery Division (SDD) at <a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef-postmanpic@mindef.gov.sg</a>.
+with the Service Delivery Division (SDD) at <a href="mailto:mindef_postman_pic@defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef_postman_pic@defence.gov.sg</a>.
 An officer from SDD will get in touch with you to gather more information
 and provide guidance.</p>
 <h4>Q3: How long is the onboarding process?</h4>
