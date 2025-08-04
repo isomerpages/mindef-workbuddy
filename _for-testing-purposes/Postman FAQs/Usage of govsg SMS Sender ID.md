@@ -36,7 +36,7 @@ is that the use case must meet the policy guidelines stipulated in SD Directive
 <p>• Emergency alerts relevant to both citizens and employees</p>
 <h4>Q4: What if I'm unsure whether my communication qualifies as a mixed group?</h4>
 <p>Consult Postman Person-in-Charge (PIC) in Service Delivery Division (SDD)
-at <a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef-postmanpic@mindef.gov.sg</a> to
+at <a href="mailto:mindef_postman_pic@defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef_postman_pic@defence.gov.sg</a> to
 verify if your use case meets the criteria for gov.sg SMS sender ID usage.
 A FormSG URL will be provided here when it is ready.</p>
 <p></p>
