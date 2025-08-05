@@ -1,0 +1,4 @@
+collections:
+  common-wog-products:
+    output: true
+    order: []
