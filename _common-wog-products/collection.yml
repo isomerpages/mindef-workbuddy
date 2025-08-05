@@ -2,6 +2,8 @@ collections:
   common-wog-products:
     output: true
     order:
+      - Common WOG Products.md
+      - Postman FAQs/.keep
       - Postman FAQs/Postman FAQs.md
       - Postman FAQs/About Postman.md
       - Postman FAQs/Usage of govsg SMS Sender ID.md
@@ -13,5 +15,3 @@ collections:
       - Postman FAQs/Creating and Managing SMS Campaigns.md
       - Postman FAQs/Incident Management.md
       - Postman FAQs/Support and References.md
-      - Postman FAQs/.keep
-      - Common WOG Products.md
