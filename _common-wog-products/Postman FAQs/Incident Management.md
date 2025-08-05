@@ -1,6 +1,6 @@
 ---
 title: Incident Management
-permalink: /general-faqs/postman-faqs/incident-management/
+permalink: /common-wog-products/postman-faqs/incident-management/
 variant: tiptap
 description: ""
 third_nav_title: Postman FAQs

@@ -1,6 +1,6 @@
 ---
 title: Getting Access
-permalink: /general-faqs/postman-faqs/getting-access/
+permalink: /common-wog-products/postman-faqs/getting-access/
 variant: tiptap
 description: ""
 third_nav_title: Postman FAQs

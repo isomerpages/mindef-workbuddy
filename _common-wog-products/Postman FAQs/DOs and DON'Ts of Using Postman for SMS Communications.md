@@ -1,6 +1,6 @@
 ---
 title: DOs and DON'Ts of Using Postman for SMS Communications
-permalink: /general-faqs/postman-faqs/dos-and-don-ts-of-using-postman-for-sms-communications/
+permalink: /common-wog-products/postman-faqs/dos-and-don-ts-of-using-postman-for-sms-communications/
 variant: tiptap
 description: ""
 third_nav_title: Postman FAQs

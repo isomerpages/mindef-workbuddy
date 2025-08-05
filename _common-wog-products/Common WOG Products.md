@@ -45,6 +45,7 @@ links can only be created by public officers to ensure authenticity.</p>
 <p>Save time with workflow automations.</p>
 <hr>
 <h2><a href="https://postman.gov.sg" rel="noopener nofollow" target="_blank">Postman</a></h2>
-<h4><strong>Reach out to citizens in minutes</strong></h4>
-<p></p>
+<h4><strong>Securely send messages to the public</strong></h4>
+<p>FAQs on using Postman: <a href="/common-wog-products/postman-faqs/" rel="noopener nofollow" target="_blank">Postman FAQs</a>
+</p>
 <p></p>

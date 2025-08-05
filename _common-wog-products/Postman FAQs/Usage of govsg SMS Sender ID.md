@@ -1,6 +1,6 @@
 ---
 title: Usage of govsg SMS Sender ID
-permalink: /general-faqs/postman-faqs/usage-of-govsg-sms-sender-id/
+permalink: /common-wog-products/postman-faqs/usage-of-govsg-sms-sender-id/
 variant: tiptap
 description: ""
 third_nav_title: Postman FAQs

@@ -1,6 +1,6 @@
 ---
 title: Vendor Access to Postman SMS System
-permalink: /general-faqs/postman-faqs/vendor-access-to-postman-sms-system/
+permalink: /common-wog-products/postman-faqs/vendor-access-to-postman-sms-system/
 variant: tiptap
 description: ""
 third_nav_title: Postman FAQs

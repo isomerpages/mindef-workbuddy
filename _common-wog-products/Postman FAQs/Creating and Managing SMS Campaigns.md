@@ -1,6 +1,6 @@
 ---
 title: Creating and Managing SMS Campaigns
-permalink: /general-faqs/postman-faqs/creating-and-managing-sms-campaigns/
+permalink: /common-wog-products/postman-faqs/creating-and-managing-sms-campaigns/
 variant: tiptap
 description: ""
 third_nav_title: Postman FAQs

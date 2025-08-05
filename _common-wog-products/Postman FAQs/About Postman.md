@@ -1,6 +1,6 @@
 ---
 title: About Postman
-permalink: /general-faqs/postman-faqs/about/
+permalink: /common-wog-products/postman-faqs/about/
 variant: tiptap
 description: ""
 third_nav_title: Postman FAQs

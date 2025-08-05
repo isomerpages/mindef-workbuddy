@@ -1,6 +1,6 @@
 ---
 title: Support and References
-permalink: /general-faqs/postman-faqs/support-and-references/
+permalink: /common-wog-products/postman-faqs/support-and-references/
 variant: tiptap
 description: ""
 third_nav_title: Postman FAQs

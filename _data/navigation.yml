@@ -28,8 +28,6 @@ links:
         url: /general-faqs/corp-passes/
       - title: CMPB Regional Health Hub
         url: /general-faqs/cmpb-regional-health-hub/
-      - title: Postman FAQs
-        url: /general-faqs/postman-faqs/
   - title: Common WOG Products
     url: /common-wog-products
     sublinks:
@@ -53,5 +51,7 @@ links:
         url: https://plumber.gov.sg
       - title: Postman
         url: https://postman.gov.sg
+      - title: Postman FAQs
+        url: /common-wog-products/postman-faqs/
   - title: Feedback
     url: https://go.gov.sg/mindefempfeedback

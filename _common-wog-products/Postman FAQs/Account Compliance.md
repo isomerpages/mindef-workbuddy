@@ -1,6 +1,6 @@
 ---
 title: Account Compliance
-permalink: /general-faqs/postman-faqs/account-compliance/
+permalink: /common-wog-products/postman-faqs/account-compliance/
 variant: tiptap
 description: ""
 third_nav_title: Postman FAQs

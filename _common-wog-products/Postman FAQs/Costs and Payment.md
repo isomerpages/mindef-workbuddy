@@ -1,6 +1,6 @@
 ---
 title: Costs and Payment
-permalink: /general-faqs/postman-faqs/costs-and-payment/
+permalink: /common-wog-products/postman-faqs/costs-and-payment/
 variant: tiptap
 description: ""
 third_nav_title: Postman FAQs
