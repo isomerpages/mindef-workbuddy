@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Postman FAQs
 ---
-<h2>This page is for testing purposes only.</h2>
-<p></p>
-<p></p>
 <h1><strong>Usage of gov.sg SMS Sender ID</strong></h1>
 <h3><strong>Eligibility</strong></h3>
 <h4>Q1: How do I determine if my use case qualifies for gov.sg SMS sender ID?</h4>
@@ -36,7 +33,7 @@ is that the use case must meet the policy guidelines stipulated in SD Directive
 <p>• Emergency alerts relevant to both citizens and employees</p>
 <h4>Q4: What if I'm unsure whether my communication qualifies as a mixed group?</h4>
 <p>Consult Postman Person-in-Charge (PIC) in Service Delivery Division (SDD)
-at <a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef-postmanpic@mindef.gov.sg</a> to
+at <a href="mailto:mindef_postman_pic@defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef_postman_pic@defence.gov.sg</a> to
 verify if your use case meets the criteria for gov.sg SMS sender ID usage.
 A FormSG URL will be provided here when it is ready.</p>
 <p></p>

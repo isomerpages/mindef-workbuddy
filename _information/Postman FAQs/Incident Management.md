@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Postman FAQs
 ---
-<h2>This page is for testing purposes only.</h2>
 <h1><strong>Incident Management</strong></h1>
 <h4>Q1: What should I do when there is any accidental misuse or suspected unauthorised access to Postman V2?</h4>
 <p>Report any incidents of accidental misuse or suspected unauthorised access
-to SDD at <a href="mailto:mindef-postmanpic@mindef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef-postmanpic@mindef.gov.sg</a> immediately.
+to SDD at <a href="mailto:mindef_postman_pic@defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindef_postman_pic@defence.gov.sg</a> immediately.
 This includes:</p>
 <ul data-tight="true" class="tight">
 <li>
