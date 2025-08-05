@@ -2,6 +2,7 @@ collections:
   common-wog-products:
     output: true
     order:
+      - Postman FAQs/Getting Access.md
       - Postman FAQs/Creating and Managing SMS Campaigns.md
       - Postman FAQs/Incident Management.md
       - Postman FAQs/Support and References.md
