@@ -1,4 +1,5 @@
 collections:
   common-wog-products:
     output: true
-    order: []
+    order:
+      - Common WOG Products.md
