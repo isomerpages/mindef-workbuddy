@@ -152,7 +152,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Temporary Shuttle bus for Lunchtime (Timbre+ Hillview)</u></strong>
+<p><strong><u>Shuttle bus for Lunchtime (Timbre+ Hillview)</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
