@@ -27,7 +27,7 @@ description: ""
 <div class="isomer-card-title">CMPB Regional Health Hub</div>
 <div class="isomer-card-link">Find visitor information and clinical services</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/general-faqs/postman-faqs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Postman logo and text" src="/images/Postman FAQ/postman_square.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Postman FAQs</div><div class="isomer-card-link">FAQs about sending SMS using gov.sg Sender ID</div></div></a>
+</a>
 </div>
 <hr>
 <h3>For policy-related FAQs, please head over to <a href="https://navi.defence.gov.sg" rel="noopener nofollow" target="_blank">Navi</a>.</h3>
