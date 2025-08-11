@@ -69,10 +69,6 @@ signs to Regional Health Hub</p>
 <p><strong><a href="https://location.cmpb.gov.sg/locate-us/" rel="noopener nofollow" target="_blank">Directions to CMPB</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="border-width: 0px; border-style: none; box-sizing: border-box; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: rgb(226, 232, 240); margin: 0px;" height="auto" width="100%" alt="CMPB Map" src="https://s3.ap-southeast-1.amazonaws.com/images.form.gov.sg/687f9076ac32242888a9d9a6-687f8eee25cdf21ee0569f9e-1753190517570-cmpb%20location%20map%20(caa%2016%20may%202025)_link.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_map.png">
 </div>
 <h2>Opening Hours</h2>
