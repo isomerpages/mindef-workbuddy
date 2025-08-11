@@ -86,7 +86,5 @@ need medications. &nbsp;</p>
 <p>For all other appointment types <strong>(For HSP, ORD/Discharge FFI, Weight Management and Medical Review)</strong>,
 please schedule your appointment via <a href="https://safhealth.gov.sg/" class="chakra-link css-1g7zzw0" rel="noopener" target="_blank"><u>Manage Medical (eHealth) eService</u></a>.
 &nbsp; &nbsp;</p>
-<p>If you have other questions or require assistance, please contact us via
-<a href="https://www.ns.gov.sg/web/contact-us" class="chakra-link css-1g7zzw0" rel="noopener" target="_blank"><u>OneNS | Contact Us</u>
-</a>.</p>
+<p>If you have other questions or require assistance, please visit <a href="https://www.ns.gov.sg/web/contact-us" class="chakra-link css-1g7zzw0" rel="noopener" target="_blank"><u>OneNS | Contact Us</u></a>.</p>
 <p></p>
