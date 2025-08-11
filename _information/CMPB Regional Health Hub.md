@@ -71,6 +71,10 @@ signs to Regional Health Hub</p>
 <div class="isomer-image-wrapper">
 <img style="border-width: 0px; border-style: none; box-sizing: border-box; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: rgb(226, 232, 240); margin: 0px;" height="auto" width="100%" alt="CMPB Map" src="https://s3.ap-southeast-1.amazonaws.com/images.form.gov.sg/687f9076ac32242888a9d9a6-687f8eee25cdf21ee0569f9e-1753190517570-cmpb%20location%20map%20(caa%2016%20may%202025)_link.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_map.png">
+</div>
 <h2>Opening Hours</h2>
 <div class="isomer-image-wrapper">
 <img style="border-width: 0px; border-style: none; box-sizing: border-box; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: rgb(226, 232, 240); margin: 0px;" height="auto" width="100%" alt="CMPB RHH" src="https://s3.ap-southeast-1.amazonaws.com/images.form.gov.sg/687f912fba1303591286c745-687f8eee25cdf21ee0569f9e-1753190702288-weedays%202.png">
@@ -89,10 +93,4 @@ please schedule your appointment via <a href="https://safhealth.gov.sg/" class="
 <p>If you have other questions or require assistance, please contact us via
 <a href="https://www.ns.gov.sg/web/contact-us" class="chakra-link css-1g7zzw0" rel="noopener" target="_blank"><u>OneNS | Contact Us</u>
 </a>.</p>
-<h2>Complimentary Shuttle Bus (Temporary)</h2>
-<p>Please click <a href="https://workbuddy.defence.gov.sg/general-faqs/shuttlebus/" rel="noopener nofollow" target="_blank">here</a> for
-the latest temporary shuttle bus service schedule from Cashew MRT to CMPB.</p>
 <p></p>
-<p>
-<br>
-</p>
