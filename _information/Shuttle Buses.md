@@ -138,7 +138,7 @@ description: ""
 <p>Stop 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hillv2 Bus Stop</p>
+<p>Hillv2 Bus Stop (discontinued wef 18 Aug 2025)</p>
 </td>
 </tr>
 <tr>
