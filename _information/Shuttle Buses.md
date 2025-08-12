@@ -7,7 +7,7 @@ description: ""
 <h2>Shuttle bus timings</h2>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Gombak Precinct</summary>
+<summary>Gombak Precinc</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h2>Gombak Precinct</h2>
 <div class="isomer-image-wrapper">
@@ -143,7 +143,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S(top 5</p>
+<p>Stop 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MINDEF Pass Office</p>
