@@ -7,7 +7,7 @@ description: ""
 <h2>Shuttle bus timings</h2>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Gombak Precinc</summary>
+<summary>Gombak Precinct</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h2>Gombak Precinct</h2>
 <div class="isomer-image-wrapper">
