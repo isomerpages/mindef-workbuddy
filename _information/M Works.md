@@ -344,8 +344,8 @@ more details</p>
 <p>Network Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No OSN terminals. SNET terminals will be coming soon (inside the SNET
-Transit Office at Blk 2, North Wing)</p>
+<p>Available, see <a href="https://book.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
+more details</p>
 </td>
 </tr>
 <tr>
