@@ -203,7 +203,7 @@ description: ""
 <p>Drop off location</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>New CMPB Blk 1</p>
+<p>CMPB Blk 1</p>
 </td>
 </tr>
 </tbody>
