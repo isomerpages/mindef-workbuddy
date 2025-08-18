@@ -105,7 +105,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>30 mins</strong>
+<p><strong>15 mins</strong>
 </p>
 </td>
 </tr>
@@ -136,14 +136,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Stop 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hillv2 Bus Stop (discontinued wef 18 Aug 2025)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Stop 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MINDEF Pass Office</p>
