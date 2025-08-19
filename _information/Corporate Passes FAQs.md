@@ -58,7 +58,7 @@ website, as cancellations may open up available slots.</p>
 <p></p>
 </li>
 <li>
-<p><strong>What are the entry requirements for children at Gardens by the Bay, Singapore Zoo, River Wonders, and SuperPark Singapore? Are there any age restrictions or entry fees for children?"</strong>
+<p><strong>What are the entry requirements for children at Gardens by the Bay, Singapore Zoo, River Wonders, and SuperPark Singapore? Are there any age restrictions or entry fees for children?</strong>
 </p>
 <p>To visit the Gardens by the Bay, Singapore Zoo, and River Wonders, children
 aged 3 years and above will need a pass for entry. Children below 3 years
