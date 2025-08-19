@@ -38,7 +38,7 @@ refer to the <a href="https://file.go.gov.sg/faqforcp.pdf" class="fui-Link ___1r
 <p><u>Apply on Eventbrite</u>
 </p>
 <p>To submit Corporate Pass applications, please access the application pages
-through Eventbrite at the <a href="https://safpscdeals.my.canva.site/" rel="noopener noreferrer nofollow" target="_blank">SAFPSC Welfare Portal</a>.</p>
+through Eventbrite at the <a href="https://safpscwelfare.my.canva.site/deals" rel="noopener noreferrer nofollow" target="_blank">SAFPSC Welfare Portal</a>.</p>
 <p></p>
 <p>i. <u>Eventbrite account</u>. Before applying for the corporate pass, please
 ensure that you have an Eventbrite account.</p>
@@ -58,7 +58,7 @@ website, as cancellations may open up available slots.</p>
 <p></p>
 </li>
 <li>
-<p><strong>What are the entry requirements for children at Gardens by the Bay, Singapore Zoo, River Wonders, and SuperPark Singapore? Are there any age restrictions or entry fees for children?"</strong>
+<p><strong>What are the entry requirements for children at Gardens by the Bay, Singapore Zoo, River Wonders, and SuperPark Singapore? Are there any age restrictions or entry fees for children?</strong>
 </p>
 <p>To visit the Gardens by the Bay, Singapore Zoo, and River Wonders, children
 aged 3 years and above will need a pass for entry. Children below 3 years
