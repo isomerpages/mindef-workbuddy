@@ -38,7 +38,7 @@ refer to the <a href="https://file.go.gov.sg/faqforcp.pdf" class="fui-Link ___1r
 <p><u>Apply on Eventbrite</u>
 </p>
 <p>To submit Corporate Pass applications, please access the application pages
-through Eventbrite at the <a href="https://safpscdeals.my.canva.site/" rel="noopener noreferrer nofollow" target="_blank">SAFPSC Welfare Portal</a>.</p>
+through Eventbrite at the <a href="https://safpscwelfare.my.canva.site/deals" rel="noopener noreferrer nofollow" target="_blank">SAFPSC Welfare Portal</a>.</p>
 <p></p>
 <p>i. <u>Eventbrite account</u>. Before applying for the corporate pass, please
 ensure that you have an Eventbrite account.</p>
