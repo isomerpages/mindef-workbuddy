@@ -124,8 +124,8 @@ message delivery.</p>
 cannot be created on the Postman admin portal. This blocking has been implemented
 since June 2024.</p>
 <p>On the API layer: Message content containing unsupported characters will
-be blocked from sending. Postman Team will implement blocking on the Postman
-production environment from 5 May 2025.</p>
+be blocked from sending. Postman Team has implemented the blocking on the
+Postman production environment from 5 May 2025.</p>
 <h4>Q10: How do I count total characters, number of segments and identify unsupported characters?</h4>
 <p>Visit <a href="https://message-segment-calculator.postman.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://message-segment-calculator.postman.gov.sg</a> to
 use the Postman Message Segment Calculator tool to count your total characters,
