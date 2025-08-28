@@ -31,9 +31,13 @@ SMS messaging service primarily.</p>
 signing in with your gov.sg email address to utilise the ‘Broadcast Email
 Service’ in Postman Legacy. The system is managed by Open Government Products
 (OGP). For queries or troubleshooting assistance, please contact OGP directly
-at <a href="https://form.gov.sg/6465d6db09cbc8001286a8d8" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6465d6db09cbc8001286a8d8</a>
+at <a href="https://form.gov.sg/68947817cc63b1edce1d52f6" rel="noopener noreferrer nofollow" target="_blank">Postman V1 - Contact Us | FormSG.</a>
 </p>
-<p></p>
+<h4>Q4: Is the demo feature in Postman Legacy still available for small-scale testing purposes to send SMS messages?</h4>
+<p>GovTech has decommissioned the demo feature in Postman Legacy. Access
+to this feature including the Postman SSID is no longer available to any
+agencies. Please use the "gov.sg" SMS Sender ID when sending SMSes to members
+of public and citizens.</p>
 <h3><strong>System Security and Performance</strong></h3>
 <h4>Q4: What is the security and sensitivity classification of Postman V2?</h4>
 <p>Postman V2 can handle up to <a href="https://postman-v2.guides.gov.sg/#what-types-of-data-can-postman-handle" rel="noopener nofollow" target="_blank">restricted sensitive-normal data</a>.</p>
