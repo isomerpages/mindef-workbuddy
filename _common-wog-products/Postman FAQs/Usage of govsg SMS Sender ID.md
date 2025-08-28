@@ -33,8 +33,9 @@ is that the use case must meet the policy guidelines stipulated in SD Directive
 <p>• Emergency alerts relevant to both citizens and employees</p>
 <h4>Q4: What if I'm unsure whether my communication qualifies as a mixed group?</h4>
 <p>Consult Postman Person-in-Charge (PIC) in Service Delivery Division (SDD)
-by submitting this form (&lt;placeholder&gt;)to verify if your use case
-meets the criteria for gov.sg SMS sender ID usage.</p>
+by submitting this form (<a href="https://form.gov.sg/68ad066b2f8126b41bbd8dd2" rel="noopener noreferrer nofollow" target="_blank">Enquiry for SMS Communications to Mixed Group | FormSG</a>)
+to verify if your use case meets the criteria for gov.sg SMS sender ID
+usage.</p>
 <p></p>
 <h3><strong>Employee Communications</strong></h3>
 <h4>Q5: Can I use Postman V2 with gov.sg SMS sender ID for employee communications?</h4>
