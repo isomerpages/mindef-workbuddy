@@ -39,13 +39,13 @@ to this feature including the Postman SSID is no longer available to any
 agencies. Please use the "gov.sg" SMS Sender ID when sending SMSes to members
 of public and citizens.</p>
 <h3><strong>System Security and Performance</strong></h3>
-<h4>Q4: What is the security and sensitivity classification of Postman V2?</h4>
+<h4>Q5: What is the security and sensitivity classification of Postman V2?</h4>
 <p>Postman V2 can handle up to <a href="https://postman-v2.guides.gov.sg/#what-types-of-data-can-postman-handle" rel="noopener nofollow" target="_blank">restricted sensitive-normal data</a>.</p>
-<h4>Q5: What is Postman V2’s system uptime?</h4>
+<h4>Q6: What is Postman V2’s system uptime?</h4>
 <p>Postman V2 aims to have an uptime of &gt;99.5%. Postman Team has internal
 services to monitor Postman V2’s uptime 24/7.</p>
 <h3><strong>Service Level Agreements</strong></h3>
-<h4>Q6: What is the Service Level Agreement (SLA) for Postman V2?</h4>
+<h4>Q7: What is the Service Level Agreement (SLA) for Postman V2?</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
