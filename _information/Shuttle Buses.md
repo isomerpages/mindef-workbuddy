@@ -95,7 +95,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1400hrs</strong>
+<p><strong>1415hrs</strong>
 </p>
 </td>
 </tr>
@@ -184,7 +184,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pick up location</p>
+<p>Stop 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>M-Annex Foyer</p>
@@ -192,7 +192,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Drop off location</p>
+<p>Stop 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CMPB Blk 1</p>
