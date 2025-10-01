@@ -14,7 +14,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Shuttle bus pick up at cashew MRT" src="/images/Shuttle bus/shuttle_gbk.jpg">
 </div>
 <h3>Morning</h3>
-<p>Between Cashew MRT and M-Annex</p>
+<p><strong>Between Cashew MRT and M-Annex</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -76,7 +77,8 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p>Between CMPB and M-Annex (Trial period: 6 October to 31 December 2025)</p>
+<p><strong>Between CMPB and M-Annex (Trial period: 6 October to 31 December 2025)</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -194,8 +196,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<h3>Lunchtime</h3>
+<h3>&nbsp;Lunchtime</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -321,7 +322,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3>Evening</h3>
 <table style="minWidth: 50px">
 <colgroup>
