@@ -142,62 +142,6 @@ description: ""
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>First bus</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1000hrs</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Last bus</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1130hrs</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Frequency</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>20 mins</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Stop 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CMPB</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Stop 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>M-Annex Foyer</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
