@@ -163,7 +163,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <h3>&nbsp;Lunchtime</h3>
 <table style="minWidth: 50px">
 <colgroup>
