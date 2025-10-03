@@ -79,8 +79,9 @@ description: ""
 <p></p>
 <p><strong>Between CMPB and M-Annex (Trial period: 6 October to 31 December 2025)</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -94,6 +95,10 @@ description: ""
 <p><strong>0730hrs</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>1000hrs</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -102,6 +107,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1000hrs</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1130hrs</strong>
 </p>
 </td>
 </tr>
@@ -114,10 +123,17 @@ description: ""
 <p><strong>25 mins</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>20 mins</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Stop 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CMPB</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CMPB</p>
@@ -130,6 +146,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>MINDEF Pass Office</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>M-Annex Foyer</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -137,6 +156,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>M-Annex Foyer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 </tbody>
