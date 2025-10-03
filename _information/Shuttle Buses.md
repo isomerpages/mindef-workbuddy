@@ -91,7 +91,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>0700hrs</strong>
+<p><strong>0730hrs</strong>
 </p>
 </td>
 </tr>
@@ -111,7 +111,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>20-30 mins</strong>
+<p><strong>25 mins</strong>
 </p>
 </td>
 </tr>
@@ -164,7 +164,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1130hrs</strong>
+<p><strong>1430hrs</strong>
 </p>
 </td>
 </tr>
@@ -174,7 +174,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>20-30 mins</strong>
+<p><strong>20 mins</strong>
 </p>
 </td>
 </tr>
