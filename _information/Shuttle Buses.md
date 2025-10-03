@@ -164,7 +164,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1430hrs</strong>
+<p><strong>1130hrs</strong>
 </p>
 </td>
 </tr>
@@ -317,7 +317,7 @@ description: ""
 <p>Stop 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CMPB Blk 1</p>
+<p>CMPB</p>
 </td>
 </tr>
 </tbody>
