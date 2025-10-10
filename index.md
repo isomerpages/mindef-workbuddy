@@ -4,8 +4,7 @@ title: WorkBuddy
 description: MINDEF/SAF Employee landing page
 image: /images/shareicon.png
 permalink: /
-notification: It is now easier to apply for more leave types. Check out the HR
-  Admin section via the button below!
+notification: ""
 sections:
   - hero:
       title: WorkBuddy
