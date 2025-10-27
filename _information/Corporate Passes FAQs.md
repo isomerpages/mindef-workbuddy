@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3>Go to <a href="https://safpscwelfare.my.canva.site/deals" rel="noopener nofollow" target="_blank">SAFPSC Welfare Portal</a></h3>
-<p></p><a class="isomer-image-wrapper" href="https://safpscwelfare.my.canva.site/deals"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SAFPSC_image.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/header.jpg">
+</div>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>What are the benefits of Corporate Passes for approved MINDEF/SAF applicants?</strong>
