@@ -45,7 +45,7 @@ your Service (MINDEF or SAF).</p>
 <p>Leave type</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MINDEF /SAF Personnel</p>
+<p>MINDEF / SAF Personnel</p>
 </th>
 </tr>
 <tr>
