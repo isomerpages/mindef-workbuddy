@@ -34,9 +34,8 @@ unlock accounts</p>
 <p>The following FormSG forms will replace the PDF form, which will no longer
 be processed. Visit the following links depending on the Leave Type and
 your Service (MINDEF or SAF).</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -46,10 +45,7 @@ your Service (MINDEF or SAF).</p>
 <p>Leave type</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MINDEF Personnel</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SAF Personnel</p>
+<p>MINDEF /SAF Personnel</p>
 </th>
 </tr>
 <tr>
@@ -64,32 +60,19 @@ your Service (MINDEF or SAF).</p>
 <li>
 <p>Compassionate Leave (3 days or less)</p>
 </li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/MINDEF-leaveapply" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/MINDEF-leaveapply</u></a>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/SAF-leaveapply" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/SAF-leaveapply</u></a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Compassionate Leave (more than 3 days)</p>
-</li>
 <li>
 <p>Parenthood Leave*</p>
 </li>
+<li>
+<p>Hospitalisation Leave</p>
+</li>
+<li>
+<p>Extended / Further Extended / Full Pay Medical Leave Due to Service Injury</p>
+</li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/MINDEF-leaveapproval" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/MINDEF-leaveapproval</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/SAF-leaveapproval" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/SAF-leaveapproval</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mindef-saf-leaveapplication</a>
 </p>
 </td>
 </tr>
