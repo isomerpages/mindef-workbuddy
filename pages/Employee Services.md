@@ -31,9 +31,7 @@ unlock accounts</p>
 &amp; claims here</p>
 <p></p>
 <h3>Application for leave types not found in OneNS</h3>
-<p>The following FormSG forms will replace the PDF form, which will no longer
-be processed. Visit the following links depending on the Leave Type and
-your Service (MINDEF or SAF).</p>
+<p>Visit the link below to apply for the following leaves:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -45,7 +43,7 @@ your Service (MINDEF or SAF).</p>
 <p>Leave type</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MINDEF / SAF Personnel</p>
+<p></p>
 </th>
 </tr>
 <tr>
