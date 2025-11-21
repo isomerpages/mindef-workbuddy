@@ -70,7 +70,7 @@ unlock accounts</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mindef-saf-leaveapplication</a>
+<p><a href="https://go.gov.sg/mindef-saf-leaveapplication" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mindef-saf-leaveapplication</a>
 </p>
 </td>
 </tr>
