@@ -290,6 +290,8 @@ description: ""
 </tbody>
 </table>
 <h3>Evening</h3>
+<p>Please note that the evening shuttle bus service will not be available
+on 24 Dec 2025 and 31 Dec 2025.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -466,6 +468,8 @@ description: ""
 </tbody>
 </table>
 <h3>Evening</h3>
+<p>Please note that the evening shuttle bus service will not be available
+on 24 Dec 2025 and 31 Dec 2025.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
