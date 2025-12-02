@@ -13,6 +13,9 @@ description: ""
 <h3><a href="https://host.vis.defence.gov.sg/" rel="noopener nofollow" target="_blank">Visitor In-Processing Service (VIS)</a></h3>
 <p>Register visitors for entry into camps &amp; bases here</p>
 <hr>
+<h3><a href="https://employees.defence.gov.sg/nshub" rel="noopener noreferrer nofollow" target="_blank">MEX</a></h3>
+<p>Access to resource booking, employee services and feedback for CMPB building</p>
+<hr>
 <h3><a href="https://www.smartcompose.gov.sg/reports/mindef_aor" rel="noopener nofollow" target="_blank">AOR Assistant (AORA)</a></h3>
 <p>A form-based Artificial Intelligence (AI)-powered writing assistant to
 help officers quickly draft AOR submissions in accordance with Finance
