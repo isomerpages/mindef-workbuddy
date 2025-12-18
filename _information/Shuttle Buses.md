@@ -366,6 +366,7 @@ on 24 Dec and 31 Dec.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>0700hrs</p>
+<p>0730hrs (w.e.f. 2 Jan 2026)</p>
 </th>
 </tr>
 <tr>
@@ -385,6 +386,8 @@ on 24 Dec and 31 Dec.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>15-20 mins</strong>
+</p>
+<p><strong>20 mins (w.e.f. 2 Jan 2026)</strong>
 </p>
 </td>
 </tr>
@@ -482,6 +485,7 @@ on 24 Dec and 31 Dec.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>1700hrs</p>
+<p>1720hrs (w.e.f. 2 Jan 2026)</p>
 </th>
 </tr>
 <tr>
@@ -492,6 +496,8 @@ on 24 Dec and 31 Dec.</p>
 <td rowspan="1" colspan="1">
 <p><strong>1900hrs</strong>
 </p>
+<p><strong>1820hrs (w.e.f. 2 Jan 2026)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -501,6 +507,8 @@ on 24 Dec and 31 Dec.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>15-20 mins</strong>
+</p>
+<p><strong>20 mins (w.e.f. 2 Jan 2026)</strong>
 </p>
 </td>
 </tr>
