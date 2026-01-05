@@ -77,7 +77,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong>Between CMPB and M-Annex (Trial period: 6 October to 31 December 2025)</strong>
+<p><strong>Between CMPB and M-Annex (Trial period: 6 October to 27 February 2026)</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
