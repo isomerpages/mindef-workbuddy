@@ -4,6 +4,16 @@ permalink: /common-wog-products/
 variant: tiptap
 description: ""
 ---
+<p>Please note when logging in to use WOG products:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>WOG AD login is only available for users on DWP / COMET.</p>
+</li>
+<li>
+<p>Singpass login is not available for MINDEF/SAF users.</p>
+</li>
+</ul>
+<hr>
 <h2><a href="https://pair.gov.sg/chat" rel="noopener nofollow" target="_blank">Pair</a></h2>
 <h4><strong>Fast and secure large language model for SG public service</strong></h4>
 <p>Only accessible on work devices.</p>
