@@ -4,7 +4,7 @@ permalink: /common-wog-products/
 variant: tiptap
 description: ""
 ---
-<p>Please note:</p>
+<p>Please note when logging in to use WOG products:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>WOG AD login is only available for users on DWP / COMET.</p>
