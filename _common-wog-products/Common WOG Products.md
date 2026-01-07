@@ -7,10 +7,10 @@ description: ""
 <p>Please note:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>WOG AD Login is only available for users on DWP / COMET.</p>
+<p>WOG AD login is only available for users on DWP / COMET.</p>
 </li>
 <li>
-<p>Singpass login is unavailable for MINDEF/SAF users.</p>
+<p>Singpass login is not available for MINDEF/SAF users.</p>
 </li>
 </ul>
 <hr>
