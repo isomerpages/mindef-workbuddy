@@ -55,7 +55,7 @@ links:
         url: https://postman.gov.sg
       - title: Postman FAQs
         url: /common-wog-products/postman-faqs/
-      - title: ES2 (for entity heads only)
+      - title: ES2 (Entity heads only)
         url: https://sso.engagerocket.co/sggov
   - title: Feedback
     url: https://go.gov.sg/mindefempfeedback
