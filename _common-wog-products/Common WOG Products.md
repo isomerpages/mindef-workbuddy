@@ -58,4 +58,8 @@ links can only be created by public officers to ensure authenticity.</p>
 <h4><strong>Securely send messages to the public</strong></h4>
 <p>FAQs on using Postman: <a href="/common-wog-products/postman-faqs/" rel="noopener nofollow" target="_blank">Postman FAQs</a>
 </p>
+<hr>
+<h2><a href="https://sso.engagerocket.co/sggov" rel="noopener nofollow" target="_blank">Engagement System 2 (ES2)</a></h2>
+<h4><strong>Access to Organisational Climate Survey 25 (OCS25) reports</strong></h4>
+<p>Only accessible to MINDEF/SAF Entity Heads</p>
 <p></p>
