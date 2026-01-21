@@ -469,8 +469,6 @@ description: ""
 </tbody>
 </table>
 <h3>Evening</h3>
-<p>Please note that the evening shuttle bus service will not be available
-on 24 Dec and 31 Dec.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -491,7 +489,7 @@ on 24 Dec and 31 Dec.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1820hrs </strong>
+<p><strong>1820hrs</strong>
 </p>
 </td>
 </tr>
@@ -501,7 +499,7 @@ on 24 Dec and 31 Dec.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>20 mins </strong>
+<p><strong>20 mins</strong>
 </p>
 </td>
 </tr>
