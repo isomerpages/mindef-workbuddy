@@ -363,8 +363,7 @@ description: ""
 <p>First bus</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>0700hrs</p>
-<p>0730hrs (w.e.f. 2 Jan 2026)</p>
+<p>0730hrs</p>
 </th>
 </tr>
 <tr>
@@ -383,9 +382,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15-20 mins</strong>
-</p>
-<p><strong>20 mins (w.e.f. 2 Jan 2026)</strong>
+<p><strong>20 mins </strong>
 </p>
 </td>
 </tr>
