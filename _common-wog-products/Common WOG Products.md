@@ -35,8 +35,7 @@ classified and sensitive data.</p>
 <hr>
 <h2><a href="https://go.gov.sg" rel="noopener nofollow" target="_blank">Go.gov.sg</a></h2>
 <h4><strong>Trusted short links from public officers</strong></h4>
-<p><a href="http://Go.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Go.gov.sg</a> short
-links can only be created by public officers to ensure authenticity.</p>
+<p>Short links that can only be created by public officers to ensure authenticity.</p>
 <hr>
 <h2><a href="https://events.gov.sg/" rel="noopener nofollow" target="_blank">EventSG</a></h2>
 <h4><strong>Attendance tracking at events</strong></h4>
