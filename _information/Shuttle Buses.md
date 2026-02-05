@@ -290,6 +290,8 @@ description: ""
 </tbody>
 </table>
 <h3>Evening</h3>
+<p>Please note that the evening shuttle bus service will not be available
+on 16 Feb.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -382,7 +384,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>20 mins </strong>
+<p><strong>20 mins</strong>
 </p>
 </td>
 </tr>
