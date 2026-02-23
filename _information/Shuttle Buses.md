@@ -291,7 +291,7 @@ description: ""
 </table>
 <h3>Evening</h3>
 <p>Please note that the evening shuttle bus service will not be available
-on Lunar New Year's Eve (16 Feb).</p>
+on the eves of Christmas, New Year and Lunar New Year.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -469,7 +469,7 @@ on Lunar New Year's Eve (16 Feb).</p>
 </table>
 <h3>Evening</h3>
 <p>Please note that the evening shuttle bus service will not be available
-on Lunar New Year's Eve (16 Feb).</p>
+on the eves of Christmas, New Year and Lunar New Year.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
