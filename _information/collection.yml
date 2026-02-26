@@ -2,9 +2,9 @@ collections:
   information:
     output: true
     order:
-      - Other Amenities FAQs.md
       - Employee Information.md
       - Shuttle Buses.md
       - M Works.md
       - Corporate Passes FAQs.md
       - CMPB Regional Health Hub.md
+      - Other Amenities FAQs.md
