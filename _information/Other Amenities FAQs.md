@@ -113,13 +113,19 @@ start date.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Bicycle Parking</summary>
+<summary>CMPB Football Field</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>CMPB Football Field</summary>
+<summary>Bicycle Parking in MINDEF</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Workpal</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
