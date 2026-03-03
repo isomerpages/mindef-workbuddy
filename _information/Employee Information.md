@@ -27,7 +27,7 @@ description: ""
 <div class="isomer-card-title">CMPB Regional Health Hub</div>
 <div class="isomer-card-link">Find visitor information and clinical services</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Other Amenities FAQs" src="/images/96EE690A_C3D1_4361_9393_2C2D3C61F67C_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Other Amenities FAQs</div><div class="isomer-card-link">CMPB parking charges, CMPB Football Field, and more</div></div></a>
+</a>
 </div>
 <hr>
 <h3>For policy-related FAQs, please head over to <a href="https://navi.defence.gov.sg" rel="noopener nofollow" target="_blank">Navi</a>.</h3>
