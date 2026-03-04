@@ -81,6 +81,7 @@ unlock accounts</p>
 </table>
 <p><em>*refers to Maternity, Paternity, Shared Parental, No-Pay Maternity, and Adoption Leaves</em>
 </p>
+<h3><a href="https://ask.gov.sg/mindef?topic=In-service+Personnel" rel="noopener nofollow" target="_blank">Employee Self-Service (ESS) FAQs on AskGov</a></h3>
 <hr>
 <h2>WorkPal App</h2>
 <p>Access WoG services like CoWork booking, GovWallet and business card on
