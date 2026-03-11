@@ -21,16 +21,10 @@ CoWork booking, GovWallet and business card on the WorkPal mobile app.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://apps.apple.com/sg/app/workpal-for-sg-public-service/id1329488106"><img style="width: 50%;" height="auto" width="100%" alt="App store button" src="/images/Download_on_the_App_Store_Badge.png"></a>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="QR Code to App Store" src="/images/https___go_gov_sg_workpalappstore.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://apps.apple.com/sg/app/workpal-for-sg-public-service/id1329488106"><img style="width: 35%;" height="auto" width="100%" alt="QR Code to App Store" src="/images/https___go_gov_sg_workpalappstore.png"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace&amp;hl=en_SG"><img style="width: 50%;" height="auto" width="100%" alt="Play store button" src="/images/GetItOnGooglePlay_Badge_Web_color_English.png"></a>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="QR code to Workpal google play" src="/images/https___go_gov_sg_workpalgoogleplay.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace&amp;hl=en_SG"><img style="width: 35%;" height="auto" width="100%" alt="QR code to Workpal google play" src="/images/https___go_gov_sg_workpalgoogleplay.png"></a>
 </th>
 </tr>
 </tbody>
