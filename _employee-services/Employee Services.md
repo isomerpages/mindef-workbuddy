@@ -8,7 +8,7 @@ description: ""
 <p>Book a meeting room/ resource here</p>
 <p>For bookings after 31 Mar, please refer to Workpal below.</p>
 <hr>
-<h2>WorkPal App</h2>
+<h2>Workpal App</h2>
 <p>Book meeting rooms and resources (from 1 Apr), access WoG services like
 CoWork booking, GovWallet and business card on the WorkPal mobile app.</p>
 <p>FAQs on Workpal: <a href="/employee-services/workpal-faqs/" rel="noopener nofollow" target="_blank">Workpal FAQs</a>
