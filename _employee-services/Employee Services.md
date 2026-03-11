@@ -4,8 +4,38 @@ permalink: /employee-services/
 variant: tiptap
 description: ""
 ---
-<h3><a href="https://book.defence.gov.sg" rel="noopener nofollow" target="_blank">Book</a></h3>
+<h3><a href="https://book.defence.gov.sg" rel="noopener nofollow" target="_blank">Book [ONLY UNTIL 31 MAR]</a></h3>
 <p>Book a meeting room/ resource here</p>
+<p>For bookings after 31 Mar, please refer to Workpal below.</p>
+<hr>
+<h2>WorkPal App</h2>
+<p>Book meeting rooms and resources (from 1 Apr), access WoG services like
+CoWork booking, GovWallet and business card on the WorkPal mobile app.</p>
+<p>FAQs on Workpal: <a href="/employee-services/workpal-faqs/" rel="noopener nofollow" target="_blank">Workpal FAQs</a>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://apps.apple.com/sg/app/workpal-for-sg-public-service/id1329488106"><img style="width: 50%;" height="auto" width="100%" alt="App store button" src="/images/Download_on_the_App_Store_Badge.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="QR Code to App Store" src="/images/https___go_gov_sg_workpalappstore.png">
+</div>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace&amp;hl=en_SG"><img style="width: 50%;" height="auto" width="100%" alt="Play store button" src="/images/GetItOnGooglePlay_Badge_Web_color_English.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="QR code to Workpal google play" src="/images/https___go_gov_sg_workpalgoogleplay.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <hr>
 <h3><a href="https://navi.defence.gov.sg" rel="noopener nofollow" target="_blank">Navi</a></h3>
 <p>Find policy documents here</p>
@@ -82,32 +112,5 @@ unlock accounts</p>
 <p><em>*refers to Maternity, Paternity, Shared Parental, No-Pay Maternity, and Adoption Leaves</em>
 </p>
 <h3><a href="https://ask.gov.sg/mindef?topic=In-service+Personnel" rel="noopener nofollow" target="_blank">Employee Self-Service (ESS) FAQs on AskGov</a></h3>
-<hr>
-<h2>WorkPal App</h2>
-<p>Access WoG services like CoWork booking, GovWallet and business card on
-the WorkPal mobile app.</p>
-<p>FAQs on Workpal: <a href="/employee-services/workpal-faqs/" rel="noopener nofollow" target="_blank">Workpal FAQs</a>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://apps.apple.com/sg/app/workpal-for-sg-public-service/id1329488106"><img style="width: 50%;" height="auto" width="100%" alt="App store button" src="/images/Download_on_the_App_Store_Badge.png"></a>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="QR Code to App Store" src="/images/https___go_gov_sg_workpalappstore.png">
-</div>
-</th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace&amp;hl=en_SG"><img style="width: 50%;" height="auto" width="100%" alt="Play store button" src="/images/GetItOnGooglePlay_Badge_Web_color_English.png"></a>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="QR code to Workpal google play" src="/images/https___go_gov_sg_workpalgoogleplay.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
+<h2></h2>
 <p></p>
