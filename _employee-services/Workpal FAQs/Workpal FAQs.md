@@ -33,6 +33,9 @@ third_nav_title: Workpal FAQs
 your agency (MINDEF/SAF), then choose your preferred location and time
 slot.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="https://file.go.gov.sg/checkbookings.gif">
+</div>
 <h4>Q3. What services are available on Workpal?</h4>
 <p>MINDEF/SAF uses Workpal for a range of services, including Access@Gov,
 Book CoWork &amp; Resource, Business Card, Career Coaching, GovWallet Suite,
@@ -129,7 +132,7 @@ accessible through Workpal after it goes live.</p>
 </tr>
 </tbody>
 </table>
-<h4>Q14. Are all MINDEF/SAF resources on Workpal? </h4>
+<h4>Q14. Are all MINDEF/SAF resources on Workpal?</h4>
 <p>CMPB resources are listed under MINDEF/SAF Employees Experience (MEX).
 You can access MEX through the web at <a href="https://employees.defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://employees.defence.gov.sg</a> or
 via the mobile app.</p>
