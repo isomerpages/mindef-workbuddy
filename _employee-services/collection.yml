@@ -2,4 +2,5 @@ collections:
   employee-services:
     output: true
     order:
+      - Workpal FAQs/.keep
       - Employee Services.md
