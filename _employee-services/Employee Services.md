@@ -85,7 +85,9 @@ unlock accounts</p>
 <hr>
 <h2>WorkPal App</h2>
 <p>Access WoG services like CoWork booking, GovWallet and business card on
-the WorkPal mobile app</p>
+the WorkPal mobile app.</p>
+<p>FAQs on Workpal: <a href="/employee-services/workpal-faqs/" rel="noopener nofollow" target="_blank">Workpal FAQs</a>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -100,7 +102,6 @@ the WorkPal mobile app</p>
 </div>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://play.google.com/store/apps/details?id=sg.gov.digitalworkplace&amp;hl=en_SG"><img style="width: 50%;" height="auto" width="100%" alt="Play store button" src="/images/GetItOnGooglePlay_Badge_Web_color_English.png"></a>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="QR code to Workpal google play" src="/images/https___go_gov_sg_workpalgoogleplay.png">
