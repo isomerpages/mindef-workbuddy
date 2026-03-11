@@ -1,4 +1,5 @@
 collections:
   employee-services:
     output: true
-    order: []
+    order:
+      - Employee Services.md
