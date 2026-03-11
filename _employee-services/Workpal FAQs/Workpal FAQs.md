@@ -99,35 +99,74 @@ accessible through Workpal after it goes live.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>placeholder</p>
+<p>SAF Resources</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>placeholder</p>
+<p>MINDEF Resources</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>placeholder</p>
+<p>M-Works Resources</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>placeholder</p>
+<p>Bukit Panjang Camp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>placeholder</p>
+<p>Depot Road Camp - DTTB</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>placeholder</p>
+<td rowspan="7" colspan="1">
+<p>Please refer to <a href="/general-faqs/mworks/" rel="noopener nofollow" target="_blank">M-Works</a>.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>placeholder</p>
+<p>Changi Naval Base - Invent Campus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>placeholder</p>
+<p>MINDEF Annex</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sembawang Air Base</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>placeholder</p>
+<p>MINDEF Building</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chong Pang Camp</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Network Terminals Office @ CMPB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Paya Lebar Air Base</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tengah Air Base</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Changi Air Base (West)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
