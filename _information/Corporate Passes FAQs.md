@@ -28,11 +28,11 @@ and up to three (3) guests.</p>
 <p><strong>When are the corporate passes released for booking, and how often does this occur?</strong>
 </p>
 <p>Passes are made available for booking three times a year.</p>
-<p>Passes will be made available for booking one to two weeks before the
-start of each period and will be allocated on a first-come, first-served
-basis. Information about pass releases will be announced on The Noticeboard,
-and detailed instructions will be given with each announcement. Please
-refer to the <a href="https://file.go.gov.sg/faqforcp.pdf" class="fui-Link ___1rxvrpe f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1hu3pq6 f11qmguv f19f4twv f1tyq0we f1g0x7ka fhxju0i f1qch9an f1cnd47f fqv5qza f1vmzxwi f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">detailed FAQs</a> for more information.</p>
+<p>Passes will be made available for booking three weeks before the start
+of each period and will be allocated on a first-come, first-served basis.
+Information about pass releases will be announced on The Noticeboard, and
+detailed instructions will be given with each announcement. Please refer
+to the <a href="https://file.go.gov.sg/faqforcp.pdf" class="fui-Link ___1rxvrpe f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1hu3pq6 f11qmguv f19f4twv f1tyq0we f1g0x7ka fhxju0i f1qch9an f1cnd47f fqv5qza f1vmzxwi f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">detailed FAQs</a> for more information.</p>
 <p></p>
 </li>
 <li>

@@ -1,0 +1,7 @@
+collections:
+  employee-services:
+    output: true
+    order:
+      - Employee Services.md
+      - Workpal FAQs/.keep
+      - Workpal FAQs/Workpal FAQs.md
