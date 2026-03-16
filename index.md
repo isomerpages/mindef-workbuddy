@@ -17,9 +17,9 @@ sections:
         - title: Employee Information
           description: Find useful information
           url: /general-faqs/
-        - title: Book
-          description: Book a resource
-          url: https://book.defence.gov.sg
+        - title: VIS
+          description: Register visitors for entry
+          url: https://host.vis.defence.gov.sg/
         - title: HR Admin
           description: Access selected HRA services
           url: /employee-services/#:~:text=HR Admin
