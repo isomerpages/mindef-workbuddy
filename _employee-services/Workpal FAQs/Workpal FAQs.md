@@ -72,9 +72,9 @@ be made through the mobile app.</p>
 <p></p>
 <h2>Existing Bookings</h2>
 <h4>Q8. What happens to my existing bookings up to 30 Apr 2026?</h4>
-<p>These will be transferred to Workpal for the transition resources. You
-will receive an email notification about the status of your booking(s).
-No action is required from you.</p>
+<p>These will be transferred to Workpal as transitioning resources. You will
+receive an email notification about the status of your booking(s). No action
+is required from you.</p>
 <p></p>
 <h4>Q9. What happens to my bookings from 1 May 2026 onwards?</h4>
 <p>You will need to rebook these manually on Workpal after it launches on
@@ -90,9 +90,9 @@ basis when the platform launches on 1 Apr 2026 at 12am.</p>
 <p>You and your Resource Administrator(s) will receive email notifications
 about the status of your existing bookings from now until 31 Mar 2026.</p>
 <p></p>
-<h4>Q12. Will my existing bookings for 1–30 Apr be accessible on Workpal?</h4>
-<p>Yes. Existing bookings for transition resources from 1–30 Apr will be
-accessible through Workpal after it goes live.</p>
+<h4>Q12. Will my existing bookings for 1 to 30 Apr be accessible on Workpal?</h4>
+<p>Yes. Existing bookings for transitioning resources from 1 to 30 Apr will
+be accessible through Workpal after it goes live.</p>
 <p></p>
 <h2>Other General Enquiries</h2>
 <h4>Q13. Which workplaces are available for booking on Workpal?</h4>
@@ -194,6 +194,6 @@ check in and check out properly.</p>
 <p>We are approaching the final phase before the official launch on 1 Apr
 2026.</p>
 <h4>Q18. Who has access to Book CoWork &amp; Resource on Workpal?</h4>
-<p>Military Regulars, DXO, and Seconded personnel have access to MINDEF's
+<p>Military Regulars, DXOs, and seconded personnel have access to MINDEF's
 services on Workpal. NSFs and IWF/MAC do not have access.</p>
 <p></p>
