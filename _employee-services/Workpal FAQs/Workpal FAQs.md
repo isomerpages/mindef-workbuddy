@@ -62,8 +62,8 @@ and select "Report IT issue to FormSG".</p>
 <p>You will be directed to an external form to input your details and report
 the issue through FormSG.</p>
 <p></p>
-<h4>Q6. Can I still use the Book App after 31 Mar 2026?</h4>
-<p>No. The Book App will cease operations on 31 Mar 2026 at 6pm. All bookings
+<h4>Q6. Can I still use the Book app after 31 Mar 2026?</h4>
+<p>No. The Book app will cease operations on 31 Mar 2026 at 6pm. All bookings
 from 1 Apr 2026 onwards must be made through the Workpal mobile app.</p>
 <p></p>
 <h4>Q7. Can I book resources via the web browser instead of the mobile app?</h4>
@@ -79,10 +79,10 @@ is required from you.</p>
 <h4>Q9. What happens to my bookings from 1 May 2026 onwards?</h4>
 <p>You will need to rebook these manually on Workpal after it launches on
 1 Apr 2026. We recommend noting down your existing bookings from 1 May
-2026 onwards in the Book App so you can rebook them on Workpal.</p>
+2026 onwards in the Book app so you can rebook them on Workpal.</p>
 <p></p>
-<h4>Q10. Can I still make advance bookings on Book App for dates after 1 Apr 2026?</h4>
-<p>No. Since 15 Jan 2026, the Book App no longer accepts bookings for 1 Apr
+<h4>Q10. Can I still make advance bookings on Book app for dates after 1 Apr 2026?</h4>
+<p>No. Since 15 Jan 2026, the Book app no longer accepts bookings for 1 Apr
 2026 onwards. All bookings will be allocated on a first-come, first-served
 basis when the platform launches on 1 Apr 2026 at 12am.</p>
 <p></p>
