@@ -37,10 +37,6 @@ classified and sensitive data.</p>
 <h4><strong>Trusted short links from public officers</strong></h4>
 <p>Short links that can only be created by public officers to ensure authenticity.</p>
 <hr>
-<h2><a href="https://events.gov.sg/" rel="noopener nofollow" target="_blank">EventSG</a></h2>
-<h4><strong>Attendance tracking at events</strong></h4>
-<p>No more manual attendance-taking.</p>
-<hr>
 <h2><a href="https://cal.gov.sg" rel="noopener nofollow" target="_blank">CalSG</a></h2>
 <h4><strong>Collect appointment bookings</strong></h4>
 <p>Manage bookings for events and appointments.</p>
