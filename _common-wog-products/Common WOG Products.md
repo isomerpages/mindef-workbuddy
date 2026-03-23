@@ -39,9 +39,7 @@ classified and sensitive data.</p>
 <hr>
 <h2><a href="https://app.entry.gov.sg/portal/user/login" rel="noopener nofollow" target="_blank">GovEntry</a></h2>
 <h4><strong>Self-Manage Your Events with GovEntry</strong></h4>
-<p>GovEntry is a centralised, self-serve access validation system designed
-for registration and attendance tracking. It offers real-time attendance
-stats, accessible via mobile or downloadable from the admin portal.</p>
+<p>An event management platform for event sign-ups and check-ins.</p>
 <hr>
 <h2><a href="https://cal.gov.sg" rel="noopener nofollow" target="_blank">CalSG</a></h2>
 <h4><strong>Collect appointment bookings</strong></h4>
