@@ -37,6 +37,12 @@ classified and sensitive data.</p>
 <h4><strong>Trusted short links from public officers</strong></h4>
 <p>Short links that can only be created by public officers to ensure authenticity.</p>
 <hr>
+<h2><a href="https://app.entry.gov.sg/portal/user/login" rel="noopener nofollow" target="_blank">GovEntry</a></h2>
+<h4><strong>Self-Manage Your Events with GovEntry</strong></h4>
+<p>GovEntry is a centralised, self-serve access validation system designed
+for registration and attendance tracking. It offers real-time attendance
+stats, accessible via mobile or downloadable from the admin portal.</p>
+<hr>
 <h2><a href="https://cal.gov.sg" rel="noopener nofollow" target="_blank">CalSG</a></h2>
 <h4><strong>Collect appointment bookings</strong></h4>
 <p>Manage bookings for events and appointments.</p>
