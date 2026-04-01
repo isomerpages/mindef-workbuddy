@@ -4,7 +4,8 @@ permalink: /general-faqs/mworks/
 variant: tiptap
 description: ""
 ---
-<h3><a href="https://book.defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Book an M-Works resource</a></h3>
+<h3><a href="https://app.workpal.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Book an M-Works resource via WorkPal</a></h3>
+<h3><a href="https://workbuddy.defence.gov.sg/employee-services/workpal-faqs/" rel="noopener noreferrer nofollow" target="_blank">For more information on WorkPal</a></h3>
 <h3>Find information about M-Works by location below</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
