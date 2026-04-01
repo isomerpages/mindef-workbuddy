@@ -8,7 +8,7 @@ third_nav_title: Workpal FAQs
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="workpal logo" src="/images/Workpal.svg">
 </div>
-<h1>Frequently Asked Questions (FAQs)</h1>
+<h1>Frequently Asked Questions</h1>
 <h2>Workpal Access</h2>
 <h4>Q1. How do I download Workpal?</h4>
 <p>Download the Workpal mobile app from the App Store (iOS) or Google Play
@@ -70,7 +70,7 @@ from 1 Apr 2026 onwards must be made through the Workpal mobile app.</p>
 <p>Workpal does not have a web browser version; therefore, bookings can only
 be made through the mobile app.</p>
 <p></p>
-<h2>Bookings-related Queries</h2>
+<h2>Booking-Related Queries</h2>
 <h4>Q8. What happens to my bookings from 1 May 2026 onwards?</h4>
 <p>You will need to rebook these manually on Workpal after it launches on
 1 Apr 2026. We recommend noting down your existing bookings from 1 May
@@ -90,7 +90,7 @@ be accessible through Workpal after it goes live.</p>
 feature showing who booked each resource, which they're implementing for
 MINDEF/SAF. In the meantime, please submit your query at <a href="https://go.gov.sg/contactrb" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactrb</a> for
 assistance with identifying the employee.</p>
-<h2>Other General Enquiries</h2>
+<h2>Other General Queries</h2>
 <h4>Q11. Which workplaces are available for booking on Workpal?</h4>
 <table style="minWidth: 75px">
 <colgroup>
