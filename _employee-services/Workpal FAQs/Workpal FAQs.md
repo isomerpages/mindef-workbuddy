@@ -8,7 +8,7 @@ third_nav_title: Workpal FAQs
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="workpal logo" src="/images/Workpal.svg">
 </div>
-<h1>Frequently Asked Questions (FAQs)</h1>
+<h1>Frequently Asked Questions</h1>
 <h2>Workpal Access</h2>
 <h4>Q1. How do I download Workpal?</h4>
 <p>Download the Workpal mobile app from the App Store (iOS) or Google Play
@@ -70,32 +70,28 @@ from 1 Apr 2026 onwards must be made through the Workpal mobile app.</p>
 <p>Workpal does not have a web browser version; therefore, bookings can only
 be made through the mobile app.</p>
 <p></p>
-<h2>Existing Bookings</h2>
-<h4>Q8. What happens to my existing bookings up to 30 Apr 2026?</h4>
-<p>These will be transferred to Workpal as transitioning resources. You will
-receive an email notification about the status of your booking(s). No action
-is required from you.</p>
-<p></p>
-<h4>Q9. What happens to my bookings from 1 May 2026 onwards?</h4>
+<h2>Booking-Related Queries</h2>
+<h4>Q8. What happens to my bookings from 1 May 2026 onwards?</h4>
 <p>You will need to rebook these manually on Workpal after it launches on
 1 Apr 2026. We recommend noting down your existing bookings from 1 May
 2026 onwards in the Book app so you can rebook them on Workpal.</p>
 <p></p>
-<h4>Q10. Can I still make advance bookings on Book app for dates after 1 Apr 2026?</h4>
+<h4>Q9. Can I still make advance bookings on Book app for dates after 1 Apr 2026?</h4>
 <p>No. Since 15 Jan 2026, the Book app no longer accepts bookings for 1 Apr
 2026 onwards. All bookings will be allocated on a first-come, first-served
 basis when the platform launches on 1 Apr 2026 at 12am.</p>
-<p></p>
-<h4>Q11. How will I know if my existing bookings have been transferred successfully?</h4>
-<p>You and your Resource Administrator(s) will receive email notifications
-about the status of your existing bookings from now until 31 Mar 2026.</p>
-<p></p>
-<h4>Q12. Will my existing bookings for 1 to 30 Apr be accessible on Workpal?</h4>
+<h4>Q10. Will my existing bookings for 1 to 30 Apr be accessible on Workpal?</h4>
 <p>Yes. Existing bookings for transitioning resources from 1 to 30 Apr will
 be accessible through Workpal after it goes live.</p>
-<p></p>
-<h2>Other General Enquiries</h2>
-<h4>Q13. Which workplaces are available for booking on Workpal?</h4>
+<h4>Q11. How do I make a resource booking on Workpal?</h4>
+<p>Please refer to our <a href="https://go.gov.sg/makebooking" rel="noopener nofollow" target="_blank">video guide on making bookings</a>.</p>
+<h4>Q12. I need to deconflict a booking but cannot see who booked the resource. This information was available in Book - why is it unavailable on Workpal?</h4>
+<p>We understand this is inconvenient and have requested GovTech to add a
+feature showing who booked each resource, which they're implementing for
+MINDEF/SAF. In the meantime, please submit your query at <a href="https://go.gov.sg/contactrb" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactrb</a> for
+assistance with identifying the employee.</p>
+<h2>Other General Queries</h2>
+<h4>Q11. Which workplaces are available for booking on Workpal?</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -177,23 +173,31 @@ be accessible through Workpal after it goes live.</p>
 </tr>
 </tbody>
 </table>
-<h4>Q14. Are all MINDEF/SAF resources on Workpal?</h4>
+<h4>Q12. Are all MINDEF/SAF resources on Workpal?</h4>
 <p>CMPB resources are listed under MINDEF/SAF Employees Experience (MEX).
 You can access MEX through the web at <a href="https://employees.defence.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://employees.defence.gov.sg</a> or
 via the mobile app.</p>
-<h4>Q15. What is the check-in policy?</h4>
+<h4>Q13. What is the check-in policy?</h4>
 <p>You may check in 15 minutes before your booking start time. If you do
 not check in within 30 minutes of the start time, the booking will be automatically
 cancelled and marked as a "No-Show".</p>
-<h4>Q16. What are the responsible booking practices I should follow?</h4>
+<h4>Q14. What are the responsible booking practices I should follow?</h4>
 <p>Please book only what you actually need (appropriate resource size and
 duration), cancel or modify bookings promptly when plans change, avoid
 making multiple consecutive or "just-in-case" reservations, and always
 check in and check out properly.</p>
-<h4>Q17. What is the timeline for the transition?</h4>
-<p>We are approaching the final phase before the official launch on 1 Apr
-2026.</p>
-<h4>Q18. Who has access to Book CoWork &amp; Resource on Workpal?</h4>
+<h4>Q16. Who has access to Book CoWork &amp; Resource on Workpal?</h4>
 <p>Military Regulars, DXOs, and seconded personnel have access to MINDEF's
 services on Workpal. NSFs and IWF/MAC do not have access.</p>
+<h4>Q17. Why can’t I find the resource that I used to book under Book app?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Workpal contains workplace resources that are open for all employees to
+book. Resources that are open only to a limited group of employees will
+not be included in Workpal for booking.</p>
+</li>
+<li>
+<p>You will have to contact the respective resource administrators for advice.</p>
+</li>
+</ul>
 <p></p>

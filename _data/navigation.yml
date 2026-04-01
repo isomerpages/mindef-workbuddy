@@ -3,16 +3,14 @@ links:
   - title: Employee Services
     url: /employee-services/
     sublinks:
-      - title: Book
-        url: https://book.defence.gov.sg
       - title: WorkPal
         url: /employee-services/#:~:text=WorkPal App
-      - title: Navi
-        url: https://navi.defence.gov.sg
       - title: Visitor In-Processing Service
         url: https://host.vis.defence.gov.sg/
       - title: MEX
         url: https://employees.defence.gov.sg/nshub
+      - title: Navi
+        url: https://navi.defence.gov.sg
       - title: AOR Assistant (AORA)
         url: https://www.smartcompose.gov.sg/reports/mindef_aor
       - title: PayFlow

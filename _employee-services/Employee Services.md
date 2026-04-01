@@ -4,14 +4,9 @@ permalink: /employee-services/
 variant: tiptap
 description: ""
 ---
-<h3><a href="https://book.defence.gov.sg" rel="noopener nofollow" target="_blank">Book [AVAILABLE ONLY UNTIL 31 MAR]</a></h3>
-<p>Book a meeting room/ resource here.</p>
-<p>For bookings after 31 Mar, please use the Workpal app (below).</p>
-<hr>
 <h2>Workpal App</h2>
-<p>Book meeting rooms and resources (from 1 Apr 2026), access WoG services
-like CoWork booking, GovWallet and business card on the WorkPal mobile
-app.</p>
+<p>Book meeting rooms and resources, access WoG services like CoWork booking,
+GovWallet and business card on the WorkPal mobile app.</p>
 <p>FAQs on Workpal: <a href="/employee-services/workpal-faqs/" rel="noopener nofollow" target="_blank">Workpal FAQs</a>
 </p>
 <table style="minWidth: 50px">
@@ -30,16 +25,15 @@ app.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<hr>
-<h3><a href="https://navi.defence.gov.sg" rel="noopener nofollow" target="_blank">Navi</a></h3>
-<p>Find policy documents here</p>
 <hr>
 <h3><a href="https://host.vis.defence.gov.sg/" rel="noopener nofollow" target="_blank">Visitor In-Processing Service (VIS)</a></h3>
 <p>Register visitors for entry into camps &amp; bases here</p>
 <hr>
 <h3><a href="https://employees.defence.gov.sg/nshub" rel="noopener noreferrer nofollow" target="_blank">MEX</a></h3>
 <p>Access resource booking and employee services for CMPB building</p>
+<hr>
+<h3><a href="https://navi.defence.gov.sg" rel="noopener nofollow" target="_blank">Navi</a></h3>
+<p>Find policy documents here</p>
 <hr>
 <h3><a href="https://www.smartcompose.gov.sg/reports/mindef_aor" rel="noopener nofollow" target="_blank">AOR Assistant (AORA)</a></h3>
 <p>A form-based Artificial Intelligence (AI)-powered writing assistant to

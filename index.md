@@ -4,9 +4,9 @@ title: WorkBuddy
 description: MINDEF/SAF Employee landing page
 image: /images/shareicon.png
 permalink: /
-notification: The Book app will cease operations on 31 Mar at 6pm. All resource
-  bookings from 1 Apr 2026 onwards must be made through the Workpal mobile app.
-  See FAQs on Workpal under "Employee Services"
+notification: The Book app has ceased operations on 31 Mar. All resource
+  bookings must now be made through the Workpal mobile app. See FAQs on Workpal
+  under "Employee Services"
 sections:
   - hero:
       title: WorkBuddy
