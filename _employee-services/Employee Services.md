@@ -25,16 +25,15 @@ GovWallet and business card on the WorkPal mobile app.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<hr>
-<h3><a href="https://navi.defence.gov.sg" rel="noopener nofollow" target="_blank">Navi</a></h3>
-<p>Find policy documents here</p>
 <hr>
 <h3><a href="https://host.vis.defence.gov.sg/" rel="noopener nofollow" target="_blank">Visitor In-Processing Service (VIS)</a></h3>
 <p>Register visitors for entry into camps &amp; bases here</p>
 <hr>
 <h3><a href="https://employees.defence.gov.sg/nshub" rel="noopener noreferrer nofollow" target="_blank">MEX</a></h3>
 <p>Access resource booking and employee services for CMPB building</p>
+<hr>
+<h3><a href="https://navi.defence.gov.sg" rel="noopener nofollow" target="_blank">Navi</a></h3>
+<p>Find policy documents here</p>
 <hr>
 <h3><a href="https://www.smartcompose.gov.sg/reports/mindef_aor" rel="noopener nofollow" target="_blank">AOR Assistant (AORA)</a></h3>
 <p>A form-based Artificial Intelligence (AI)-powered writing assistant to
