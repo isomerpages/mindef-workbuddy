@@ -122,7 +122,87 @@ links:</p>
 <details class="isomer-details">
 <summary>CMPB Football Field</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>What are the operating hours for the CMPB’s football field and how may I book it for use?</strong>
+</p>
+<p>CMPB’s football field is open from 0800 to 1800 hours daily.</p>
+<p>As SportSG manages the booking system for the football field, booking
+slots are available on the <a href="https://activesg.gov.sg/" rel="noopener nofollow" target="_blank">My ActiveSG+ web-based platform</a>.
+Facility slots are typically released 14 days in advance.</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peak Hours (Balloting): Slots open for
+balloting 14 days in advance at 12:00 AM. You have until 11:59 PM that
+same day to submit a ballot.</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non-Peak Hours (First-Come, First-Served):
+Slots are released 12 days in advance at 12:00 PM (noon).</p>
+<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unassigned Slots: Any remaining
+slots from unsuccessful ballots are released for public booking 12 days
+in advance at 12:00 pm.</p>
+<p>Please visit <a href="https://navi.defence.gov.sg/#/login" rel="noopener noreferrer nofollow" target="_blank">Navi</a> for
+more booking information.</p>
+</li>
+<li>
+<p><strong>Where are the CMPB football field’s nearest food and beverage facilities?</strong>
+</p>
+<p>There are multiple food and beverage facilities available at Level 2 of
+CMPB Block 1: a food court, cafe and 24/7 unmanned convenience store. The
+food court and cafe operate from 7.30am to 10pm daily.</p>
+</li>
+<li>
+<p><strong>Are there shower facilities available near the CMPB football field?</strong>
+</p>
+<p>Yes. Shower facilities are located at Block 1, Level 1 of CMPB Fitness
+Conditioning Centre. Members of the public are not allowed to use the shower
+facilities during the following restricted timings:</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monday, Tuesday, and Thursday (4pm to
+10pm)</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wednesday (7am to 1pm, 4pm to 10pm)</p>
+<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Saturday (7am to 12pm, 4pm to 10pm)</p>
+<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sunday (7am to 12pm)</p>
+</li>
+<li>
+<p><strong>Where are the CMPB football field’s nearest water coolers and water bottle refill stations?</strong>
+</p>
+<p>The nearest water coolers and water bottle refill stations can be found
+at Block 1, Level 1 of CMPB Fitness Conditioning Centre.</p>
+</li>
+<li>
+<p><strong>Why are there no floodlights at the CMPB football field which would be good for night training?</strong>
+</p>
+<p>The football field at CMPB is open from 8am to 6pm daily. As the lighting
+conditions are not conducive for outdoor play after sunset, it is not available
+for use in the evening.</p>
+<p>Note: There will be no stadium lighting/floodlights at the football field,
+due to the proximity to residential developments.</p>
+</li>
+<li>
+<p><strong>Am I allowed to play other sports at the CMPB football field?</strong>
+</p>
+<p>No. As the field surface is made of artificial turf, other sports are
+not permitted as they may damage the ground surface.</p>
+</li>
+<li>
+<p><strong>How often is the CMPB football field maintained?</strong>
+</p>
+<p>SportSG maintains the football field daily to ensure its cleanliness.
+In addition, deep cleaning is conducted twice a year.</p>
+</li>
+<li>
+<p><strong>Where can I find the nearest first aid kit to the CMPB football field?</strong>
+</p>
+<p>SportSG wardens stationed at the football field will be equipped with
+a first aid kit.</p>
+</li>
+<li>
+<p><strong>Where can I find the nearest Automated External Defibrillator (AED) to the CMPB football field?</strong>
+</p>
+<p>In case of emergencies, there is an AED at Level 1 of CMPB, Block 1 at
+the Fitness Conditioning Centre.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Map depicting AED/First-Aid Kit Locations near CMPB Football Field" src="/images/AED_at_CMPB_Football_Field.png">
+</div>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
