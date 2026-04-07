@@ -5,3 +5,4 @@ variant: tiptap
 description: ""
 image: /images/Other_Amenities_FAQs.png
 ---
+<p></p>
