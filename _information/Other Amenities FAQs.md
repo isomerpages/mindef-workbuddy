@@ -163,7 +163,7 @@ day to submit a ballot.</p>
 Slots are released 12 days in advance at 12pm (noon).</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unassigned Slots: Any remaining
 slots from unsuccessful ballots are released for public booking 12 days
-in advance at 12:00 pm.</p>
+in advance at 12pm.</p>
 <p>Please visit <a href="https://navi.defence.gov.sg/#/login" rel="noopener noreferrer nofollow" target="_blank">Navi</a> for
 more booking information.</p>
 </li>
@@ -175,7 +175,7 @@ more booking information.</p>
 </p>
 <p>There are multiple food and beverage facilities available at Level 2 of
 CMPB Block 1: a food court, cafe and 24/7 unmanned convenience store. The
-food court and cafe operate from 7.30am to 10pm daily.</p>
+food court and cafe operate from 0730 to 2200 hours daily.</p>
 </li>
 </ul>
 <p></p>
@@ -186,11 +186,13 @@ food court and cafe operate from 7.30am to 10pm daily.</p>
 <p>Yes. Shower facilities are located at Block 1, Level 1 of CMPB Fitness
 Conditioning Centre. Members of the public are not allowed to use the shower
 facilities during the following restricted timings:</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monday, Tuesday, and Thursday (4pm to
-10pm)</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wednesday (7am to 1pm, 4pm to 10pm)</p>
-<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Saturday (7am to 12pm, 4pm to 10pm)</p>
-<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sunday (7am to 12pm)</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monday, Tuesday, and Thursday (1600 to
+2200 hours)</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wednesday (0700 to 1300 hours, 1600 to
+2200 hours)</p>
+<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Saturday (0700 to 1200 hours, 1600
+to 2200 hours)</p>
+<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sunday (0700 to 1200 hours)</p>
 </li>
 </ul>
 <p></p>
