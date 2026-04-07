@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Other Amenities FAQs.md
       - Employee Information.md
       - Shuttle Buses.md
       - M Works.md
