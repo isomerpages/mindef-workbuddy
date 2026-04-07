@@ -339,7 +339,8 @@ are not responsible for any loss/damages incurred to bicycles.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0830 to 1730 hours (Mon to Fri)</p>
+<p>0830 to 1730 hours</p>
+<p>(Mon to Fri)</p>
 </td>
 </tr>
 <tr>
@@ -348,7 +349,8 @@ are not responsible for any loss/damages incurred to bicycles.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0830 to 1730 hours (Mon to Fri)</p>
+<p>0830 to 1730 hours</p>
+<p>(Mon to Fri)</p>
 <p>Kindly book an appointment via the <a href="https://employees.defence.gov.sg/nshub" rel="noopener noreferrer nofollow" target="_blank">MEX app</a>.</p>
 </td>
 </tr>
@@ -358,7 +360,8 @@ are not responsible for any loss/damages incurred to bicycles.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0830 to 1730 hours (Mon to Fri)</p>
+<p>0830 to 1730 hours</p>
+<p>(Mon to Fri)</p>
 </td>
 </tr>
 </tbody>
