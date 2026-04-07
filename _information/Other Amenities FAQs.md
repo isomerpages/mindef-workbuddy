@@ -80,18 +80,18 @@ image: /images/Other_Amenities_FAQs.png
 </tbody>
 </table>
 <p>To apply for season parking, you may follow these steps:</p>
-<p>Download the LOTS App and enter your department name under the Company
-field.</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; App Store: <a href="https://apps.apple.com/sg/app/lots/id1621288913" rel="noopener noreferrer nofollow" target="_blank">https://apps.apple.com/sg/app/lots/id1621288913</a>
+<p>Download the LOTS App via the following links and enter your department
+name under the Company field.</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://apps.apple.com/sg/app/lots/id1621288913" rel="noopener noreferrer nofollow" target="_blank">App Store</a>
 </p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.anonymous.lotsapp&amp;hl=en_SG" rel="noopener noreferrer nofollow" target="_blank">https://play.google.com/store/apps/details?id=com.anonymous.lotsapp&amp;hl=en_SG</a>&nbsp;</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://play.google.com/store/apps/details?id=com.anonymous.lotsapp&amp;hl=en_SG" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a>
+</p>
 <p>Select “Purchase” for staff application. Prices shown exclude GST, and
 the full amount inclusive of GST will be displayed upon payment. After
 payment has been made, the season parking rate will take effect on the
 start date.</p>
-<p>For more information on how to use the LOTS App, you may visit this link:
-<a href="https://qr.me-qr.com/DchssM9o" rel="noopener noreferrer nofollow" target="_blank">https://qr.me-qr.com/DchssM9o</a>
-</p>
+<p>For more information on how to use the LOTS App, you may visit this
+<a href="https://qr.me-qr.com/DchssM9o" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
 </li>
 </ul>
 <p></p>
@@ -101,10 +101,10 @@ start date.</p>
 </p>
 <p>EV charging is available at CMPB lower deck carpark. There are 2 fast
 charging stations and 6 normal charging stations.</p>
-<p>You may download the Charge+ app:</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; App Store: <a href="https://apps.apple.com/sg/app/charge/id1481750244" rel="noopener noreferrer nofollow" target="_blank">https://apps.apple.com/sg/app/charge/id1481750244</a>
+<p>You may download the Charge+ app via the following links:</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://apps.apple.com/sg/app/charge/id1481750244" rel="noopener noreferrer nofollow" target="_blank">App Store</a>
 </p>
-<p>Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.chargeplus.chargeapp&amp;pcampaignid=web_share" rel="noopener noreferrer nofollow" target="_blank">https://play.google.com/store/apps/details?id=com.chargeplus.chargeapp&amp;pcampaignid=web_share</a>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://play.google.com/store/apps/details?id=com.chargeplus.chargeapp&amp;pcampaignid=web_share" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a>
 </p>
 </li>
 </ul>
@@ -130,12 +130,12 @@ booking, which include:</p>
 <p>Please visit <a href="https://navi.defence.gov.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Navi</a> for
 more information on the equipment provided within the facilities and booking
 information for the CMPB auditorium.</p>
-<p>To book the other meeting facilities, you may do so via the MEX app, which
-can be accessed via <a href="https://employees.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://employees.defence.gov.sg/</a>.
+<p>To book the other meeting facilities, you may do so via the <a href="https://employees.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MEX app</a>.
 For ease of access, you may also wish to download the MEX app via the following
 links:</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; App Store: <a href="https://go.gov.sg/mexapple" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mexapple</a> &nbsp;&nbsp;&nbsp;</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Google Play Store: <a href="https://go.gov.sg/mexgoogle" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mexgoogle</a>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/mexapple" rel="noopener noreferrer nofollow" target="_blank">App Store</a>
+</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/mexgoogle" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a>
 </p>
 </li>
 </ul>
@@ -167,6 +167,9 @@ in advance at 12:00 pm.</p>
 <p>Please visit <a href="https://navi.defence.gov.sg/#/login" rel="noopener noreferrer nofollow" target="_blank">Navi</a> for
 more booking information.</p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Where are the CMPB football field’s nearest food and beverage facilities?</strong>
 </p>
@@ -174,6 +177,10 @@ more booking information.</p>
 CMPB Block 1: a food court, cafe and 24/7 unmanned convenience store. The
 food court and cafe operate from 7.30am to 10pm daily.</p>
 </li>
+</ul>
+<p></p>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Are there shower facilities available near the CMPB football field?</strong>
 </p>
@@ -186,12 +193,18 @@ facilities during the following restricted timings:</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Saturday (7am to 12pm, 4pm to 10pm)</p>
 <p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sunday (7am to 12pm)</p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Where are the CMPB football field’s nearest water coolers and water bottle refill stations?</strong>
 </p>
 <p>The nearest water coolers and water bottle refill stations can be found
 at Block 1, Level 1 of CMPB Fitness Conditioning Centre.</p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Why are there no floodlights at the CMPB football field which would be good for night training?</strong>
 </p>
@@ -201,24 +214,36 @@ for use in the evening.</p>
 <p>Note: There will be no stadium lighting/floodlights at the football field,
 due to the proximity to residential developments.</p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Am I allowed to play other sports at the CMPB football field?</strong>
 </p>
 <p>No. As the field surface is made of artificial turf, other sports are
 not permitted as they may damage the ground surface.</p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>How often is the CMPB football field maintained?</strong>
 </p>
 <p>SportSG maintains the football field daily to ensure its cleanliness.
 In addition, deep cleaning is conducted twice a year.</p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Where can I find the nearest first aid kit to the CMPB football field?</strong>
 </p>
 <p>SportSG wardens stationed at the football field will be equipped with
 a first aid kit.</p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Where can I find the nearest Automated External Defibrillator (AED) to the CMPB football field?</strong>
 </p>
@@ -325,7 +350,7 @@ are not responsible for any loss/damages incurred to bicycles.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0830 to 1730 hours (Mon to Fri)</p>
-<p>Kindly book an appointment via MEX at <a href="https://employees.defence.gov.sg/nshub" rel="noopener noreferrer nofollow" target="_blank">https://employees.defence.gov.sg/nshub</a>&nbsp;</p>
+<p>Kindly book an appointment via the <a href="https://employees.defence.gov.sg/nshub" rel="noopener noreferrer nofollow" target="_blank">MEX app</a>.</p>
 </td>
 </tr>
 <tr>
