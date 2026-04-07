@@ -207,11 +207,8 @@ at Block 1, Level 1 of CMPB Fitness Conditioning Centre.</p>
 <li>
 <p><strong>Why are there no floodlights which would be good for night training?</strong>
 </p>
-<p>The football field at CMPB is open from 8am to 6pm daily. As the lighting
-conditions are not conducive for outdoor play after sunset, it is not available
-for use in the evening.</p>
-<p>Note: There will be no stadium lighting/floodlights at the football field,
-due to the proximity to residential developments.</p>
+<p>There are no floodlights due to the proximity to residential developments.
+Hence, the football field is not available for bookings at night.</p>
 </li>
 </ul>
 <p></p>
@@ -296,7 +293,6 @@ installed) outside of MINDEF Building South Entrance.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The bicycle bays are located at:</p>
 <p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level 1 carpark (for cyclists entering
 via Hillview Gate)</p>
 <p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Block 1 Level 1 beside the childcare
