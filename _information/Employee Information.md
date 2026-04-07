@@ -27,7 +27,7 @@ description: ""
 <div class="isomer-card-title">CMPB Regional Health Hub</div>
 <div class="isomer-card-link">Find visitor information and clinical services</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://workbuddy.defence.gov.sg/general-faqs/other-amenities-faqs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image of Football Field, carpark entrances and bicycle parking spaces within CMPB" src="/images/other amenities faqs.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Other Amenities FAQs</div><div class="isomer-card-link">CMPB parking charges, MINDEF IT Concierges, and more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://workbuddy.defence.gov.sg/general-faqs/other-amenities-faqs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image of Football Field, carpark entrances and bicycle parking spaces within CMPB" src="/images/other amenities faqs.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Other Amenities FAQs</div><div class="isomer-card-link">Parking in CMPB, MINDEF IT Concierges, and more</div></div></a>
 </div>
 <hr>
 <h3>For policy-related FAQs, please head over to <a href="https://navi.defence.gov.sg" rel="noopener nofollow" target="_blank">Navi</a>.</h3>
