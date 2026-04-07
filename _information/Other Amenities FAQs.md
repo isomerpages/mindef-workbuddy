@@ -9,6 +9,28 @@ image: /images/Other_Amenities_FAQs.png
 <details class="isomer-details">
 <summary>Parking in CMPB</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_Carpark_Entrance_A.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_Carpark_Entrance_B.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>What are the parking charges at CMPB?</strong>
@@ -122,6 +144,10 @@ links:</p>
 <details class="isomer-details">
 <summary>CMPB Football Field</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_Football_Field__10_.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>What are the operating hours for the CMPB’s football field and how may I book it for use?</strong>
@@ -131,10 +157,10 @@ links:</p>
 slots are available on the <a href="https://activesg.gov.sg/" rel="noopener nofollow" target="_blank">My ActiveSG+ web-based platform</a>.
 Facility slots are typically released 14 days in advance.</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peak Hours (Balloting): Slots open for
-balloting 14 days in advance at 12:00 AM. You have until 11:59 PM that
-same day to submit a ballot.</p>
+balloting 14 days in advance at 12am. You have until 11.59pm that same
+day to submit a ballot.</p>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non-Peak Hours (First-Come, First-Served):
-Slots are released 12 days in advance at 12:00 PM (noon).</p>
+Slots are released 12 days in advance at 12pm (noon).</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unassigned Slots: Any remaining
 slots from unsuccessful ballots are released for public booking 12 days
 in advance at 12:00 pm.</p>
@@ -208,6 +234,10 @@ the Fitness Conditioning Centre.</p>
 <details class="isomer-details">
 <summary>Bicycle Parking in MINDEF</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_Bicycle_Parking_1.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Where can I park my bicycle?</strong>
