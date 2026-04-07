@@ -130,7 +130,7 @@ booking, which include:</p>
 <p>Please visit <a href="https://navi.defence.gov.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Navi</a> for
 more information on the equipment provided within the facilities and booking
 information for the CMPB auditorium.</p>
-<p>To book the other meeting facilities, you may do so via the <a href="https://employees.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MEX app</a>.
+<p>To book the other meeting facilities, you may do so via <a href="https://employees.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MEX</a>.
 For ease of access, you may also wish to download the MEX app via the following
 links:</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/mexapple" rel="noopener noreferrer nofollow" target="_blank">App Store</a>
@@ -351,7 +351,7 @@ are not responsible for any loss/damages incurred to bicycles.</p>
 <td rowspan="1" colspan="1">
 <p>0830 to 1730 hours</p>
 <p>(Mon to Fri)</p>
-<p>Kindly book an appointment via the <a href="https://employees.defence.gov.sg/nshub" rel="noopener noreferrer nofollow" target="_blank">MEX app</a>.</p>
+<p>Kindly book an appointment via <a href="https://employees.defence.gov.sg/nshub" rel="noopener noreferrer nofollow" target="_blank">MEX</a>.</p>
 </td>
 </tr>
 <tr>
