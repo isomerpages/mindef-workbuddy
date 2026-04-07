@@ -150,7 +150,7 @@ links:</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>What are the operating hours for the CMPB’s football field and how may I book it for use?</strong>
+<p><strong>What are the operating hours for the football field and how may I book it for use?</strong>
 </p>
 <p>CMPB’s football field is open from 0800 to 1800 hours daily.</p>
 <p>As SportSG manages the booking system for the football field, booking
@@ -171,7 +171,7 @@ more booking information.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Where are the CMPB football field’s nearest food and beverage facilities?</strong>
+<p><strong>Where are the nearest food and beverage facilities in CMPB?</strong>
 </p>
 <p>There are multiple food and beverage facilities available at Level 2 of
 CMPB Block 1: a food court, cafe and 24/7 unmanned convenience store. The
@@ -179,10 +179,9 @@ food court and cafe operate from 7.30am to 10pm daily.</p>
 </li>
 </ul>
 <p></p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Are there shower facilities available near the CMPB football field?</strong>
+<p><strong>Are there shower facilities available?</strong>
 </p>
 <p>Yes. Shower facilities are located at Block 1, Level 1 of CMPB Fitness
 Conditioning Centre. Members of the public are not allowed to use the shower
@@ -197,7 +196,7 @@ facilities during the following restricted timings:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Where are the CMPB football field’s nearest water coolers and water bottle refill stations?</strong>
+<p><strong>Where are the nearest water coolers and water bottle refill stations?</strong>
 </p>
 <p>The nearest water coolers and water bottle refill stations can be found
 at Block 1, Level 1 of CMPB Fitness Conditioning Centre.</p>
@@ -206,7 +205,7 @@ at Block 1, Level 1 of CMPB Fitness Conditioning Centre.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Why are there no floodlights at the CMPB football field which would be good for night training?</strong>
+<p><strong>Why are there no floodlights which would be good for night training?</strong>
 </p>
 <p>The football field at CMPB is open from 8am to 6pm daily. As the lighting
 conditions are not conducive for outdoor play after sunset, it is not available
@@ -218,7 +217,7 @@ due to the proximity to residential developments.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Am I allowed to play other sports at the CMPB football field?</strong>
+<p><strong>Am I allowed to play other sports at the football field?</strong>
 </p>
 <p>No. As the field surface is made of artificial turf, other sports are
 not permitted as they may damage the ground surface.</p>
@@ -227,7 +226,7 @@ not permitted as they may damage the ground surface.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>How often is the CMPB football field maintained?</strong>
+<p><strong>How often is the football field maintained?</strong>
 </p>
 <p>SportSG maintains the football field daily to ensure its cleanliness.
 In addition, deep cleaning is conducted twice a year.</p>
@@ -236,7 +235,7 @@ In addition, deep cleaning is conducted twice a year.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Where can I find the nearest first aid kit to the CMPB football field?</strong>
+<p><strong>Where can I find the nearest first aid kit?</strong>
 </p>
 <p>SportSG wardens stationed at the football field will be equipped with
 a first aid kit.</p>
@@ -245,7 +244,7 @@ a first aid kit.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Where can I find the nearest Automated External Defibrillator (AED) to the CMPB football field?</strong>
+<p><strong>Where can I find the nearest Automated External Defibrillator (AED)?</strong>
 </p>
 <p>In case of emergencies, there is an AED at Level 1 of CMPB, Block 1 at
 the Fitness Conditioning Centre.</p>
