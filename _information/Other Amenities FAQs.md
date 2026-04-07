@@ -60,9 +60,11 @@ image: /images/Other_Amenities_FAQs.png
 <p>To apply for season parking, you may follow these steps:</p>
 <p>Download the LOTS App and enter your department name under the Company
 field.</p>
-<p>·&nbsp;&nbsp;&nbsp; App Store: <a href="https://apps.apple.com/sg/app/lots/id1621288913" rel="noopener noreferrer nofollow" target="_blank">https://apps.apple.com/sg/app/lots/id1621288913</a>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; App
+Store: <a href="https://apps.apple.com/sg/app/lots/id1621288913" rel="noopener noreferrer nofollow" target="_blank">https://apps.apple.com/sg/app/lots/id1621288913</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp; Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.anonymous.lotsapp&amp;hl=en_SG" rel="noopener noreferrer nofollow" target="_blank">https://play.google.com/store/apps/details?id=com.anonymous.lotsapp&amp;hl=en_SG</a>&nbsp;</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Google
+Play Store: <a href="https://play.google.com/store/apps/details?id=com.anonymous.lotsapp&amp;hl=en_SG" rel="noopener noreferrer nofollow" target="_blank">https://play.google.com/store/apps/details?id=com.anonymous.lotsapp&amp;hl=en_SG</a>&nbsp;</p>
 <p>Select “Purchase” for staff application. Prices shown exclude GST, and
 the full amount inclusive of GST will be displayed upon payment. After
 payment has been made, the season parking rate will take effect on the
@@ -80,9 +82,11 @@ start date.</p>
 <p>EV charging is available at CMPB lower deck carpark. There are 2 fast
 charging stations and 6 normal charging stations.</p>
 <p>You may download the Charge+ app:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; App Store: <a href="https://apps.apple.com/sg/app/charge/id1481750244" rel="noopener noreferrer nofollow" target="_blank">https://apps.apple.com/sg/app/charge/id1481750244</a>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; App
+Store: <a href="https://apps.apple.com/sg/app/charge/id1481750244" rel="noopener noreferrer nofollow" target="_blank">https://apps.apple.com/sg/app/charge/id1481750244</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.chargeplus.chargeapp&amp;pcampaignid=web_share" rel="noopener noreferrer nofollow" target="_blank">https://play.google.com/store/apps/details?id=com.chargeplus.chargeapp&amp;pcampaignid=web_share</a>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Google
+Play Store: <a href="https://play.google.com/store/apps/details?id=com.chargeplus.chargeapp&amp;pcampaignid=web_share" rel="noopener noreferrer nofollow" target="_blank">https://play.google.com/store/apps/details?id=com.chargeplus.chargeapp&amp;pcampaignid=web_share</a>
 </p>
 </li>
 </ul>
@@ -91,7 +95,41 @@ charging stations and 6 normal charging stations.</p>
 <details class="isomer-details">
 <summary>CMPB Meeting Facilities</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>What meeting facilities in CMPB are available for booking, and what equipment are provided?</strong>
+</p>
+<p>Meeting facilities of various sizes and configurations are available for
+booking, which include:</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discussion
+rooms: up to 6 pax</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Meeting
+Rooms (S): up to 12 pax</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Meeting
+Rooms (M): up to 24 pax</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Meeting
+Rooms (L): up to 40 pax</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Training
+Rooms: up to 24 pax*</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Boardroom:
+up to 36 pax</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Auditorium:
+up to 468 pax</p>
+<p>*Training rooms S5-7 and S5-8 can be combined to fit 48 pax.</p>
+<p>Please visit <a href="https://navi.defence.gov.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Navi</a> for
+more information on the equipment provided within the facilities and booking
+information for the CMPB auditorium.</p>
+<p>To book the other meeting facilities, you may do so via the MEX app, which
+can be accessed via <a href="https://employees.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://employees.defence.gov.sg/</a>.
+For ease of access, you may also wish to download the MEX app via the following
+links:</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; App
+Store: <a href="https://go.gov.sg/mexapple" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mexapple</a> &nbsp;&nbsp;&nbsp;</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Google
+Play Store: <a href="https://go.gov.sg/mexgoogle" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mexgoogle</a>
+</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
