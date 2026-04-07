@@ -87,6 +87,6 @@ need medications. &nbsp;</p>
 please schedule your appointment via <a href="https://safhealth.gov.sg/" class="chakra-link css-1g7zzw0" rel="noopener" target="_blank"><u>Manage Medical (eHealth) eService</u></a> or
 use <a href="https://www.ns.gov.sg/web" rel="noopener nofollow" target="_blank">OneNS Portal</a> under
 the section <strong>"Medical"</strong>. The same platforms can be used for
-rescheduling of appointments. &nbsp; &nbsp;</p>
+rescheduling appointments. &nbsp; &nbsp;</p>
 <p>If you have other questions or require assistance, please visit <a href="https://www.ns.gov.sg/web/contact-us" class="chakra-link css-1g7zzw0" rel="noopener" target="_blank"><u>OneNS | Contact Us</u></a>.</p>
 <p></p>
