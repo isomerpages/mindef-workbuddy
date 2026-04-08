@@ -145,8 +145,6 @@ the Fitness Conditioning Centre.</p>
 <details class="isomer-details">
 <summary>CMPB Meeting Facilities</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>What meeting facilities in CMPB are available for booking, and what equipment are provided?</strong>
 </p>
 <p>Meeting facilities of various sizes and configurations are available for
@@ -159,9 +157,7 @@ booking, which include:</p>
 <p>f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Boardroom: up to 36 pax</p>
 <p>g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Auditorium: up to 468 pax</p>
 <p>*Training rooms S5-7 and S5-8 can be combined to fit 48 pax.</p>
-<p>Please visit <a href="https://navi.defence.gov.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Navi</a> for
-more information on the equipment provided within the facilities and booking
-information for the CMPB auditorium.</p>
+<p></p>
 <p>To book the other meeting facilities, you may do so via <a href="https://employees.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MEX</a>.
 For ease of access, you may also wish to download the MEX app via the following
 links:</p>
@@ -169,8 +165,6 @@ links:</p>
 </p>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/mexgoogle" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a>
 </p>
-</li>
-</ul>
 </div>
 </details>
 <details class="isomer-details">
