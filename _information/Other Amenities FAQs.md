@@ -13,8 +13,6 @@ image: /images/Other_Amenities_FAQs.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_Bicycle_Parking_1.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Where can I park my bicycle?</strong>
 </p>
 <table style="minWidth: 50px">
@@ -57,8 +55,6 @@ centre (for cyclists entering via the Rail Corridor)</p>
 </table>
 <p>Please be reminded that bicycles are parked at your own risk, and MINDEF/SAF
 are not responsible for any loss/damages incurred to bicycles.</p>
-</li>
-</ul>
 </div>
 </details>
 <details class="isomer-details">
@@ -68,10 +64,10 @@ are not responsible for any loss/damages incurred to bicycles.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_Football_Field__10_.jpg">
 </div>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>What are the operating hours for the football field and how may I book it for use?</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>CMPB’s football field is open from 0800 to 1800 hours daily.</p>
 <p>As SportSG manages the booking system for the football field, booking
 slots are available on the <a href="https://activesg.gov.sg/" rel="noopener nofollow" target="_blank">My ActiveSG+ web-based platform</a>.
@@ -84,15 +80,13 @@ Slots are released 12 days in advance at 12pm (noon).</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unassigned Slots: Any remaining
 slots from unsuccessful ballots are released for public booking 12 days
 in advance at 12pm.</p>
-<p>Please visit <a href="https://navi.defence.gov.sg/#/login" rel="noopener noreferrer nofollow" target="_blank">Navi</a> for
-more booking information.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Where are the nearest food and beverage facilities in CMPB?</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>There are multiple food and beverage facilities available at Level 2 of
 CMPB Block 1: a food court, cafe and 24/7 unmanned convenience store. The
 food court and cafe operate from 0730 to 2200 hours daily.</p>
