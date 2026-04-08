@@ -83,20 +83,17 @@ in advance at 12pm.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Where are the nearest food and beverage facilities in CMPB?</strong>
-</p>
+<p><strong>Where are the nearest food and beverage facilities in CMPB?</strong>There
+are multiple food and beverage facilities available at Level 2 of CMPB
+Block 1: a food court, cafe and 24/7 unmanned convenience store. The food
+court and cafe operate from 0730 to 2200 hours daily.</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>There are multiple food and beverage facilities available at Level 2 of
-CMPB Block 1: a food court, cafe and 24/7 unmanned convenience store. The
-food court and cafe operate from 0730 to 2200 hours daily.</p>
-</li>
-</ul>
-<p></p>
 <p><strong>Are there shower facilities available?</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
+</li>
+</ul>
 <p>Yes. Shower facilities are located at Block 1, Level 1 of CMPB Fitness
 Conditioning Centre. Members of the public are not allowed to use the shower
 facilities during the following restricted timings:</p>
@@ -107,8 +104,6 @@ facilities during the following restricted timings:</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Saturday (0700 to 1200 hours, 1600
 to 2200 hours)</p>
 <p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sunday (0700 to 1200 hours)</p>
-</li>
-</ul>
 <p></p>
 <p><strong>Where are the nearest water coolers and water bottle refill stations?</strong>
 </p>
@@ -135,8 +130,8 @@ is conducted twice a year.</p>
 a first aid kit.</p>
 <p><strong>Where can I find the nearest Automated External Defibrillator (AED)?</strong>
 </p>
-<p>In case of emergencies, there is an AED at Level 1 of CMPB, Block 1 at
-the Fitness Conditioning Centre.</p>
+<p>In case of emergencies, there is an AED at Level</p>
+<p>1 of CMPB, Block 1 at the Fitness Conditioning Centre.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Map depicting AED/First-Aid Kit Locations near CMPB Football Field" src="/images/AED_at_CMPB_Football_Field.png">
 </div>
@@ -325,4 +320,5 @@ charging stations and 6 normal charging stations.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
