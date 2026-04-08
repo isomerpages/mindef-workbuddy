@@ -93,10 +93,10 @@ food court and cafe operate from 0730 to 2200 hours daily.</p>
 </li>
 </ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Are there shower facilities available?</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Yes. Shower facilities are located at Block 1, Level 1 of CMPB Fitness
 Conditioning Centre. Members of the public are not allowed to use the shower
 facilities during the following restricted timings:</p>
@@ -110,37 +110,25 @@ to 2200 hours)</p>
 </li>
 </ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Where are the nearest water coolers and water bottle refill stations?</strong>
 </p>
 <p>The nearest water coolers and water bottle refill stations can be found
 at Block 1, Level 1 of CMPB Fitness Conditioning Centre.</p>
-</li>
-</ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Why are there no floodlights which would be good for night training?</strong>
 </p>
 <p>There are no floodlights due to the proximity to residential developments.
 Hence, the football field is not available for bookings at night.</p>
-</li>
-</ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Am I allowed to play other sports at the football field?</strong>
 </p>
 <p>No. As the field surface is made of artificial turf, other sports are
 not permitted as they may damage the ground surface.</p>
-</li>
-</ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>How often is the football field maintained?</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>SportSG maintains the football field daily to ensure its cleanliness.
 In addition, deep cleaning is conducted twice a year.</p>
 </li>
