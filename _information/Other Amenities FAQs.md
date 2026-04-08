@@ -282,7 +282,7 @@ links:</p>
 </tbody>
 </table>
 <p>To apply for season parking, you may follow these steps:</p>
-<p>Download the LOTS App via the following links and enter your department
+<p>Download the LOTS app via the following links and enter your department
 name under the Company field.</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://apps.apple.com/sg/app/lots/id1621288913" rel="noopener noreferrer nofollow" target="_blank">App Store</a>
 </p>
@@ -292,14 +292,14 @@ name under the Company field.</p>
 the full amount inclusive of GST will be displayed upon payment. After
 payment has been made, the season parking rate will take effect on the
 start date.</p>
-<p>For more information on how to use the LOTS App, you may visit this
+<p>For more information on how to use the LOTS app, you may visit this
 <a href="https://qr.me-qr.com/DchssM9o" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
 <p></p>
 <p><strong>Is there Electric Vehicle (EV) charging at CMPB?</strong>
 </p>
 <p>EV charging is available at CMPB lower deck carpark. There are 2 fast
 charging stations and 6 normal charging stations.</p>
-<p>You may download the Charge+ app via the following links:</p>
+<p>You may download the CHARGE+ app via the following links:</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://apps.apple.com/sg/app/charge/id1481750244" rel="noopener noreferrer nofollow" target="_blank">App Store</a>
 </p>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://play.google.com/store/apps/details?id=com.chargeplus.chargeapp&amp;pcampaignid=web_share" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a>
