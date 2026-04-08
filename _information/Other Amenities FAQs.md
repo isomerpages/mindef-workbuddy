@@ -72,9 +72,9 @@ slots are available on the <a href="https://activesg.gov.sg/" rel="noopener nofo
 Facility slots are typically released 14 days in advance.</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peak Hours (Balloting): Slots open for
 balloting 14 days in advance at 12am. You have until 11.59pm that same
-day to submit a ballot.b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non-Peak Hours
-(First-Come, First-Served): Slots are released 12 days in advance at 12pm
-(noon).</p>
+day to submit a ballot.</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non-Peak Hours (First-Come, First-Served):
+Slots are released 12 days in advance at 12pm (noon).</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unassigned Slots: Any remaining
 slots from unsuccessful ballots are released for public booking 12 days
 in advance at 12pm.</p>
