@@ -66,23 +66,19 @@ are not responsible for any loss/damages incurred to bicycles.</p>
 </div>
 <p><strong>What are the operating hours for the football field and how may I book it for use?</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
 <p>CMPB’s football field is open from 0800 to 1800 hours daily.</p>
 <p>As SportSG manages the booking system for the football field, booking
 slots are available on the <a href="https://activesg.gov.sg/" rel="noopener nofollow" target="_blank">My ActiveSG+ web-based platform</a>.
 Facility slots are typically released 14 days in advance.</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peak Hours (Balloting): Slots open for
 balloting 14 days in advance at 12am. You have until 11.59pm that same
-day to submit a ballot.</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non-Peak Hours (First-Come, First-Served):
-Slots are released 12 days in advance at 12pm (noon).</p>
+day to submit a ballot.b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non-Peak Hours
+(First-Come, First-Served): Slots are released 12 days in advance at 12pm
+(noon).</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unassigned Slots: Any remaining
 slots from unsuccessful ballots are released for public booking 12 days
 in advance at 12pm.</p>
 <p></p>
-</li>
-</ul>
 <p><strong>Where are the nearest food and beverage facilities in CMPB?</strong>There
 are multiple food and beverage facilities available at Level 2 of CMPB
 Block 1: a food court, cafe and 24/7 unmanned convenience store. The food
