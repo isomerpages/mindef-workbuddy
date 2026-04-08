@@ -79,10 +79,11 @@ day to submit a ballot.b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non-Peak Hours
 slots from unsuccessful ballots are released for public booking 12 days
 in advance at 12pm.</p>
 <p></p>
-<p><strong>Where are the nearest food and beverage facilities in CMPB?</strong>There
-are multiple food and beverage facilities available at Level 2 of CMPB
-Block 1: a food court, cafe and 24/7 unmanned convenience store. The food
-court and cafe operate from 0730 to 2200 hours daily.</p>
+<p><strong>Where are the nearest food and beverage facilities in CMPB?</strong>
+</p>
+<p>There are multiple food and beverage facilities available at Level 2 of
+CMPB Block 1: a food court, cafe and 24/7 unmanned convenience store. The
+food court and cafe operate from 0730 to 2200 hours daily.</p>
 <p></p>
 <p><strong>Are there shower facilities available?</strong>
 </p>
