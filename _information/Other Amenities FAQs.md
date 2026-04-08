@@ -170,8 +170,6 @@ links:</p>
 <details class="isomer-details">
 <summary>MINDEF IT Concierges</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Where are the MINDEF IT Concierges located and what are the operating hours?</strong>
 </p>
 <p>The IT Concierge can be found at the following locations:</p>
@@ -220,10 +218,7 @@ links:</p>
 </tr>
 </tbody>
 </table>
-<p>Please visit <a href="https://navi.defence.gov.sg/#/login" rel="noopener noreferrer nofollow" target="_blank"><u>Navi</u></a> for
-more information on the exact locations of the IT Concierges.</p>
-</li>
-</ul>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
