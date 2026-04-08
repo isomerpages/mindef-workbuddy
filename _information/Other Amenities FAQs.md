@@ -240,8 +240,6 @@ links:</p>
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>What are the parking charges at CMPB?</strong>
 </p>
 <table style="minWidth: 75px">
@@ -301,11 +299,7 @@ payment has been made, the season parking rate will take effect on the
 start date.</p>
 <p>For more information on how to use the LOTS App, you may visit this
 <a href="https://qr.me-qr.com/DchssM9o" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
-</li>
-</ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Is there Electric Vehicle (EV) charging at CMPB?</strong>
 </p>
 <p>EV charging is available at CMPB lower deck carpark. There are 2 fast
@@ -315,8 +309,6 @@ charging stations and 6 normal charging stations.</p>
 </p>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://play.google.com/store/apps/details?id=com.chargeplus.chargeapp&amp;pcampaignid=web_share" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a>
 </p>
-</li>
-</ul>
 </div>
 </details>
 </div>
