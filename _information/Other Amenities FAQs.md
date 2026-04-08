@@ -148,7 +148,7 @@ booking, which include:</p>
 <p>g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Auditorium: up to 468 pax</p>
 <p>*Training rooms S5-7 and S5-8 can be combined to fit 48 pax.</p>
 <p></p>
-<p>To book the other meeting facilities, you may do so via <a href="https://employees.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MEX</a>.
+<p>For booking of meeting facilities, you may do so via <a href="https://employees.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MEX</a>.
 For ease of access, you may also wish to download the MEX app via the following
 links:</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/mexapple" rel="noopener noreferrer nofollow" target="_blank">App Store</a>
