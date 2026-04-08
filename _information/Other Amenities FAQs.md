@@ -125,26 +125,14 @@ Hence, the football field is not available for bookings at night.</p>
 <p>No. As the field surface is made of artificial turf, other sports are
 not permitted as they may damage the ground surface.</p>
 <p></p>
-<p><strong>How often is the football field maintained?</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>SportSG maintains the football field daily to ensure its cleanliness.
-In addition, deep cleaning is conducted twice a year.</p>
-</li>
-</ul>
+<p><strong>How often is the football field maintained?</strong>SportSG maintains
+the football field daily to ensure its cleanliness. In addition, deep cleaning
+is conducted twice a year.</p>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Where can I find the nearest first aid kit?</strong>
 </p>
 <p>SportSG wardens stationed at the football field will be equipped with
 a first aid kit.</p>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Where can I find the nearest Automated External Defibrillator (AED)?</strong>
 </p>
 <p>In case of emergencies, there is an AED at Level 1 of CMPB, Block 1 at
@@ -152,8 +140,6 @@ the Fitness Conditioning Centre.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Map depicting AED/First-Aid Kit Locations near CMPB Football Field" src="/images/AED_at_CMPB_Football_Field.png">
 </div>
-</li>
-</ul>
 </div>
 </details>
 <details class="isomer-details">
