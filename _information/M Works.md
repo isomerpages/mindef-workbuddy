@@ -138,7 +138,7 @@ more details</p>
 <p>Network Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Available, see <a href="https://book.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
+<p>Available, see <a href="https://app.workpal.gov.sg/" rel="noopener nofollow" target="_blank">Workpal </a>for
 more details</p>
 </td>
 </tr>
@@ -245,7 +245,7 @@ more details</p>
 <p>Network Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Available, see <a href="https://book.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Book</u></a> for
+<p>Available, see <a href="https://app.workpal.gov.sg/" rel="noopener nofollow" target="_blank">Workpal </a>for
 more details</p>
 </td>
 </tr>
@@ -345,7 +345,7 @@ more details</p>
 <p>Network Terminals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Available, see <a href="https://book.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Book</a> for
+<p>Available, see <a href="https://app.workpal.gov.sg/" rel="noopener nofollow" target="_blank">Workpal </a>for
 more details</p>
 </td>
 </tr>
