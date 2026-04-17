@@ -4,6 +4,7 @@ permalink: /general-faqs/regional-health-hubs/
 variant: tiptap
 description: ""
 ---
+<h1><strong>CMPB Regional Health Hub</strong></h1>
 <h2>General Visitor Information</h2>
 <ul data-tight="true" class="tight">
 <li>
