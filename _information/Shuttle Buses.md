@@ -285,6 +285,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>CMPB</p>
+<p>Please note that the shuttle service ends at 1430hrs at CMPB.</p>
 </td>
 </tr>
 </tbody>
