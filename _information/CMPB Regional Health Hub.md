@@ -4,58 +4,6 @@ permalink: /general-faqs/cmpb-regional-health-hub/
 variant: tiptap
 description: ""
 ---
-<h2>Announcements</h2>
-<p>From July 2025, all medical services previously provided at the following
-locations have been consolidated and provided exclusively at the <strong>CMPB Regional Health Hub (RHH)</strong>:&nbsp;
-&nbsp;</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Location</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Last day of operations</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>MINDEF Medical Centre, MINDEF Dental Centre</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Blk 308, Gombak Drive, Bukit Panjang Camp&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>04 Jul 2025&nbsp; &nbsp;</p>
-</td>
-</tr>
-<tr></tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dental Centre, SAF HSP Centre, Kent Ridge Medical Centre, Specialist Services,
-Medical Boards and the Service Injury Assessment Clinic, PCC-Psychology
-and Psychiatry services, SAF Physiotherapy Centre&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Blk 27, Medical Drive, DSO Building&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11 Jul 2025</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>We seek your understanding and cooperation during this transition.</p>
 <h2>General Visitor Information</h2>
 <ul data-tight="true" class="tight">
 <li>
