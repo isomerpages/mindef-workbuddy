@@ -34,7 +34,8 @@ description: ""
 signs to RHH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://location.cmpb.gov.sg/locate-us/" rel="noopener nofollow" target="_blank">Directions to CMPB</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -46,25 +47,13 @@ signs to RHH</p>
 688248&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://maps.app.goo.gl/tQLJrUSdaqLwyfxJ8" class="chakra-link css-1g7zzw0" rel="noopener" target="_blank"><u>Google Maps link to Kranji Camp III entrance</u></a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
-<p>Located at CMPB, 91 Hillview Link, Singapore 669723</p>
-</li>
-<li>
-<p>Proceed to Level 2, Block 2 for security screening, then follow directional
-signs to Regional Health Hub</p>
-</li>
-</ul>
-<p><strong><a href="https://location.cmpb.gov.sg/locate-us/" rel="noopener nofollow" target="_blank">Directions to CMPB</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_map.png">
-</div>
+<p></p>
 <h2>Opening Hours</h2>
 <div class="isomer-image-wrapper">
 <img style="border-width: 0px; border-style: none; box-sizing: border-box; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: rgb(226, 232, 240); margin: 0px;" height="auto" width="100%" alt="CMPB RHH" src="https://s3.ap-southeast-1.amazonaws.com/images.form.gov.sg/687f912fba1303591286c745-687f8eee25cdf21ee0569f9e-1753190702288-weedays%202.png">
