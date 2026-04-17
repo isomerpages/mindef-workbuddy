@@ -4,8 +4,53 @@ permalink: /general-faqs/regional-health-hubs/
 variant: tiptap
 description: ""
 ---
-<h1><strong>CMPB Regional Health Hub</strong></h1>
 <h2>General Visitor Information</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Locations</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Address</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Directions</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CMPB Regional Health Hub (RHH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CMPB, 91 Hillview Link, Singapore 669723</p>
+<p></p>
+<p>Proceed to Level 2, Block 2 for security screening, then follow directional
+signs to RHH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kranji Regional Health Hub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kranji Camp III Block 841&nbsp; 151 Choa Chu Kang Way&nbsp; Singapore
+688248&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <ul data-tight="true" class="tight">
 <li>
 <p>Located at CMPB, 91 Hillview Link, Singapore 669723</p>
