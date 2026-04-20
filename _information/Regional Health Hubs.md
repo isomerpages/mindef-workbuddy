@@ -130,7 +130,7 @@ to access KRHH.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>KRHH</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -143,9 +143,6 @@ Programme (HSP) and FFI</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Psychological Care Centre (PCC) - Level 1 &amp; 2</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,9 +150,6 @@ Programme (HSP) and FFI</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Radiology - Level 2</strong>&nbsp;</p>
 </td>
@@ -165,35 +159,10 @@ Programme (HSP) and FFI</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Dental Centre - Level 2</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dental Screening and Treatment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
