@@ -64,8 +64,7 @@ signs to RHH</p>
 <tbody>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>CMPB RHH</strong>
-</p>
+<p>CMPB RHH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon to Thu</p>
@@ -90,8 +89,8 @@ signs to RHH</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>KRHH</strong>
-</p>
+<p>KRHH</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
 <p>KRHH operates 24 hours daily. Clearance into Kranji Camp III is required
