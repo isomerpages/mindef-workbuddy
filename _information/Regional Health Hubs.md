@@ -119,14 +119,48 @@ to access KRHH.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="5" colspan="1">
 <p>CMPB RHH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Medical Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary Healthcare, Reporting Sick, Medical Reviews, Health Screening
+Programme (HSP)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Specialist Clinic A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eye, Otolaryngology (ear, nose and throat), Dermatology (skin), Orthopaedics
+(skeletal), Occupational Health, medical Board and Service Injury</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Specialist Clinic B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Psychology and Pscyhiatry services</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dental Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dental screening and treatment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physiotherapy Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physiotherapy, fucntional tests, fitness-related services</p>
 </td>
 </tr>
 <tr>
@@ -134,7 +168,7 @@ to access KRHH.</p>
 <p>KRHH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Medical Centre - Level 1</strong>&nbsp;</p>
+<p>Medical Centre - Level 1&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary Healthcare, Reporting Sick, Medical Reviews, Health Screening
@@ -143,7 +177,7 @@ Programme (HSP) and FFI</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Psychological Care Centre (PCC) - Level 1 &amp; 2</strong>&nbsp;</p>
+<p>Psychological Care Centre (PCC) - Level 1 &amp; 2&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Psychology and Psychiatry Services</p>
@@ -151,7 +185,7 @@ Programme (HSP) and FFI</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Radiology - Level 2</strong>&nbsp;</p>
+<p>Radiology - Level 2&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>X-ray Services</p>
@@ -159,10 +193,10 @@ Programme (HSP) and FFI</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dental Centre - Level 2</strong>&nbsp;</p>
+<p>Dental Centre - Level 2&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dental Screening and Treatment</p>
+<p>Dental screening and treatment</p>
 </td>
 </tr>
 <tr>
