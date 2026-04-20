@@ -206,9 +206,6 @@ Programme (HSP) and FFI</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="border-width: 0px; border-style: none; box-sizing: border-box; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: rgb(226, 232, 240); margin: 0px;" height="auto" width="100%" alt="CMPB Regional Health Hub Services" src="https://s3.ap-southeast-1.amazonaws.com/images.form.gov.sg/6880108bfe8aec432370181a-687f8eee25cdf21ee0569f9e-1753223304433-services%203.png">
-</div>
 <p></p>
 <p><strong>Walk-in consultation</strong> is available if you feel unwell and
 need medications. &nbsp;</p>
