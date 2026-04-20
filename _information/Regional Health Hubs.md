@@ -40,7 +40,7 @@ signs to RHH</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kranji Regional Health Hub</p>
+<p>Kranji Regional Health Hub (KRHH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kranji Camp III Block 841&nbsp; 151 Choa Chu Kang Way&nbsp; Singapore
@@ -89,7 +89,7 @@ signs to RHH</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kranji RHH</p>
+<p>KRHH</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>KRHH operates 24 hours daily. Clearance into Kranji Camp III is required
@@ -100,9 +100,8 @@ to access KRHH.</p>
 </table>
 <h2>Clinical Services</h2>
 <p>The clinical services are offered at the respective clinics listed below:</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -112,18 +111,12 @@ to access KRHH.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<p>Clinical Services</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>CMPB RHH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -131,13 +124,34 @@ to access KRHH.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>KRHH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Medical Centre - Level 1</strong>&nbsp; Primary Healthcare, Reporting
+Sick, Medical Reviews, Health Screening Programme (HSP) and FFI</p>
+<p><strong>Psychological Care Centre (PCC) - Level 1 &amp; 2</strong>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Psychology and Psychiatry Services</p>
+</li>
+</ul>
+<p><strong>Radiology - Level 2</strong>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>X-ray Services</p>
+</li>
+</ul>
+<p><strong>Dental Centre - Level 2</strong>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dental Screening and Treatment</p>
+</li>
+</ul>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>To ensure a smooth experience, please <u>arrive 15 minutes early</u> for your appointment and bring along your NRIC or 11B for registration. Please also note that if you arrive after your scheduled appointment time, you may be turned away.</em>&nbsp;</p>
 </td>
 </tr>
 </tbody>
