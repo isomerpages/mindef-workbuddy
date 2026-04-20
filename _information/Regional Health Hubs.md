@@ -100,8 +100,9 @@ to access KRHH.</p>
 </table>
 <h2>Clinical Services</h2>
 <p>The clinical services are offered at the respective clinics listed below:</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -109,6 +110,9 @@ to access KRHH.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Locations</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Clinical Services</p>
@@ -121,36 +125,79 @@ to access KRHH.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>KRHH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Medical Centre - Level 1</strong>&nbsp; Primary Healthcare, Reporting
-Sick, Medical Reviews, Health Screening Programme (HSP) and FFI</p>
-<p><strong>Psychological Care Centre (PCC) - Level 1 &amp; 2</strong>&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Psychology and Psychiatry Services</p>
-</li>
-</ul>
-<p><strong>Radiology - Level 2</strong>&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>X-ray Services</p>
-</li>
-</ul>
-<p><strong>Dental Centre - Level 2</strong>&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Dental Screening and Treatment</p>
-</li>
-</ul>
+<p><strong>Medical Centre - Level 1</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary Healthcare, Reporting Sick, Medical Reviews, Health Screening
+Programme (HSP) and FFI</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Psychological Care Centre (PCC) - Level 1 &amp; 2</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Psychology and Psychiatry Services</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Radiology - Level 2</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>X-ray Services</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dental Centre - Level 2</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dental Screening and Treatment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p><em>To ensure a smooth experience, please <u>arrive 15 minutes early</u> for your appointment and bring along your NRIC or 11B for registration. Please also note that if you arrive after your scheduled appointment time, you may be turned away.</em>&nbsp;</p>
 </td>
 </tr>
