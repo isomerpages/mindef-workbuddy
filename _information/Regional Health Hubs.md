@@ -136,7 +136,7 @@ Programme (HSP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Eye, Otolaryngology (ear, nose and throat), Dermatology (skin), Orthopaedics
-(skeletal), Occupational Health, medical Board and Service Injury</p>
+(skeletal), Occupational Health, Medical Board and Service Injury</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@ Programme (HSP)</p>
 <p>Specialist Clinic B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Psychology and Pscyhiatry services</p>
+<p>Psychology and Psychiatry services</p>
 </td>
 </tr>
 <tr>
