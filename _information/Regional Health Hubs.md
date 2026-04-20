@@ -83,7 +83,7 @@ signs to RHH</p>
 <td rowspan="1" colspan="1">
 <p>8.00am to 12.00pm (Last registration for appointments is at 11.30am)</p>
 <p></p>
-<p>1.30pm to 5.00pm (Last registration for appointments i at 4.30pm)</p>
+<p>1.30pm to 5.00pm (Last registration for appointments is at 4.30pm)</p>
 <p></p>
 </td>
 </tr>
