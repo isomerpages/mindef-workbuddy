@@ -20,7 +20,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="/general-faqs/regional-health-hubs" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RHH" src="/images/RHH3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="RHH" src="/images/Screenshot_2026_04_20_125611.png">
 </div>
 </div>
 <div class="isomer-card-body">
