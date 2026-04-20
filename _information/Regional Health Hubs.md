@@ -55,6 +55,49 @@ signs to RHH</p>
 </table>
 <p></p>
 <h2>Opening Hours</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p>CMPB RHH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon to Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.00am to 12.00pm (Last registration for appointments is at 11.30am)</p>
+<p></p>
+<p>1.30pm to 5.30pm (Last registration for appointments is at 5.00pm)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.00am to 12.00pm (Last registration for appointments is at 11.30am)</p>
+<p></p>
+<p>1.30pm to 5.00pm (Last registration for appointments i at 4.30pm)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kranji RHH</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>KRHH operates 24 hours daily. Clearance into Kranji Camp III is required
+to access KRHH.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="border-width: 0px; border-style: none; box-sizing: border-box; overflow-wrap: break-word; display: block; max-width: 100%; height: auto; border-color: rgb(226, 232, 240); margin: 0px;" height="auto" width="100%" alt="CMPB RHH" src="https://s3.ap-southeast-1.amazonaws.com/images.form.gov.sg/687f912fba1303591286c745-687f8eee25cdf21ee0569f9e-1753190702288-weedays%202.png">
 </div>
