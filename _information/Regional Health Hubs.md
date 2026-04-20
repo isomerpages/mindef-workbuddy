@@ -160,7 +160,7 @@ Programme (HSP)</p>
 <p>Physiotherapy Services</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Physiotherapy, fucntional tests, fitness-related services</p>
+<p>Physiotherapy, functional tests, fitness-related services</p>
 </td>
 </tr>
 <tr>
