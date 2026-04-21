@@ -29,7 +29,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>CMPB, 91 Hillview Link, Singapore 669723</p>
-<p></p>
 <p>Proceed to Level 2, Block 2 for security screening, then follow directional
 signs to RHH</p>
 </td>
@@ -43,8 +42,8 @@ signs to RHH</p>
 <p>Kranji Regional Health Hub (KRHH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kranji Camp III Block 841&nbsp; 151 Choa Chu Kang Way&nbsp; Singapore
-688248&nbsp;</p>
+<p>Kranji Camp III Block 841&nbsp;</p>
+<p>151 Choa Chu Kang Way&nbsp; Singapore 688248&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://maps.app.goo.gl/tQLJrUSdaqLwyfxJ8" class="chakra-link css-1g7zzw0" rel="noopener" target="_blank"><u>Google Maps link to Kranji Camp III entrance</u></a>
