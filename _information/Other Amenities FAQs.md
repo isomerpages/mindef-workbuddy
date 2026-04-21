@@ -88,8 +88,8 @@ food court and cafe operate from 0730 to 2200 hours daily.</p>
 <p><strong>Are there shower facilities available?</strong>
 </p>
 <p>Yes. Shower facilities are located at Block 1, Level 1 of CMPB Fitness
-Conditioning Centre. Members of the public are not allowed to use the shower
-facilities during the following restricted timings:</p>
+Conditioning Centre. Shower facilities are not available for use during
+the following restricted timings:</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monday, Tuesday, and Thursday (1600 to
 2200 hours)</p>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wednesday (0700 to 1300 hours, 1600 to
