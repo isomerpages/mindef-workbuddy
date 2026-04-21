@@ -17,14 +17,14 @@ description: ""
 <div class="isomer-card-link">Find resources and opening hours</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/general-faqs/corp-passes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Corporate Passes" src="/images/SAFPSC_image.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Corporate Passes FAQs</div><div class="isomer-card-link">FAQs about corporate passes</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/general-faqs/cmpb-regional-health-hub/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/general-faqs/regional-health-hubs" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RHH" src="/images/RHH3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="RHH" src="/images/RHH_X_KRHH_.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">CMPB Regional Health Hub</div>
+<div class="isomer-card-title">Regional Health Hubs</div>
 <div class="isomer-card-link">Find visitor information and clinical services</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://workbuddy.defence.gov.sg/general-faqs/other-amenities-faqs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image of Football Field, carpark entrances and bicycle parking spaces within CMPB" src="/images/other amenities faqs.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Other Amenities FAQs</div><div class="isomer-card-link">Parking in CMPB, MINDEF IT Concierges, and more</div></div></a>
