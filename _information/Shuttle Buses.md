@@ -36,8 +36,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1000hrs</strong>
-</p>
+<p><strong>1000hrs </strong>(Departs from Cashew MRT at 1000hrs and ends
+at M-Annex Foyer)</p>
 </td>
 </tr>
 <tr>
@@ -110,8 +110,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1130hrs</strong>
-</p>
+<p><strong>1130hrs </strong>(Departs from CMPB at 1130hrs and ends at M-Annex
+Foyer)</p>
 </td>
 </tr>
 <tr>
