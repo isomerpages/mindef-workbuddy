@@ -78,6 +78,8 @@ Slots are released 12 days in advance at 12pm (noon).</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unassigned Slots: Any remaining
 slots from unsuccessful ballots are released for public booking 12 days
 in advance at 12pm.</p>
+<p>Please visit <a href="https://navi.defence.gov.sg/#/login" rel="noopener noreferrer nofollow" target="_blank">Navi</a> for
+more booking information.</p>
 <p></p>
 <p><strong>Where are the nearest food and beverage facilities in CMPB?</strong>
 </p>
@@ -147,14 +149,18 @@ booking, which include:</p>
 <p>f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Boardroom: up to 36 pax</p>
 <p>g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Auditorium: up to 468 pax</p>
 <p>*Training rooms S5-7 and S5-8 can be combined to fit 48 pax.</p>
-<p></p>
-<p>For booking of meeting facilities, you may do so via <a href="https://employees.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MEX</a>.
+<p>
+<br>For booking of meeting facilities, you may do so via <a href="https://employees.defence.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MEX</u></a>.
 For ease of access, you may also wish to download the MEX app via the following
 links:</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/mexapple" rel="noopener noreferrer nofollow" target="_blank">App Store</a>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/mexapple" rel="noopener noreferrer nofollow" target="_blank"><u>App Store</u></a>
 </p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/mexgoogle" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/mexgoogle" rel="noopener noreferrer nofollow" target="_blank"><u>Google Play Store</u></a>
 </p>
+<p></p>
+<p>Please visit <a href="https://navi.defence.gov.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Navi</a> for
+more information on the equipment provided within the facilities and booking
+information for the CMPB auditorium.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -208,7 +214,8 @@ links:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Please visit <a href="https://navi.defence.gov.sg/#/login" rel="noopener noreferrer nofollow" target="_blank">Navi</a> for
+more information on the exact locations of the IT Concierges.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -307,5 +314,6 @@ charging stations and 6 normal charging stations.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>
