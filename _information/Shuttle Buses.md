@@ -257,7 +257,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1430hrs </strong>
+<p><strong>1430hrs (ends at CMPB)</strong>
 </p>
 </td>
 </tr>
