@@ -184,8 +184,8 @@ Foyer)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1415hrs</strong>
-</p>
+<p><strong>1415hrs </strong>(Departs from MINDEF Taxi Stand at 1415hrs and
+ends at MINDEF Pass Office)</p>
 </td>
 </tr>
 <tr>
@@ -312,8 +312,8 @@ on the eves of Christmas, New Year and Lunar New Year.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2130hrs (Fri: 2100hrs)</strong>
-</p>
+<p><strong>2130hrs (Fri: 2100hrs) </strong>(Departs from M-Annex Foyer at
+2130hrs/2100hrs and ends at Cashew MRT)</p>
 </td>
 </tr>
 <tr>
