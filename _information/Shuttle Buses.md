@@ -374,8 +374,8 @@ on the eves of Christmas, New Year and Lunar New Year.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>0830hrs</strong>
-</p>
+<p><strong>0830hrs </strong>(Departs from HarbourFront MRT at 0830hrs and
+ends at Depot Road Camp)</p>
 </td>
 </tr>
 <tr>
@@ -427,8 +427,8 @@ on the eves of Christmas, New Year and Lunar New Year.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1345hrs</strong>
-</p>
+<p><strong>1345hrs </strong>(Departs from DTTA at 1345hrs and ends at Depot
+Heights Shopping Centre)</p>
 </td>
 </tr>
 <tr>
@@ -490,8 +490,8 @@ on the eves of Christmas, New Year and Lunar New Year.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1820hrs</strong>
-</p>
+<p><strong>1820hrs </strong>(Departs from Depot Road Camp at 1820hrs and
+ends at HarbourFront MRT)</p>
 </td>
 </tr>
 <tr>
