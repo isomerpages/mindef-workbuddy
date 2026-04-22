@@ -127,8 +127,8 @@ a first aid kit.</p>
 <p></p>
 <p><strong>Where can I find the nearest Automated External Defibrillator (AED)?</strong>
 </p>
-<p>In case of emergencies, there is an AED at Level 1 of CMPB, Block 1 at
-the Fitness Conditioning Centre.</p>
+<p>In case of emergencies, there is an AED at Block 1, Level 1 of CMPB Fitness
+Conditioning Centre.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Map depicting AED/First-Aid Kit Locations near CMPB Football Field" src="/images/AED_at_CMPB_Football_Field.png">
 </div>
