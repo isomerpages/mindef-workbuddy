@@ -257,8 +257,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1430hrs</strong>
-</p>
+<p><strong>1430hrs </strong>(Departs from M-Annex at 1430hrs and ends at
+CMPB)</p>
 </td>
 </tr>
 <tr>
