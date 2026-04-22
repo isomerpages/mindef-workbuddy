@@ -99,7 +99,8 @@ to access KRHH.</p>
 </tbody>
 </table>
 <h2>Clinical Services</h2>
-<p>The clinical services are offered at the respective clinics listed below:</p>
+<p>The clinical services that are offered at the respective clinics are listed
+below:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

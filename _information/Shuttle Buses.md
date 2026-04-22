@@ -36,8 +36,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1000hrs</strong>
-</p>
+<p><strong>1000hrs </strong>(Departs from Cashew MRT at 1000hrs and ends
+at M-Annex Foyer)</p>
 </td>
 </tr>
 <tr>
@@ -110,8 +110,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1130hrs</strong>
-</p>
+<p><strong>1130hrs </strong>(Departs from CMPB at 1130hrs and ends at M-Annex
+Foyer)</p>
 </td>
 </tr>
 <tr>
@@ -184,8 +184,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1415hrs</strong>
-</p>
+<p><strong>1415hrs </strong>(Departs from MINDEF Taxi Stand at 1415hrs and
+ends at MINDEF Pass Office)</p>
 </td>
 </tr>
 <tr>
@@ -257,8 +257,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1430hrs</strong>
-</p>
+<p><strong>1430hrs </strong>(Departs from M-Annex at 1430hrs and ends at
+CMPB)</p>
 </td>
 </tr>
 <tr>
@@ -312,8 +312,8 @@ on the eves of Christmas, New Year and Lunar New Year.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2130hrs (Fri: 2100hrs)</strong>
-</p>
+<p><strong>2130hrs (Fri: 2100hrs) </strong>(Departs from M-Annex Foyer at
+2130hrs/2100hrs and ends at Cashew MRT)</p>
 </td>
 </tr>
 <tr>
@@ -374,8 +374,8 @@ on the eves of Christmas, New Year and Lunar New Year.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>0830hrs</strong>
-</p>
+<p><strong>0830hrs </strong>(Departs from HarbourFront MRT at 0830hrs and
+ends at Depot Road Camp)</p>
 </td>
 </tr>
 <tr>
@@ -427,8 +427,8 @@ on the eves of Christmas, New Year and Lunar New Year.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1345hrs</strong>
-</p>
+<p><strong>1345hrs </strong>(Departs from DTTA at 1345hrs and ends at Depot
+Heights Shopping Centre)</p>
 </td>
 </tr>
 <tr>
@@ -490,8 +490,8 @@ on the eves of Christmas, New Year and Lunar New Year.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1820hrs</strong>
-</p>
+<p><strong>1820hrs </strong>(Departs from Depot Road Camp at 1820hrs and
+ends at HarbourFront MRT)</p>
 </td>
 </tr>
 <tr>
