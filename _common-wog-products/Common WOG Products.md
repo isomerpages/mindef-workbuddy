@@ -7,7 +7,7 @@ description: ""
 <p>Please note when logging in to use WOG products:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>WOG AD login is only available for users on DWP / COMET.</p>
+<p>WOG AD login is only available for users on COMET/ DWP.</p>
 </li>
 <li>
 <p>Singpass login is not available for MINDEF/SAF users.</p>
@@ -60,5 +60,11 @@ classified and sensitive data.</p>
 <hr>
 <h2><a href="https://sso.engagerocket.co/sggov" rel="noopener nofollow" target="_blank">Engagement System 2 (ES2)</a></h2>
 <h4><strong>Access to Organisational Climate Survey 25 (OCS25) reports</strong></h4>
-<p>Only accessible to MINDEF/SAF Entity Heads</p>
+<p>Only accessible to MINDEF/SAF Entity Heads.</p>
+<hr>
+<h2><a href="https://form.gov.sg/69dcbe0b414be703b0cf0287" rel="noopener nofollow" target="_blank">WOG Product Concierge (WPC) Resource Portal</a></h2>
+<h4><strong>Find out more about using WOG digital tools</strong></h4>
+<p>Discover compliant, cost-effective WOG digital tools that supercharge
+productivity and streamline operations in MINDEF/SAF.</p>
+<p>Only accessible on work devices.</p>
 <p></p>
