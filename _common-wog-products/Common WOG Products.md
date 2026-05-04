@@ -63,7 +63,7 @@ classified and sensitive data.</p>
 <p>Only accessible to MINDEF/SAF Entity Heads</p>
 <hr>
 <h2><a href="https://form.gov.sg/69dcbe0b414be703b0cf0287" rel="noopener nofollow" target="_blank">WOG Product Concierge (WPC) Resource Portal</a></h2>
-<h4><strong>Find information about using WOG digital tools in MINDEF/SAF</strong></h4>
+<h4><strong>Find out more on using WOG digital tools </strong></h4>
 <p>Discover compliant, cost-effective WOG digital tools that supercharge
 productivity and streamline operations in MINDEF/SAF.</p>
 <p></p>
