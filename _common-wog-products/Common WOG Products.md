@@ -66,4 +66,5 @@ classified and sensitive data.</p>
 <h4><strong>Find out more about using WOG digital tools</strong></h4>
 <p>Discover compliant, cost-effective WOG digital tools that supercharge
 productivity and streamline operations in MINDEF/SAF.</p>
+<p>Only accessible on work devices.</p>
 <p></p>
