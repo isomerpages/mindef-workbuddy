@@ -57,5 +57,7 @@ links:
         url: /common-wog-products/postman-faqs/
       - title: ES2 (Entity heads only)
         url: https://sso.engagerocket.co/sggov
+      - title: WPC Resource Portal
+        url: https://form.gov.sg/69dcbe0b414be703b0cf0287
   - title: Feedback
     url: https://go.gov.sg/mindefempfeedback
