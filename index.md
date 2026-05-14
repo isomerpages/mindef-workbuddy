@@ -4,15 +4,13 @@ title: WorkBuddy
 description: MINDEF/SAF Employee landing page
 image: /images/shareicon.png
 permalink: /
-notification: The Book app has ceased operations on 31 Mar. All resource
-  bookings must now be made through the Workpal mobile app. See FAQs on Workpal
-  under "Employee Services"
+notification: ""
 sections:
   - hero:
       title: WorkBuddy
       subtitle: For MINDEF/SAF Employees
       background: /images/ns_hub_cropped.jpg
-      variant: center
+      variant: side
       key_highlights:
         - title: Employee Information
           description: Find useful information
@@ -26,4 +24,5 @@ sections:
         - title: PayFlow
           description: Access PayFlow services
           url: /employee-services/#:~:text=PayFlow
+      backgroundColor: gray
 ---
