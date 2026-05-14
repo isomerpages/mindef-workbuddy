@@ -12,7 +12,7 @@ sections:
       title: WorkBuddy
       subtitle: For MINDEF/SAF Employees
       background: /images/ns_hub_cropped.jpg
-      variant: center
+      variant: side
       key_highlights:
         - title: Employee Information
           description: Find useful information
@@ -26,4 +26,5 @@ sections:
         - title: PayFlow
           description: Access PayFlow services
           url: /employee-services/#:~:text=PayFlow
+      backgroundColor: gray
 ---
