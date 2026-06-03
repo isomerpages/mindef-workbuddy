@@ -4,7 +4,8 @@ title: WorkBuddy
 description: MINDEF/SAF Employee landing page
 image: /images/shareicon.png
 permalink: /
-notification: ""
+notification: WorkBuddy will undergo a system refresh on 11 Jun from 8pm-12am
+  and may be temporarily unavailable.
 sections:
   - hero:
       title: WorkBuddy
