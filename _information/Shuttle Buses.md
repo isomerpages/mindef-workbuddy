@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>Shuttle bus timings</h2>
+<p>Please note that the bus arrival frequencies are subject to traffic conditions.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Gombak Precinct</summary>
